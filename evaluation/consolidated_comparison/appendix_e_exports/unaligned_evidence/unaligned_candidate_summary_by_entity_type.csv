@@ -1,0 +1,10 @@
+Matcher,Entity Type,Full,Partial,Weak,Missing,Total
+AML,class,3,15,10,23,51
+AML,data_property,0,0,0,2,2
+AML,individual,0,24,11,6,41
+AML,object_property,0,4,3,4,11
+BERTMap,class,7,13,7,11,38
+LogMap,class,3,21,6,14,44
+LogMap,data_property,0,0,0,2,2
+LogMap,individual,1,24,15,6,46
+LogMap,object_property,2,13,0,4,19

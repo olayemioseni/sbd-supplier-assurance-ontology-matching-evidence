@@ -1,0 +1,4 @@
+Matcher,Evaluation Scope,Full,Partial,Weak,Missing,Total,Full or Partial,Full/Partial Percentage
+LogMap,"Reciprocal candidates across classes, object properties, data properties and individuals",6,58,21,26,111,64,0.5765765765765766
+AML,"Reciprocal candidates across classes, object properties, data properties and individuals",3,43,24,35,105,46,0.4380952380952381
+BERTMap,Priority reciprocal class candidates only,7,13,7,11,38,20,0.5263157894736842
