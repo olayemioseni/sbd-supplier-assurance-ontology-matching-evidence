@@ -1,0 +1,4 @@
+Matcher,Configuration,Source Ontology,Target Ontology,Profile,Mappings,Mean Confidence,Minimum Confidence,Maximum Confidence,Median Confidence
+LogMap,Default configuration; logical-impact check disabled,MOD Secure by Design v1.0,SORA v2.5,Classes and individuals,21,0.744,0.5,1.06,0.76
+AML,Fixed automatic configuration,MOD Secure by Design v1.0,SORA v2.5,Classes and object properties,42,0.855,0.605,1.0,0.923
+BERTMap,Fine-tuned; global matching; filtered output,MOD Secure by Design v1.0,SORA v2.5,Classes only,9,1.0,1.0,1.0,1.0
