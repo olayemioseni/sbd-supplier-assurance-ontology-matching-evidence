@@ -1,0 +1,56 @@
+BERTMap experimental environment
+================================
+
+Execution platform: Google Colab
+Operating environment: Linux Colab runtime
+Python: 3.12.13
+DeepOnto: 0.9.3
+BERTMap implementation: DeepOnto BERTMap
+PyTorch: 2.11.0+cu128
+Transformers: 4.40.2
+Hugging Face Hub: 0.36.0
+Accelerate: 0.30.1
+JPype1: 1.5.0
+CUDA available: True
+GPU: Tesla T4
+JVM started: True
+
+Pretrained model:
+emilyalsentzer/Bio_ClinicalBERT
+
+Experiment settings:
+- Three independent fine-tuning runs
+- Three epochs per run
+- Maximum input length: 128
+- Training batch size: 32
+- Prediction batch size: 128
+- Global matching enabled
+- rdfs:label and rdfs:comment used as textual annotations
+- Known cross-ontology mappings: None
+- LogMap repair stage: skipped by design
+
+Ontology loading:
+- SbD classes: 257
+- SORA classes: 136
+- All classes had rdfs:label and rdfs:comment annotations
+- DeepOnto loading with ELK: successful
+- Full HermiT reasoning: not established because the SbD ontology uses a
+  non-simple property in a maximum-cardinality restriction
+
+Repeatability results:
+- Run 1 filtered mappings: 9
+- Run 2 filtered mappings: 9
+- Run 3 filtered mappings: 9
+- Unique filtered mapping hashes: 1
+- Unique trained model hashes: 3
+- Final filtered mapping sets: identical
+
+Runtime results:
+- Run 1: 925.825 seconds
+- Run 2: 1287.067 seconds
+- Run 3: 1028.900 seconds
+- Mean: 1080.597 seconds
+- Sample standard deviation: 186.087 seconds
+
+Model weights are excluded from GitHub because of their size.
+Model hashes are retained in the individual run metadata files.
