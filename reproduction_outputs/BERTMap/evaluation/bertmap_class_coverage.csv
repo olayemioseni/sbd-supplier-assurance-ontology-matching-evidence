@@ -1,0 +1,2 @@
+matcher,entity_type,source_total,source_mapped,source_unaligned,source_coverage,target_total,target_mapped,target_unaligned,target_coverage
+BERTMap,class,257,9,248,0.03501945525291829,136,9,127,0.0661764705882353

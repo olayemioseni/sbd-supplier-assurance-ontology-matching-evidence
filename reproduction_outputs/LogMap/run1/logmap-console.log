@@ -1,0 +1,25 @@
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by com.google.inject.internal.cglib.core.$ReflectUtils$2 (file:/mnt/c/LogMap/java-dependencies/guice-4.0.jar) to method java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain)
+WARNING: Please consider reporting this to the maintainers of com.google.inject.internal.cglib.core.$ReflectUtils$2
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+java.lang.IllegalArgumentException: Non-simple property '<https://example.org/mod-sbd#belongsToPrinciple>' or its inverse appears in the cardinality restriction 'ObjectMaxCardinality(1 <https://example.org/mod-sbd#belongsToPrinciple> <https://example.org/mod-sbd#SbDPrinciple>)'.
+	at org.semanticweb.HermiT.structural.ObjectPropertyInclusionManager.rewriteAxioms(ObjectPropertyInclusionManager.java:123)
+	at org.semanticweb.HermiT.structural.OWLClausification.preprocessAndClausify(OWLClausification.java:161)
+	at org.semanticweb.HermiT.Reasoner.loadOntology(Reasoner.java:208)
+	at org.semanticweb.HermiT.Reasoner.<init>(Reasoner.java:199)
+	at org.semanticweb.HermiT.Reasoner.<init>(Reasoner.java:173)
+	at uk.ac.ox.krr.logmap2.reasoning.HermiT_adapted.<init>(HermiT_adapted.java:36)
+	at uk.ac.ox.krr.logmap2.reasoning.HermiTAccess.setUpReasoner(HermiTAccess.java:58)
+	at uk.ac.ox.krr.logmap2.reasoning.ReasonerAccessImpl.<init>(ReasonerAccessImpl.java:96)
+	at uk.ac.ox.krr.logmap2.reasoning.HermiTAccess.<init>(HermiTAccess.java:39)
+	at uk.ac.ox.krr.logmap2.reasoning.ReasonerManager.getMergedOntologyReasoner(ReasonerManager.java:114)
+	at uk.ac.ox.krr.logmap2.reasoning.ReasonerManager.getMergedOntologyReasoner(ReasonerManager.java:89)
+	at uk.ac.ox.krr.logmap2.reasoning.SatisfiabilityIntegration.createMergedReasonerAccess(SatisfiabilityIntegration.java:269)
+	at uk.ac.ox.krr.logmap2.reasoning.SatisfiabilityIntegration.<init>(SatisfiabilityIntegration.java:175)
+	at uk.ac.ox.krr.logmap2.reasoning.SatisfiabilityIntegration.<init>(SatisfiabilityIntegration.java:153)
+	at uk.ac.ox.krr.logmap2.LogMap2Core.impactIntegration(LogMap2Core.java:637)
+	at uk.ac.ox.krr.logmap2.LogMap2Core.<init>(LogMap2Core.java:540)
+	at uk.ac.ox.krr.logmap2.LogMap2Core.<init>(LogMap2Core.java:196)
+	at uk.ac.ox.krr.logmap2.LogMap2_Matcher.<init>(LogMap2_Matcher.java:45)
+	at uk.ac.ox.krr.logmap2.LogMap2_CommandLine.main(LogMap2_CommandLine.java:97)

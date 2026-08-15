@@ -1,0 +1,422 @@
+ontology_side,entity_type,entity_iri,label,description
+source_SbD,class,https://example.org/mod-sbd#Accountability,Accountability,Clear assignment of responsibility for cybersecurity and risk decisions.
+source_SbD,class,https://example.org/mod-sbd#AcquireSecurely,Acquire Securely,"Acquire systems, services, components or resources with cybersecurity considerations built into procurement."
+source_SbD,class,https://example.org/mod-sbd#AcquisitionAndSupplyChainActivity,Acquisition and Supply-Chain Activity,"An activity used to acquire securely, conduct supplier due diligence, obtain assurance or flow requirements through the supply chain."
+source_SbD,class,https://example.org/mod-sbd#AdverseSecurityEvent,Adverse Security Event,"An adverse cybersecurity event affecting a capability, system, data or essential function."
+source_SbD,class,https://example.org/mod-sbd#AllocateResources,Allocate Resources,"Allocate time, authority, funding, personnel or support needed for cybersecurity activities."
+source_SbD,class,https://example.org/mod-sbd#AnalyseRisk,Analyse Risk,Analyse identified cyber risks.
+source_SbD,class,https://example.org/mod-sbd#AnticipateTechnologicalChange,Anticipate Technological Change,Anticipate technological developments that could adversely affect essential systems.
+source_SbD,class,https://example.org/mod-sbd#Architecture,Architecture,"The capability or programme architecture that is reviewed, tested, evaluated and improved for cyber resilience."
+source_SbD,class,https://example.org/mod-sbd#ArchivalManagement,Archival Management,Manage archival information/assets securely as part of through-life management.
+source_SbD,class,https://example.org/mod-sbd#ArtefactReference,Artefact Reference,A direct reference or link to a named programme assurance artefact.
+source_SbD,class,https://example.org/mod-sbd#AssessmentStage,Assessment,CADMID Assessment stage; used only where the requirement has a plausible assessment or acquisition applicability.
+source_SbD,class,https://example.org/mod-sbd#Asset,Asset,A tangible or intangible programme resource or object subject to management or protection.
+source_SbD,class,https://example.org/mod-sbd#AssetManagement,Asset Management,Manage assets through life in line with MOD policy.
+source_SbD,class,https://example.org/mod-sbd#AssuranceEvidence,Assurance Evidence,"An information-bearing artefact used to demonstrate, support, verify or review fulfilment of a cybersecurity expectation."
+source_SbD,class,https://example.org/mod-sbd#AssuranceSecurityPractice,Assurance Security Practice,"A security practice concerned with ongoing assurance, testing or verification."
+source_SbD,class,https://example.org/mod-sbd#AtomicRequirementClause,Atomic Requirement Clause,An analytical clause-level obligation candidate decomposed from an official SbD requirement.
+source_SbD,class,https://example.org/mod-sbd#AttackScenario,Attack Scenario,A plausible scenario describing how a threat actor may pursue an objective against the programme or capability.
+source_SbD,class,https://example.org/mod-sbd#AttackTechnique,Attack Method or Technique,A method or technique by which a threat actor could attack or analyse a system.
+source_SbD,class,https://example.org/mod-sbd#Availability,Availability,Availability or continuity of essential functions and information when needed.
+source_SbD,class,https://example.org/mod-sbd#Backup,Backup,A protected and tested copy or recovery resource used to support continuity or recovery.
+source_SbD,class,https://example.org/mod-sbd#BusinessContinuity,Business Continuity,Maintain essential functions during disruption or incidents.
+source_SbD,class,https://example.org/mod-sbd#BusinessContinuityPlan,Business Continuity Plan,A plan for maintaining essential functions during disruption or incident.
+source_SbD,class,https://example.org/mod-sbd#CADMIDStage,CADMID Stage,"A Concept, Assessment, Demonstration, Manufacture, In-Service or Disposal stage used to express MOD lifecycle applicability."
+source_SbD,class,https://example.org/mod-sbd#Capability,Capability,"A delivered programme capability whose essential functions, risk, architecture, controls and through-life security are governed."
+source_SbD,class,https://example.org/mod-sbd#CapabilityTeam,Capability Team,A team responsible for aspects of capability delivery and cybersecurity responsibilities.
+source_SbD,class,https://example.org/mod-sbd#CaptureLessonsLearned,Capture Lessons Learned,"Capture and feed lessons from delivery, incidents or exercises back into programme and development practice."
+source_SbD,class,https://example.org/mod-sbd#CommunicateSecurityInformation,Communicate Security Information,"Communicate cybersecurity decisions, responsibilities, risks or information to relevant parties."
+source_SbD,class,https://example.org/mod-sbd#Compromise,Compromise,"Loss or degradation of security affecting a capability, data or essential function."
+source_SbD,class,https://example.org/mod-sbd#ConceptStage,Concept,CADMID Concept stage; used only where the requirement has a plausible early lifecycle applicability.
+source_SbD,class,https://example.org/mod-sbd#ConductForensics,Conduct Forensics,Perform tested forensic processes to develop a documented understanding of an incident.
+source_SbD,class,https://example.org/mod-sbd#ConductRiskAssessment,Conduct Risk Assessment,"Assess cyber risk using relevant threat, vulnerability, likelihood, impact and contextual information."
+source_SbD,class,https://example.org/mod-sbd#ConductRootCauseAnalysis,Conduct Root Cause Analysis,Identify root causes and impacts during post-incident analysis.
+source_SbD,class,https://example.org/mod-sbd#ConductThreatAnalysis,Conduct Threat Analysis,Analyse systems from a threat-actor perspective and anticipate probable attack methods.
+source_SbD,class,https://example.org/mod-sbd#ConductThreatAssessment,Conduct Threat Assessment,Assess relevant cyber threats and maintain the assessment over time.
+source_SbD,class,https://example.org/mod-sbd#Confidentiality,Confidentiality,Protection of information from unauthorised disclosure.
+source_SbD,class,https://example.org/mod-sbd#Context,Context,Circumstances that shape programme and capability cybersecurity.
+source_SbD,class,https://example.org/mod-sbd#ContextualConcept,Contextual Concept,"A mission, context, objective, expectation or operational state needed to interpret SbD requirements."
+source_SbD,class,https://example.org/mod-sbd#ContinuousAssurance,Continuous Assurance,"Maintain assurance through recurring testing, monitoring, review and evidence across the lifecycle."
+source_SbD,class,https://example.org/mod-sbd#ContinuousRiskManagement,Continuous Risk Management,"Maintain risk understanding and treatment as context, threats and technology change over time."
+source_SbD,class,https://example.org/mod-sbd#Contract,Contract,A contractual artefact used to acquire resources and impose security or risk-treatment provisions.
+source_SbD,class,https://example.org/mod-sbd#CrossLifecycleContext,Cross-Lifecycle / Through-Life Context,A lifecycle context spanning multiple CADMID stages or explicitly described as through-life.
+source_SbD,class,https://example.org/mod-sbd#CryptographicProtection,Cryptographic Protection,Use cryptographic mechanisms where appropriate to protect data.
+source_SbD,class,https://example.org/mod-sbd#CyberResilientArchitecture,Cyber-Resilient Architecture,Review and improve architecture to support resilient capability delivery.
+source_SbD,class,https://example.org/mod-sbd#CyberResilientDesign,Cyber-Resilient Design,"Design capability components, support and resourcing with cyber resilience considered."
+source_SbD,class,https://example.org/mod-sbd#CyberRiskAssessment,Cyber Risk Assessment,"A structured assessment of cyber risk considering relevant threat, vulnerability, likelihood, impact and contextual information."
+source_SbD,class,https://example.org/mod-sbd#CyberSecurityStrategy,Cyber Security Strategy,A formally documented programme cybersecurity strategy based on organisational context and reviewed as threats and mission change.
+source_SbD,class,https://example.org/mod-sbd#Cyberattack,Cyberattack,"A cyber attack whose methods, techniques and impact on essential functions are considered."
+source_SbD,class,https://example.org/mod-sbd#CybersecurityDecision,Cybersecurity Decision,"A decision relating to cybersecurity, risk or programme action informed by relevant information."
+source_SbD,class,https://example.org/mod-sbd#DataInTransit,Data in Transit,"Data while being transferred, including third-party transfers."
+source_SbD,class,https://example.org/mod-sbd#DataInventory,Data Inventory,A maintained record identifying programme data and supporting understanding of its location and handling.
+source_SbD,class,https://example.org/mod-sbd#DataProtection,Data Protection,Protect important data in transit and storage using appropriate safeguards.
+source_SbD,class,https://example.org/mod-sbd#Decision,Decision,"A decision or approval that influences programme, capability or cybersecurity action."
+source_SbD,class,https://example.org/mod-sbd#DecisionMakerRole,Decision Maker,A role responsible for using security information to make programme or risk decisions.
+source_SbD,class,https://example.org/mod-sbd#DefenceStrategicObjective,Defence Strategic Objective,A Defence strategic objective to which delivered capabilities contribute.
+source_SbD,class,https://example.org/mod-sbd#DefineRolesAndResponsibilities,Define Roles and Responsibilities,"Define and assign cybersecurity roles, responsibilities and accountabilities."
+source_SbD,class,https://example.org/mod-sbd#DefineSecurityRequirements,Define Security Requirements,Define security requirements from risk and incorporate them into programme or procurement artefacts.
+source_SbD,class,https://example.org/mod-sbd#DemonstrationStage,Demonstration,"Development/demonstration context associated with design, architecture and implementation before or during delivery."
+source_SbD,class,https://example.org/mod-sbd#DesignDevelopmentSecurityPractice,Design and Development Security Practice,"A security principle or practice concerned with design, development or architecture."
+source_SbD,class,https://example.org/mod-sbd#DevelopAttackScenarios,Develop Attack Scenarios,Develop and maintain plausible attack scenarios based on threat-actor objectives.
+source_SbD,class,https://example.org/mod-sbd#DevelopSecurely,Develop Securely,Integrate secure practices throughout capability development and delivery.
+source_SbD,class,https://example.org/mod-sbd#DevelopmentPractice,Development Practice,"A development practice that may be improved using lessons learned from incidents, exercises or delivery."
+source_SbD,class,https://example.org/mod-sbd#DisasterRecovery,Disaster Recovery,Restore capability and supporting information following disruption.
+source_SbD,class,https://example.org/mod-sbd#DisasterRecoveryPlan,Disaster Recovery Plan,A plan for restoring capability or services following disruption.
+source_SbD,class,https://example.org/mod-sbd#DisposalStage,Disposal,CADMID Disposal stage or explicit secure-disposal context.
+source_SbD,class,https://example.org/mod-sbd#DisposeSecurely,Dispose Securely,Dispose of assets or capabilities securely in accordance with required procedures and classification rules.
+source_SbD,class,https://example.org/mod-sbd#DocumentedEvidence,Documented Evidence,Documented information used to demonstrate or support fulfilment of an SbD requirement.
+source_SbD,class,https://example.org/mod-sbd#EndUserRole,End User,A stakeholder role associated with use of the delivered capability.
+source_SbD,class,https://example.org/mod-sbd#EssentialFunction,Essential Function,A mission- or programme-critical function whose continuity or protection is a key security concern.
+source_SbD,class,https://example.org/mod-sbd#EssentialSystem,Essential System,A system whose compromise or adverse technological change could affect essential programme functions.
+source_SbD,class,https://example.org/mod-sbd#EvidenceAssessmentOutput,Evidence or Assessment Output,"Evidence produced by monitoring, testing, measurement or assurance assessment."
+source_SbD,class,https://example.org/mod-sbd#EvidenceRecord,Evidence Record,"A record or documented evidence item showing that an assurance-relevant activity, event or review occurred."
+source_SbD,class,https://example.org/mod-sbd#ExerciseRecovery,Exercise Recovery,Exercise recovery teams and resilience arrangements and use lessons to improve future practice.
+source_SbD,class,https://example.org/mod-sbd#ExternalRequirement,"External Legal, Regulatory or Policy Requirement","A legal, regulatory or policy requirement external to the SbD requirement set that a programme must understand or consider."
+source_SbD,class,https://example.org/mod-sbd#FinancialForecast,Financial Forecast,A financial planning artefact into which cybersecurity resourcing is integrated.
+source_SbD,class,https://example.org/mod-sbd#ForensicRecord,Forensic Record,Forensic evidence documenting an incident and supporting understanding of what occurred.
+source_SbD,class,https://example.org/mod-sbd#Function,Function,A function performed by or supported by a capability.
+source_SbD,class,https://example.org/mod-sbd#GovernCybersecurity,Govern Cybersecurity,Direct and control cybersecurity decision-making across the programme.
+source_SbD,class,https://example.org/mod-sbd#GovernanceActivity,Governance Activity,"An activity that directs, coordinates, reviews or communicates cybersecurity governance."
+source_SbD,class,https://example.org/mod-sbd#IdentifyDocumentData,Identify or Document Data,Identify and document data relevant to programme functioning or threat exposure.
+source_SbD,class,https://example.org/mod-sbd#IdentifyRisk,Identify Risk,Identify cyber risks affecting programme capabilities or essential functions.
+source_SbD,class,https://example.org/mod-sbd#InServiceStage,In-Service,"CADMID In-Service stage; used where operation, monitoring, incidents, backups, reporting or recovery indicate in-service relevance."
+source_SbD,class,https://example.org/mod-sbd#Incident,Incident,"A security incident or near miss that triggers review, response, forensics, recovery or lessons learned."
+source_SbD,class,https://example.org/mod-sbd#IncidentContainment,Incident Containment,Contain or limit the impact of an incident during response.
+source_SbD,class,https://example.org/mod-sbd#IncidentManagementActivity,Incident Management Activity,"An activity used to plan for, contain, analyse, respond to or recover from cybersecurity incidents."
+source_SbD,class,https://example.org/mod-sbd#IncidentResponse,Incident Response,Prepare for and manage cyber incidents to contain impact and sustain essential functions.
+source_SbD,class,https://example.org/mod-sbd#IncidentResponsePlan,Incident Response Plan,"A maintained and tested plan defining how incidents are handled and integrated with continuity, supply-chain and infrastructure plans."
+source_SbD,class,https://example.org/mod-sbd#IncidentReviewRecord,Incident Review Record,"Documented incident or near-miss review used to understand causes, impacts and lessons."
+source_SbD,class,https://example.org/mod-sbd#InformationSecurityService,Information Security Service,"A service providing trusted information-security support, warning, advice, reporting or related community functions."
+source_SbD,class,https://example.org/mod-sbd#InformationTechnology,Information Technology (IT),Information technology considered in programme cyber-risk assessment.
+source_SbD,class,https://example.org/mod-sbd#Infrastructure,Infrastructure,"Physical or digital infrastructure supporting programme delivery, operations, continuity or security."
+source_SbD,class,https://example.org/mod-sbd#InherentRisk,Inherent Risk,"Risk determined from threat, vulnerability, likelihood and impact before the selected risk response is considered."
+source_SbD,class,https://example.org/mod-sbd#InsiderThreat,Insider Threat,"A threat originating from an insider, explicitly included in socio-technical risk considerations."
+source_SbD,class,https://example.org/mod-sbd#Integrity,Integrity,Protection of data from unauthorised or undetected alteration.
+source_SbD,class,https://example.org/mod-sbd#InvestmentApproval,Investment Approval,A programme investment approval within which cybersecurity is to be embedded.
+source_SbD,class,https://example.org/mod-sbd#InviteToTenderDocumentation,Invite to Tender Documentation,Procurement documentation into which security requirements may be included.
+source_SbD,class,https://example.org/mod-sbd#KnowledgeAsset,Knowledge Asset,Knowledge required to support programme or operational activity.
+source_SbD,class,https://example.org/mod-sbd#LifecycleManagementActivity,Lifecycle Management Activity,"An activity used to manage assets, people and security through capability life."
+source_SbD,class,https://example.org/mod-sbd#LifecycleSecurityPractice,Lifecycle Security Practice,"A security practice concerned with secure through-life handling, archival management or disposal."
+source_SbD,class,https://example.org/mod-sbd#MaintainDataInventory,Maintain Data Inventory,Maintain and regularly review an inventory of programme data.
+source_SbD,class,https://example.org/mod-sbd#MakeSecurityAuthorisationDecision,Make Security Authorisation Decision,Enable an accountable risk owner to make an informed decision about risk held by a capability.
+source_SbD,class,https://example.org/mod-sbd#ManageAssets,Manage Assets,Maintain through-life management of programme assets in line with policy.
+source_SbD,class,https://example.org/mod-sbd#ManageBackups,Manage Backups,"Secure, test and make backups available for continuity or recovery."
+source_SbD,class,https://example.org/mod-sbd#ManageIncident,Manage Incident,Execute tested incident-management processes to contain impact and maintain essential functions.
+source_SbD,class,https://example.org/mod-sbd#ManageSecurityControls,Manage Security Controls,"Monitor, report, review and maintain security controls through life."
+source_SbD,class,https://example.org/mod-sbd#ManageThroughLife,Manage Through Life,"Manage security, assets, controls, assurance and capability change throughout the lifecycle."
+source_SbD,class,https://example.org/mod-sbd#ManageVulnerabilities,Manage Vulnerabilities,"Systematically understand, assess, manage and improve treatment of vulnerabilities."
+source_SbD,class,https://example.org/mod-sbd#ManagedObject,Managed or Protected Object,"An object, capability, service, data item, resource or artefact that is managed, protected or referenced by SbD requirements."
+source_SbD,class,https://example.org/mod-sbd#ManufactureStage,Manufacture,CADMID Manufacture stage; used where component/design/manufacturing applicability is plausible.
+source_SbD,class,https://example.org/mod-sbd#Mission,Mission,"The mission or mission purpose whose change, essential functions or objectives influence cybersecurity decisions."
+source_SbD,class,https://example.org/mod-sbd#MonitorRemediation,Monitor Remediation,Monitor remediation arising from independent security testing or other assurance activity.
+source_SbD,class,https://example.org/mod-sbd#MonitorRiskEffectiveness,Monitor Risk or Effectiveness,"Monitor security, risk, controls, remediation or resilience and review effectiveness over time."
+source_SbD,class,https://example.org/mod-sbd#MonitoringAndDetection,Monitoring and Detection,Monitor capabilities to detect or understand security issues throughout life.
+source_SbD,class,https://example.org/mod-sbd#MonitoringEvidence,Monitoring Evidence,"Evidence from ongoing monitoring of controls, risk, remediations, capabilities or resilience."
+source_SbD,class,https://example.org/mod-sbd#NormativeElement,Normative Element,"A requirement, principle, criterion, standard or other normative element relevant to MOD Secure by Design."
+source_SbD,class,https://example.org/mod-sbd#Obsolescence,Obsolescence,Through-life degradation or ageing that may affect capability effectiveness or security.
+source_SbD,class,https://example.org/mod-sbd#ObtainSupplyChainAssurance,Obtain Supply Chain Assurance,Obtain and manage assurance over supply-chain risk management and flowed-down security expectations.
+source_SbD,class,https://example.org/mod-sbd#OnboardingOffboarding,Onboarding or Offboarding,"Manage personnel entry, role change or exit with security-relevant training and controls."
+source_SbD,class,https://example.org/mod-sbd#OperationalKnowledge,Operational Knowledge,Knowledge required by response or recovery personnel such that loss of one individual does not undermine recovery.
+source_SbD,class,https://example.org/mod-sbd#OperationalResilienceSecurityPractice,Operational Resilience Security Practice,"A security practice concerned with continuity, incident response and recovery."
+source_SbD,class,https://example.org/mod-sbd#OperationalTechnology,Operational Technology (OT),Operational technology considered in programme cyber-risk assessment.
+source_SbD,class,https://example.org/mod-sbd#OrganisationalConcept,Organisational Concept,"A programme, person, organisation, role, group or network involved in SbD governance or delivery."
+source_SbD,class,https://example.org/mod-sbd#OrganisationalContext,Organisational Context,The organisational circumstances on which programme cybersecurity strategy is based.
+source_SbD,class,https://example.org/mod-sbd#OrganisationalEntity,Organisational Entity,An entity participating in organisational security activity.
+source_SbD,class,https://example.org/mod-sbd#OrganisationalRiskAppetiteStatement,Organisational Risk Appetite Statement,An organisational statement that informs the programme risk appetite.
+source_SbD,class,https://example.org/mod-sbd#OrganisationalUnit,Organisational Unit,"A team, board, group or management unit within an organisation."
+source_SbD,class,https://example.org/mod-sbd#PerformDueDiligence,Perform Due Diligence,Perform cybersecurity planning and due diligence before contracting with a supplier.
+source_SbD,class,https://example.org/mod-sbd#PersonnelLifecycleContext,Personnel Lifecycle Context,"Personnel onboarding, role change, termination and offboarding context."
+source_SbD,class,https://example.org/mod-sbd#PlanIncidentResponse,Plan Incident Response,"Establish, communicate, maintain, review, test and integrate incident response planning."
+source_SbD,class,https://example.org/mod-sbd#PlanRiskResponse,Plan Risk Response,"Choose, plan, track and communicate a response to identified risk."
+source_SbD,class,https://example.org/mod-sbd#PlanningArtefact,Planning Artefact,"An artefact used to plan, resource or govern programme activity."
+source_SbD,class,https://example.org/mod-sbd#PostIncidentOperationalNorm,Post-Incident Operational Norm,The intended operational state established through prioritised post-incident recovery actions.
+source_SbD,class,https://example.org/mod-sbd#PrimeSupplier,Prime Supplier,"The principal contracted supplier with which MOD conducts planning, due diligence and contractual risk treatment."
+source_SbD,class,https://example.org/mod-sbd#PrioritiseRisk,Prioritise Risk,"Prioritise risks, improvements, responses or recovery actions."
+source_SbD,class,https://example.org/mod-sbd#ProcurementArtefact,Procurement Artefact,An information artefact used in procurement or contracting.
+source_SbD,class,https://example.org/mod-sbd#ProgrammeBoard,Programme Board,"A governance body that reviews security, risk, performance or through-life management."
+source_SbD,class,https://example.org/mod-sbd#ProgrammeSponsorRole,Programme Sponsor,A stakeholder role sponsoring the programme and contributing needs and expectations.
+source_SbD,class,https://example.org/mod-sbd#ProtectData,Protect Data,"Apply physical, technical or cryptographic protections to data."
+source_SbD,class,https://example.org/mod-sbd#ProtectionControlSecurityPractice,Protection and Control Security Practice,"A security principle or practice concerned with protecting assets, data and vulnerabilities."
+source_SbD,class,https://example.org/mod-sbd#Recover,Recover,Restore or sustain essential functions following an incident.
+source_SbD,class,https://example.org/mod-sbd#Recoverability,Recoverability,Ability to restore required capability or functions following an incident.
+source_SbD,class,https://example.org/mod-sbd#RecoveryPlan,Recovery Plan,"A documented plan defining selection, scope and prioritisation of post-incident recovery actions."
+source_SbD,class,https://example.org/mod-sbd#RecoveryPreparedness,Recovery Preparedness,"Prepare people, resources, plans and backups for post-incident recovery."
+source_SbD,class,https://example.org/mod-sbd#RecoverySupportService,Recovery Support Service,An external service or support arrangement that augments internal recovery capability.
+source_SbD,class,https://example.org/mod-sbd#Remediate,Remediate,Implement corrective actions that address weaknesses or improve resilience.
+source_SbD,class,https://example.org/mod-sbd#ReportingRecord,Reporting Record,"A record demonstrating reporting of cyber issues, risks or control status."
+source_SbD,class,https://example.org/mod-sbd#ResidualCyberRisk,Residual Cyber Risk,"Cyber risk remaining after controls or responses, considered against risk appetite for decision-making."
+source_SbD,class,https://example.org/mod-sbd#Resilience,Resilience,"Ability of the capability/programme to withstand, continue through and recover from cyber disruption."
+source_SbD,class,https://example.org/mod-sbd#ResilienceMechanism,Resilience Mechanism,A mechanism intended to provide or strengthen cyber resilience and subject to testing or assessment.
+source_SbD,class,https://example.org/mod-sbd#Resource,Resource,"Time, authority, funding, people or other resources allocated to security delivery, controls or recovery."
+source_SbD,class,https://example.org/mod-sbd#ResourceGap,Resource Gap,"A shortfall in time, authority, funding or skilled personnel that may create cybersecurity delivery risk."
+source_SbD,class,https://example.org/mod-sbd#ResponseTeam,Response Team,A team assigned to incident response or recovery activities.
+source_SbD,class,https://example.org/mod-sbd#Review,Review,"Review a security artefact, process, role, risk, control or outcome for currency or effectiveness."
+source_SbD,class,https://example.org/mod-sbd#ReviewIncidents,Review Incidents,"Review incidents and near misses to understand causes, effects and improvements."
+source_SbD,class,https://example.org/mod-sbd#ReviewRecord,Review Record,"Evidence that an artefact, process, role, risk or control has been reviewed."
+source_SbD,class,https://example.org/mod-sbd#ReviewTestArchitecture,Review or Test Architecture,"Review, test, evaluate and improve capability architecture."
+source_SbD,class,https://example.org/mod-sbd#RiskAppetite,Risk Appetite,The level and type of cyber risk the programme is prepared to accept and use in decision-making.
+source_SbD,class,https://example.org/mod-sbd#RiskAppetiteStatement,Risk Appetite Statement,A documented statement defining organisational or Defence risk appetite.
+source_SbD,class,https://example.org/mod-sbd#RiskBasedSecurity,Risk-Based Security,Select and manage security decisions in proportion to assessed cyber risk and risk appetite.
+source_SbD,class,https://example.org/mod-sbd#RiskCommunication,Risk Communication,Conduct structured two-way communication of cybersecurity risks across organisational and supply-chain boundaries.
+source_SbD,class,https://example.org/mod-sbd#RiskConcept,Risk Concept,"A threat, vulnerability, adverse event, risk, contributor or treatment concept relevant to SbD."
+source_SbD,class,https://example.org/mod-sbd#RiskContributor,Risk Contributor,A condition or factor that contributes to cybersecurity risk.
+source_SbD,class,https://example.org/mod-sbd#RiskDecisionInformation,Risk Decision Information,Information supplied to an accountable risk owner to support an informed risk decision.
+source_SbD,class,https://example.org/mod-sbd#RiskGovernanceSecurityPractice,Risk and Governance Security Practice,A security principle or practice concerned with risk-informed governance.
+source_SbD,class,https://example.org/mod-sbd#RiskManagementActivity,Risk Management Activity,"An activity used to identify, assess, treat, communicate or monitor cyber risk."
+source_SbD,class,https://example.org/mod-sbd#RiskManagementFramework,Risk Management Framework,The programme framework into which vulnerability and broader cyber-risk management are integrated.
+source_SbD,class,https://example.org/mod-sbd#RiskOwnerRole,Risk Owner,An empowered and accountable role responsible for informed decisions about capability risk.
+source_SbD,class,https://example.org/mod-sbd#RiskResponse,Risk Response,"The chosen, prioritised, planned, tracked and communicated response to identified risk."
+source_SbD,class,https://example.org/mod-sbd#RiskTreatment,Risk Treatment,A concept describing the selected response or treatment of identified risk.
+source_SbD,class,https://example.org/mod-sbd#Role,Role,A responsibility-bearing position or function that may be held by a person or organisational entity.
+source_SbD,class,https://example.org/mod-sbd#RoleRedundancy,Role Redundancy,Duplicate critical recovery roles to avoid a personnel single point of failure.
+source_SbD,class,https://example.org/mod-sbd#SQEPPersonnel,Suitably Qualified and Experienced Personnel (SQEP),"Personnel possessing the cybersecurity knowledge, skills, experience and authority required for relevant work."
+source_SbD,class,https://example.org/mod-sbd#SbDCriterion,SbD Criterion,An official source criterion/evidence-area used to organise SbD requirements.
+source_SbD,class,https://example.org/mod-sbd#SbDPrinciple,SbD Principle,An official MOD Secure by Design principle grouping related criteria and requirements.
+source_SbD,class,https://example.org/mod-sbd#SbDRequirement,SbD Requirement,An official MOD Secure by Design requirement represented with its source identifier and exact wording.
+source_SbD,class,https://example.org/mod-sbd#SecureAcquisition,Secure Acquisition,"Build cybersecurity considerations into acquisition, contractual and lifecycle processes."
+source_SbD,class,https://example.org/mod-sbd#SecureByDesign,Secure by Design,Security is integrated into capability and programme decisions from the outset rather than added later.
+source_SbD,class,https://example.org/mod-sbd#SecureDevelopment,Secure Development,Integrate and monitor secure development practices throughout delivery.
+source_SbD,class,https://example.org/mod-sbd#SecureDisposal,Secure Disposal,Apply security controls and classification rules when disposing of assets or capabilities.
+source_SbD,class,https://example.org/mod-sbd#SecurityArtefact,Security Artefact,"A documented cybersecurity strategy, plan, assessment, inventory or other structured security artefact."
+source_SbD,class,https://example.org/mod-sbd#SecurityAuthorisationDecision,Security Authorisation Decision,An informed decision by an accountable risk owner about the cyber risk held by a capability.
+source_SbD,class,https://example.org/mod-sbd#SecurityAwareness,Security Awareness,"Personnel awareness of security and privacy responsibilities, measured for effectiveness."
+source_SbD,class,https://example.org/mod-sbd#SecurityAwarenessMeasurement,Security Awareness Measurement,Evidence of security-awareness effectiveness based on behavioural impact rather than attendance alone.
+source_SbD,class,https://example.org/mod-sbd#SecurityControl,Security Control,"A control selected, monitored, reviewed or resourced to manage cybersecurity risk."
+source_SbD,class,https://example.org/mod-sbd#SecurityEngineeringActivity,Security Engineering Activity,"An activity used to define, develop, implement, protect, test or improve security in a capability."
+source_SbD,class,https://example.org/mod-sbd#SecurityGovernance,Security Governance,"Govern cybersecurity decisions, roles, escalation and performance through accountable programme structures."
+source_SbD,class,https://example.org/mod-sbd#SecurityManagementConcept,Security Management Concept,"An abstract management concept used to govern cybersecurity decisions, risk, controls or awareness."
+source_SbD,class,https://example.org/mod-sbd#SecurityReporting,Security Reporting,"Report security issues, risks, status or control information through defined reporting channels."
+source_SbD,class,https://example.org/mod-sbd#SecurityRequirement,Security Requirement,"A normative cybersecurity requirement applying to a programme, capability, asset, activity or stakeholder."
+source_SbD,class,https://example.org/mod-sbd#SecurityRequirementFlowDown,Security Requirement Flow-Down,Propagate security requirements and risk-appetite expectations through supplier tiers.
+source_SbD,class,https://example.org/mod-sbd#SecurityTestingAndVerification,Security Testing and Verification,Practice of testing and verifying security or resilience expectations.
+source_SbD,class,https://example.org/mod-sbd#SecurityWorkingGroup,Security Working Group,"A governance group used to manage, coordinate and communicate cybersecurity decisions and risks."
+source_SbD,class,https://example.org/mod-sbd#SelectSecurityControls,Select Security Controls,"Select controls appropriate to capability delivery, assessed risk and risk appetite."
+source_SbD,class,https://example.org/mod-sbd#SeniorManagementRole,Senior Management,A senior leadership role to which significant cybersecurity analysis may be escalated.
+source_SbD,class,https://example.org/mod-sbd#SeniorResponsibleOwnerRole,Senior Responsible Owner,A senior accountable role that may define risk appetite or act as a risk owner.
+source_SbD,class,https://example.org/mod-sbd#SinglePointOfFailure,Single Point of Failure,A dependency on a single role or resource whose loss could undermine recovery capability.
+source_SbD,class,https://example.org/mod-sbd#SocialEngineering,Social Engineering,"Manipulative attack techniques targeting people, explicitly included in socio-technical risk."
+source_SbD,class,https://example.org/mod-sbd#SocioTechnicalRisk,Socio-Technical Risk,"Risk arising from interacting technical, human, organisational, policy and workflow factors."
+source_SbD,class,https://example.org/mod-sbd#SocioTechnicalSecurity,Socio-Technical Security,"Treat cyber risk as arising from interacting technical, human, organisational and process factors."
+source_SbD,class,https://example.org/mod-sbd#SpecialistCyberResponderRole,Specialist Cyber Responder,A specialist external or internal role that augments cyber incident recovery capability.
+source_SbD,class,https://example.org/mod-sbd#Specification,Specification,A technical or procurement specification into which security requirements may be incorporated.
+source_SbD,class,https://example.org/mod-sbd#StakeholderNeedOrExpectation,Stakeholder Need or Expectation,A stakeholder need or expectation to be understood and considered in cybersecurity risk management.
+source_SbD,class,https://example.org/mod-sbd#StakeholderRole,Stakeholder Role,"A role held by a party with needs, expectations, responsibilities or decision interests in the programme or capability."
+source_SbD,class,https://example.org/mod-sbd#StoredData,Stored Data,Data held at rest and requiring appropriate physical or technical protection.
+source_SbD,class,https://example.org/mod-sbd#SupplierOrganisation,Supplier Organisation,"An external organisation supplying goods, services, support or resources to a programme."
+source_SbD,class,https://example.org/mod-sbd#SupplyChain,Supply Chain,"The network of supplier organisations involved in providing capabilities, systems, services or support."
+source_SbD,class,https://example.org/mod-sbd#SupplyChainAssuranceEvidence,Supply Chain Assurance Evidence,"Evidence that supplier risk management, flowed-down security requirements and risk appetite expectations are addressed."
+source_SbD,class,https://example.org/mod-sbd#SupplyChainRiskManagement,Supply Chain Risk Management,Manage cybersecurity risk and security expectations across the supplier chain.
+source_SbD,class,https://example.org/mod-sbd#SupplyChainSecurityPractice,Supply-Chain Security Practice,A security practice concerned with acquisition and supplier-chain risk.
+source_SbD,class,https://example.org/mod-sbd#TechnologicalChangeRisk,Technological Change Risk,Risk arising from technological developments or changes that may adversely affect essential systems or invalidate prior assessments.
+source_SbD,class,https://example.org/mod-sbd#Technology,Technology,Technology used or anticipated in delivering capabilities and considered in risk assessment.
+source_SbD,class,https://example.org/mod-sbd#TestSecurityResilience,Test Security or Resilience,"Test security or resilience mechanisms, processes, plans or controls."
+source_SbD,class,https://example.org/mod-sbd#TestingEvidence,Testing Evidence,"Evidence produced by security, resilience, process, plan or backup testing."
+source_SbD,class,https://example.org/mod-sbd#ThirdPartyOrganisation,Third Party,"An external party handling data, providing services or introducing cyber risk outside the immediate programme organisation."
+source_SbD,class,https://example.org/mod-sbd#ThreatAssessment,Threat Assessment,A documented or maintained assessment of relevant cyber threats and their implications.
+source_SbD,class,https://example.org/mod-sbd#ThreatAssumption,Threat Assumption,An explicit assumption about relevant threats used as a basis for risk assessment.
+source_SbD,class,https://example.org/mod-sbd#ThreatInformedSecurity,Threat-Informed Security,Base security decisions and assessments on explicit and current threat understanding.
+source_SbD,class,https://example.org/mod-sbd#ThreatIntelligence,Threat Intelligence,Information about evolving threats or external incidents used to update threat assessments and security decisions.
+source_SbD,class,https://example.org/mod-sbd#ThreatManagementActivity,Threat Assessment and Modelling Activity,"An activity used to assess threats, analyse adversarial perspectives or construct attack scenarios."
+source_SbD,class,https://example.org/mod-sbd#ThreatModelling,Threat Modelling,"Represent plausible adversarial objectives, methods and system perspectives to understand attack possibilities."
+source_SbD,class,https://example.org/mod-sbd#ThroughLifeManagementPlan,Through-Life Management Plan,A programme plan for management of capabilities and security through life.
+source_SbD,class,https://example.org/mod-sbd#Tier1Supplier,Tier 1 Supplier,A first-tier supplier within the supply-chain assurance scope.
+source_SbD,class,https://example.org/mod-sbd#Tier2Supplier,Tier 2 Supplier,A second-tier supplier within the supply-chain assurance scope.
+source_SbD,class,https://example.org/mod-sbd#Tier3Supplier,Tier 3 Supplier,A third-tier supplier within the supply-chain assurance scope.
+source_SbD,class,https://example.org/mod-sbd#Traceability,Traceability,"Ability to trace security decisions, artefacts, data, actions or evidence through documented records."
+source_SbD,class,https://example.org/mod-sbd#TrainPersonnel,Train Personnel,"Provide, maintain or demonstrate role-relevant security, disposal, response or recovery training."
+source_SbD,class,https://example.org/mod-sbd#TransmissionPath,Transmission Path,"A path by which data is transmitted, for which alternatives may support resilience."
+source_SbD,class,https://example.org/mod-sbd#UnderstandContext,Understand Context,"Establish and maintain understanding of relevant mission, organisational, operational, data or risk context."
+source_SbD,class,https://example.org/mod-sbd#Update,Update,"Update a security artefact, assessment or process in response to change."
+source_SbD,class,https://example.org/mod-sbd#Upgrade,Upgrade,Change or improve a capability during its through-life management.
+source_SbD,class,https://example.org/mod-sbd#Vulnerability,Vulnerability,"A weakness that may be exploited and must be understood, assessed and managed."
+source_SbD,class,https://example.org/mod-sbd#VulnerabilityManagement,Vulnerability Management,"Systematically identify, assess, manage and improve treatment of vulnerabilities."
+source_SbD,class,https://example.org/mod-sbd#VulnerabilityManagementActivity,Vulnerability Management Activity,"An activity used to understand, assess, remediate or monitor vulnerabilities."
+source_SbD,object_property,https://example.org/mod-sbd#addressesSecurityProperty,addresses security property,Links an SbD requirement to a security property or objective that the requirement explicitly or inferentially seeks to protect or achieve.
+source_SbD,object_property,https://example.org/mod-sbd#agreedBy,agreed by,Identifies the stakeholder role or organisational body that agrees a risk appetite or cybersecurity decision.
+source_SbD,object_property,https://example.org/mod-sbd#appliesDuring,applies during,Relates a requirement or activity to the lifecycle context in which it applies.
+source_SbD,object_property,https://example.org/mod-sbd#assesses,assesses,"Relates an assessment or review activity to the risk, vulnerability, asset, architecture, resilience concern or other domain element being assessed."
+source_SbD,object_property,https://example.org/mod-sbd#augmentedBy,augmented by,Indicates that a capability's recovery capacity can be increased by an external recovery-support service.
+source_SbD,object_property,https://example.org/mod-sbd#basedOn,based on,"Relates an artefact, assessment or decision to contextual information, assumptions or source material on which it is based."
+source_SbD,object_property,https://example.org/mod-sbd#communicatesTo,communicates to,"Relates security information, a decision or a communication activity to the organisational recipient."
+source_SbD,object_property,https://example.org/mod-sbd#considers,considers,"Indicates that an assessment, design or management activity considers a context, risk, stakeholder need, asset or other relevant factor."
+source_SbD,object_property,https://example.org/mod-sbd#contributesToRisk,contributes to risk,"Indicates that a threat, vulnerability or other risk concept contributes to the determination or existence of a risk."
+source_SbD,object_property,https://example.org/mod-sbd#criterionBelongsToPrinciple,criterion belongs to principle,Associates an official SbD criterion with the SbD principle under which that criterion is defined.
+source_SbD,object_property,https://example.org/mod-sbd#definedBy,defined by,"Identifies the role or organisational body that defines a risk appetite, artefact or governance element."
+source_SbD,object_property,https://example.org/mod-sbd#escalatesTo,escalates to,"Relates analysis, findings or security information to a higher governance role or body to which it is escalated."
+source_SbD,object_property,https://example.org/mod-sbd#expressesSecurityPractice,expresses security practice,Links an SbD requirement to a cybersecurity principle or practice expressed by the requirement.
+source_SbD,object_property,https://example.org/mod-sbd#feedsBackInto,feeds back into,"Indicates that lessons, evidence or learning from an activity feeds into programme practice, development practice or future planning."
+source_SbD,object_property,https://example.org/mod-sbd#flowsDownTo,flows down to,Represents propagation of security requirements or risk appetite through suppliers or the supply chain.
+source_SbD,object_property,https://example.org/mod-sbd#hasAtomicClause,has atomic clause,Links an official SbD requirement to an analytical atomic requirement clause candidate derived from it.
+source_SbD,object_property,https://example.org/mod-sbd#hasEvidenceExpectation,has evidence expectation,"Relates an SbD requirement to evidence, documentation, records, plans or other assurance artefacts expected by that requirement."
+source_SbD,object_property,https://example.org/mod-sbd#hasNeedOrExpectation,has need or expectation,Associates a stakeholder role with a stakeholder need or expectation relevant to the capability or programme.
+source_SbD,object_property,https://example.org/mod-sbd#hasResponsibleRole,has responsible role,"Associates a requirement, activity, risk or artefact with the role accountable or responsible for it."
+source_SbD,object_property,https://example.org/mod-sbd#impacts,impacts,"Indicates an adverse or consequential effect of a risk, threat, compromise or change on a managed object, function or organisational concept."
+source_SbD,object_property,https://example.org/mod-sbd#includedIn,included in,"Indicates that a security requirement or security-management element is included in a contract, specification, plan or procurement artefact."
+source_SbD,object_property,https://example.org/mod-sbd#informedBy,informed by,"Indicates that an assessment, risk appetite, decision or improvement activity is informed by threat, incident, intelligence or other information."
+source_SbD,object_property,https://example.org/mod-sbd#integratesWith,integrates with,"Indicates integration of one activity, plan, framework or security-management element with another."
+source_SbD,object_property,https://example.org/mod-sbd#involvesOrganisationalConcept,involves organisational concept,"Links an SbD requirement to an actor, role, organisation, programme, group or other organisational concept involved in the requirement."
+source_SbD,object_property,https://example.org/mod-sbd#maintains,maintains,"Relates an actor or activity to an artefact, managed object or security-management concept that it keeps current or operational."
+source_SbD,object_property,https://example.org/mod-sbd#manages,manages,"Relates a management activity or organisational concept to risk, vulnerability, assets, controls, suppliers or lifecycle concerns it manages."
+source_SbD,object_property,https://example.org/mod-sbd#mitigates,mitigates,"Indicates that a control, activity or assurance/procurement artefact reduces a risk or limits the impact of an adverse security event."
+source_SbD,object_property,https://example.org/mod-sbd#performedBy,performed by,"Identifies the role, organisation, team or programme context that performs an activity."
+source_SbD,object_property,https://example.org/mod-sbd#prevents,prevents,"Indicates that a security activity or control is intended to prevent an adverse security event, vulnerability exploitation or failure."
+source_SbD,object_property,https://example.org/mod-sbd#produces,produces,"Relates an activity to an information artefact, evidence item, record or assessment output that it generates."
+source_SbD,object_property,https://example.org/mod-sbd#providesUnderstandingOf,provides understanding of,"Relates a forensic activity or forensic record to the incident, compromise or other risk concept it helps explain."
+source_SbD,object_property,https://example.org/mod-sbd#reportsTo,reports to,Relates a reporting activity or organisational participant to an organisational reporting point or information-security service.
+source_SbD,object_property,https://example.org/mod-sbd#reviewedBy,reviewed by,"Identifies the role or organisational body that reviews an artefact, process, risk or outcome."
+source_SbD,object_property,https://example.org/mod-sbd#reviews,reviews,"Associates a role or organisational body with an artefact, process, risk or outcome it reviews."
+source_SbD,object_property,https://example.org/mod-sbd#roleResponsibleFor,role responsible for,"Associates a role with a requirement, activity, risk or artefact for which the role is responsible or accountable."
+source_SbD,object_property,https://example.org/mod-sbd#supports,supports,"Indicates that a process, control, activity, resource or managed object supports a function, decision, objective or other capability concern."
+source_SbD,object_property,https://example.org/mod-sbd#tests,tests,"Relates a testing or assurance activity to the plan, mechanism, backup, architecture, process or other subject being tested."
+source_SbD,object_property,https://example.org/mod-sbd#updatedFor,updated for,"Relates an artefact or assessment to a mission, threat, context or technological change that causes or justifies an update."
+source_SbD,data_property,https://example.org/mod-sbd#behaviouralImpact,behavioural impact,Records the observed or assessed behavioural impact associated with a security-awareness measurement.
+source_SbD,data_property,https://example.org/mod-sbd#capabilityEffectiveness,capability effectiveness,Records a qualitative or quantitative expression of capability effectiveness where the SbD source requires it to be understood or reviewed.
+source_SbD,data_property,https://example.org/mod-sbd#impact,impact,"Records an impact value or descriptor associated with a risk, incident or cyber-risk assessment."
+source_SbD,data_property,https://example.org/mod-sbd#isCommunityBasedService,is community-based service,Indicates whether an information-security service is community-based.
+source_SbD,data_property,https://example.org/mod-sbd#isTrustedService,is trusted service,Indicates whether an information-security service is treated as trusted in the SbD assurance context.
+source_SbD,data_property,https://example.org/mod-sbd#likelihood,likelihood,Records the likelihood value or descriptor used in risk assessment.
+source_SbD,data_property,https://example.org/mod-sbd#parentRequirementIdentifier,parent requirement identifier,Stores the Parent Requirement ID preserved from the requirements spreadsheet for an official SbD requirement.
+source_SbD,data_property,https://example.org/mod-sbd#referenceValue,reference value,"Stores the link, URI, document reference or other locator represented by an Artefact Reference."
+source_SbD,data_property,https://example.org/mod-sbd#sourceIdentifier,source identifier,"Stores the authoritative source identifier for a normative element, such as SbD_01, DSTL-SbD01-Criterion_01 or DSTL-SbD01-C1-R1."
+source_SbD,data_property,https://example.org/mod-sbd#sourceText,source text,Stores the exact authoritative requirement wording or analytical clause text without silent rewriting.
+source_SbD,data_property,https://example.org/mod-sbd#sourceTitle,source title,Stores the source title or short name associated with a normative element where the source provides one.
+target_SORA,class,https://example.org/ontology/sora#Accreditation,Accreditation,A recognised accreditation used to support assurance.
+target_SORA,class,https://example.org/ontology/sora#ActivityType,ActivityType,"A controlled vocabulary entry identifying the kind of activity required or performed, such as audit, test, validation, monitoring, maintenance, or training."
+target_SORA,class,https://example.org/ontology/sora#Actor,Actor,"A person or organisation that can participate in, be responsible for, or provide services relevant to SORA assurance."
+target_SORA,class,https://example.org/ontology/sora#AdverseEnvironmentalCondition,AdverseEnvironmentalCondition,An adverse environmental condition relevant to UAS design or operation.
+target_SORA,class,https://example.org/ontology/sora#AnalyticalAtomicObligation,AnalyticalAtomicObligation,A candidate atomic semantic obligation decomposed from one official compound SORA requirement.
+target_SORA,class,https://example.org/ontology/sora#AnalyticalRequirementElement,AnalyticalRequirementElement,A non-official analytical element introduced to represent the semantics of an official source requirement without altering it.
+target_SORA,class,https://example.org/ontology/sora#ApplicabilityReference,ApplicabilityReference,A SORA element whose primary semantics are applicability or cross-reference to another requirement/source section.
+target_SORA,class,https://example.org/ontology/sora#AssessmentArtifact,AssessmentArtifact,A documented result or artefact produced by an assessment or appraisal.
+target_SORA,class,https://example.org/ontology/sora#AssuranceArtifact,AssuranceArtifact,"An artefact whose primary purpose is to support, state, or demonstrate assurance."
+target_SORA,class,https://example.org/ontology/sora#AssuranceClaim,AssuranceClaim,"A claim that a SORA-relevant requirement, integrity level, or assurance condition is satisfied."
+target_SORA,class,https://example.org/ontology/sora#AssuranceStatement,AssuranceStatement,"A formal assertion or statement concerning satisfaction, integrity, assurance, or another SORA-relevant condition."
+target_SORA,class,https://example.org/ontology/sora#AuditProgramme,AuditProgramme,"A self-inspection, internal audit, or robust audit programme addressing cyber-safety/SORA concerns."
+target_SORA,class,https://example.org/ontology/sora#C2Link,C2Link,The command and control link; SORA defines it as included within the C3-link scope.
+target_SORA,class,https://example.org/ontology/sora#C3Link,C3Link,"A command, control, and communication link required for safety of flight."
+target_SORA,class,https://example.org/ontology/sora#Certificate,Certificate,A certificate used as evidence of recognised status or qualification.
+target_SORA,class,https://example.org/ontology/sora#Checklist,Checklist,A checklist used to perform or evidence defined operational or assurance steps.
+target_SORA,class,https://example.org/ontology/sora#CommunicationDevice,CommunicationDevice,A device providing communications relevant to the operation.
+target_SORA,class,https://example.org/ontology/sora#CommunicationLink,CommunicationLink,A communications link used by the UAS or supporting systems.
+target_SORA,class,https://example.org/ontology/sora#ComputerSystem,ComputerSystem,"A computer-based system relevant to business, maintenance, or UAS support activities."
+target_SORA,class,https://example.org/ontology/sora#ConceptOfOperations,ConceptOfOperations,The documented concept of operations describing the proposed operation.
+target_SORA,class,https://example.org/ontology/sora#Configuration,Configuration,The configuration of the UAS or supporting systems that is subject to conformity and change control.
+target_SORA,class,https://example.org/ontology/sora#ConformityStatus,ConformityStatus,A controlled status describing conformity/non-conformity of an item or configuration.
+target_SORA,class,https://example.org/ontology/sora#ControlStation,ControlStation,A station used to control or supervise the unmanned aircraft.
+target_SORA,class,https://example.org/ontology/sora#Credential,Credential,A formal credential indicating recognised organisational or individual standing.
+target_SORA,class,https://example.org/ontology/sora#Criterion,Criterion,A criterion grouping within an OSO under which requirement clauses are organised.
+target_SORA,class,https://example.org/ontology/sora#CriterionType,CriterionType,"A controlled classification for a criterion, such as Integrity, Assurance, or Applicability/Cross-reference."
+target_SORA,class,https://example.org/ontology/sora#CyberSafetyPolicy,CyberSafetyPolicy,"A policy addressing cyber-safety governance, roles, responsibilities, or practices."
+target_SORA,class,https://example.org/ontology/sora#CybersecurityAccreditation,CybersecurityAccreditation,An industry-recognised cybersecurity accreditation.
+target_SORA,class,https://example.org/ontology/sora#Datalink,Datalink,"A data communications link, which may be operational, safety-related, or payload-related depending on context."
+target_SORA,class,https://example.org/ontology/sora#Declaration,Declaration,A declaration made by an applicant/operator as a permitted assurance method at lower assurance levels.
+target_SORA,class,https://example.org/ontology/sora#DesignData,DesignData,Design information used to define or verify the approved/configured UAS design.
+target_SORA,class,https://example.org/ontology/sora#DesignInstallationAppraisal,DesignInstallationAppraisal,A design and installation appraisal used to show hazards are minimised.
+target_SORA,class,https://example.org/ontology/sora#Document,Document,"A documentary information artefact used to define, support, or evidence SORA compliance."
+target_SORA,class,https://example.org/ontology/sora#EmergencyResponsePlan,EmergencyResponsePlan,The plan addressing hazardous secondary or escalating effects after loss of control.
+target_SORA,class,https://example.org/ontology/sora#EnvironmentalCondition,EnvironmentalCondition,An environmental condition that can affect safe UAS operation.
+target_SORA,class,https://example.org/ontology/sora#Equipment,Equipment,"Equipment relevant to manufacturing, operation, maintenance, or assurance."
+target_SORA,class,https://example.org/ontology/sora#EvidenceArtifact,EvidenceArtifact,Evidence supplied or retained to support satisfaction of a SORA requirement.
+target_SORA,class,https://example.org/ontology/sora#ExternalService,ExternalService,A service external to the UAS/operator that supports the operation and may require assurance.
+target_SORA,class,https://example.org/ontology/sora#ExternalSystem,ExternalSystem,A system outside the UAS that supports the operation and whose deterioration or failure can affect safety.
+target_SORA,class,https://example.org/ontology/sora#Failure,Failure,A failure of the UAS or supporting system relevant to safety or assurance.
+target_SORA,class,https://example.org/ontology/sora#FailureCondition,FailureCondition,A classified failure condition to which severity and frequency expectations can be assigned.
+target_SORA,class,https://example.org/ontology/sora#FailureFrequencyCategory,FailureFrequencyCategory,"A controlled qualitative frequency category used in SORA system-safety requirements, such as Probable, Remote, Extremely Remote, or Extremely Improbable."
+target_SORA,class,https://example.org/ontology/sora#FailureSeverityCategory,FailureSeverityCategory,"A controlled severity category for failure conditions, including Major, Hazardous, and Catastrophic."
+target_SORA,class,https://example.org/ontology/sora#FatigueRiskManagementSystem,FatigueRiskManagementSystem,A fatigue risk management system used to manage escalation in duty/flight-duty times.
+target_SORA,class,https://example.org/ontology/sora#Firmware,Firmware,Firmware used within UAS or support components.
+target_SORA,class,https://example.org/ontology/sora#FlightEnvelope,FlightEnvelope,The designed or permitted flight envelope relevant to operational safety and protection functions.
+target_SORA,class,https://example.org/ontology/sora#FlightLog,FlightLog,A log of UAS activities and relevant security events used for subsequent analysis.
+target_SORA,class,https://example.org/ontology/sora#FlightManual,FlightManual,A flight manual containing UAS operating information or limitations.
+target_SORA,class,https://example.org/ontology/sora#FunctionalHazardAssessment,FunctionalHazardAssessment,A Functional Hazard Assessment used to demonstrate system-safety assurance.
+target_SORA,class,https://example.org/ontology/sora#GNSSSensor,GNSSSensor,A GNSS/GPS sensing component or equipment used for navigation or related UAS functions.
+target_SORA,class,https://example.org/ontology/sora#Hardware,Hardware,A physical computing or UAS component.
+target_SORA,class,https://example.org/ontology/sora#Hazard,Hazard,A hazard or hazardous condition that can contribute to adverse safety outcomes.
+target_SORA,class,https://example.org/ontology/sora#HumanMachineInterface,HumanMachineInterface,The human-machine interface through which remote crew receive information and provide control inputs.
+target_SORA,class,https://example.org/ontology/sora#ITSystem,ITSystem,An information-technology system used by an applicant/operator or supporting organisation.
+target_SORA,class,https://example.org/ontology/sora#Interface,Interface,An interface through which actors or systems interact.
+target_SORA,class,https://example.org/ontology/sora#Log,Log,A chronological or event-oriented record used for later review or analysis.
+target_SORA,class,https://example.org/ontology/sora#LogFile,LogFile,An electronic or written log file containing recorded UAS or security activity.
+target_SORA,class,https://example.org/ontology/sora#MaintenanceComputer,MaintenanceComputer,"A computer used for UAS maintenance, loading, diagnostic, or related support tasks."
+target_SORA,class,https://example.org/ontology/sora#MaintenanceLog,MaintenanceLog,A log recording maintenance performed on the UAS.
+target_SORA,class,https://example.org/ontology/sora#MaintenanceProcedure,MaintenanceProcedure,A documented procedure governing UAS maintenance or associated cyber-safety practices.
+target_SORA,class,https://example.org/ontology/sora#MaintenanceProcedureManual,MaintenanceProcedureManual,A manual containing maintenance procedures and supporting organisational information.
+target_SORA,class,https://example.org/ontology/sora#MaintenanceProgramme,MaintenanceProgramme,A programme organising preventive/scheduled maintenance and related requirements.
+target_SORA,class,https://example.org/ontology/sora#MaintenanceRecord,MaintenanceRecord,A retained record of maintenance activity or status.
+target_SORA,class,https://example.org/ontology/sora#ManagementSystem,ManagementSystem,A managed organisational system used to control an assurance-relevant domain.
+target_SORA,class,https://example.org/ontology/sora#Manual,Manual,"A controlled manual describing information, procedures, or instructions."
+target_SORA,class,https://example.org/ontology/sora#Material,Material,A material used in manufacture or maintenance of the UAS.
+target_SORA,class,https://example.org/ontology/sora#MeansOfCompliance,MeansOfCompliance,A means of compliance accepted by a competent authority for demonstrating satisfaction of a requirement.
+target_SORA,class,https://example.org/ontology/sora#Network,Network,A communications or information network relevant to UAS or organisational cyber safety.
+target_SORA,class,https://example.org/ontology/sora#NonObligationRequirementElement,NonObligationRequirementElement,"An official register element that carries applicability, cross-reference, or N/A semantics rather than a positive claimable obligation."
+target_SORA,class,https://example.org/ontology/sora#NotApplicablePlaceholder,NotApplicablePlaceholder,An official Low/Medium/High register placeholder whose source content is N/A or otherwise non-positive.
+target_SORA,class,https://example.org/ontology/sora#OSORobustnessAssignment,OSORobustnessAssignment,A reified assignment connecting an OSO and SAIL context to the required robustness level.
+target_SORA,class,https://example.org/ontology/sora#OfficialCommitment,OfficialCommitment,"An official commitment that can support an assurance assertion, including commitments between service provider and applicant."
+target_SORA,class,https://example.org/ontology/sora#OperationalAuthorisation,OperationalAuthorisation,An operational authorisation governing the approved UAS operation.
+target_SORA,class,https://example.org/ontology/sora#OperationalCondition,OperationalCondition,A condition affecting the operation or the applicability/effectiveness of requirements.
+target_SORA,class,https://example.org/ontology/sora#OperationalProcedure,OperationalProcedure,"A procedure governing normal, contingency, emergency, inspection, or other operational activity."
+target_SORA,class,https://example.org/ontology/sora#OperationalSafetyObjective,OperationalSafetyObjective,A SORA Operational Safety Objective (OSO) to which criteria and requirements are allocated.
+target_SORA,class,https://example.org/ontology/sora#OperationalStateType,OperationalStateType,"A controlled type describing the state of an operation relevant to SORA risk, including loss of control."
+target_SORA,class,https://example.org/ontology/sora#OperationalVolume,OperationalVolume,The volume within which the UAS operation is intended to take place safely.
+target_SORA,class,https://example.org/ontology/sora#OrganisationalArrangement,OrganisationalArrangement,"An organisational structure, management system, programme, or culture established to satisfy SORA requirements."
+target_SORA,class,https://example.org/ontology/sora#OrganisationalCulture,OrganisationalCulture,The organisational culture supporting cyber safety and safety responsibilities.
+target_SORA,class,https://example.org/ontology/sora#Policy,Policy,"A policy defining organisational expectations, controls, or responsibilities."
+target_SORA,class,https://example.org/ontology/sora#Procedure,Procedure,A documented set of instructions or procedural steps.
+target_SORA,class,https://example.org/ontology/sora#QualificationCompetenceRecord,QualificationCompetenceRecord,"A record of qualifications, experience, competence, or completed training."
+target_SORA,class,https://example.org/ontology/sora#RFSpectrum,RFSpectrum,Radio-frequency spectrum use or allocation relevant to C3/C2 performance and authorisation.
+target_SORA,class,https://example.org/ontology/sora#Record,Record,"A retained record of an activity, status, qualification, maintenance action, or other assurance-relevant fact."
+target_SORA,class,https://example.org/ontology/sora#RemotePilotStation,RemotePilotStation,The remote pilot station used by remote crew/pilot to interact with the UAS.
+target_SORA,class,https://example.org/ontology/sora#RemovableMedia,RemovableMedia,Removable electronic media used in maintenance or data transfer.
+target_SORA,class,https://example.org/ontology/sora#RequirementClassification,RequirementClassification,A controlled classification distinguishing Annex E safety requirements from Cyber Extension cyber-safety/security requirements.
+target_SORA,class,https://example.org/ontology/sora#RiskManagementProgramme,RiskManagementProgramme,A programme integrating relevant safety and security risk management activities.
+target_SORA,class,https://example.org/ontology/sora#RobustnessLevel,RobustnessLevel,"The SORA Low, Medium, or High robustness level used in OSO requirement assignment. Not Required (NR) is an assignment status, not a robustness level."
+target_SORA,class,https://example.org/ontology/sora#SAILLevel,SAILLevel,A Specific Assurance and Integrity Level used by SORA to determine required OSO robustness.
+target_SORA,class,https://example.org/ontology/sora#SORAConcept,SORAConcept,Root grouping class for concepts required to represent the controlled SORA supplier-assurance domain.
+target_SORA,class,https://example.org/ontology/sora#SORARequirement,SORARequirement,An official claimable SORA obligation from the controlled requirements register.
+target_SORA,class,https://example.org/ontology/sora#SORARequirementElement,SORARequirementElement,A source or analytical element used to represent SORA requirement structure.
+target_SORA,class,https://example.org/ontology/sora#SafetyAssessment,SafetyAssessment,A documented safety assessment used to support SORA assurance.
+target_SORA,class,https://example.org/ontology/sora#SafetyManagementSystem,SafetyManagementSystem,A safety management system in line with the principles required by Annex E OSO #01.
+target_SORA,class,https://example.org/ontology/sora#SafetyObjective,SafetyObjective,A safety objective or desired safety outcome referenced in SORA requirements.
+target_SORA,class,https://example.org/ontology/sora#SafetyRisk,SafetyRisk,Risk to aviation safety addressed by SORA.
+target_SORA,class,https://example.org/ontology/sora#SecurityAndSafetyConcept,SecurityAndSafetyConcept,An abstract cybersecurity or safety concept referenced by the SORA requirement set.
+target_SORA,class,https://example.org/ontology/sora#SecurityEventType,SecurityEventType,"A controlled type of security event or indicator, such as anomaly, suspicious activity, malicious activity, or security breach."
+target_SORA,class,https://example.org/ontology/sora#SecurityFunction,SecurityFunction,A cybersecurity function or process such as authentication or authorisation.
+target_SORA,class,https://example.org/ontology/sora#Sensor,Sensor,A sensing component used by the UAS or supporting system.
+target_SORA,class,https://example.org/ontology/sora#ServiceLevelAgreement,ServiceLevelAgreement,A service-level agreement or comparable commitment defining relevant service responsibilities or quality.
+target_SORA,class,https://example.org/ontology/sora#Software,Software,"Software used by the UAS, ground systems, maintenance systems, or supporting services."
+target_SORA,class,https://example.org/ontology/sora#SourceDocument,SourceDocument,A controlled SORA source document from which requirements and provenance are derived.
+target_SORA,class,https://example.org/ontology/sora#TechnicalAsset,TechnicalAsset,"A technical system, component, communication element, or interface relevant to the SORA requirements."
+target_SORA,class,https://example.org/ontology/sora#Tool,Tool,"A tool used for manufacture, inspection, maintenance, calibration, or assurance."
+target_SORA,class,https://example.org/ontology/sora#TrainingProgramme,TrainingProgramme,A programme organising initial or recurrent training.
+target_SORA,class,https://example.org/ontology/sora#TrainingSyllabus,TrainingSyllabus,A syllabus specifying required training content or structure.
+target_SORA,class,https://example.org/ontology/sora#UAS,UAS,An unmanned aircraft system considered as the complete UAS system.
+target_SORA,class,https://example.org/ontology/sora#UnmannedAircraft,UnmannedAircraft,"The unmanned aircraft (UA) itself, distinguished from the complete UAS."
+target_SORA,object_property,https://example.org/ontology/sora#addsAtomicObligation,addsAtomicObligation,Links a higher-robustness official requirement to an analytical atomic obligation introduced at that robustness level in addition to inherited content.
+target_SORA,object_property,https://example.org/ontology/sora#analyticalComponentOf,analyticalComponentOf,Links an analytical atomic obligation to the official SORA requirement from which it was decomposed.
+target_SORA,object_property,https://example.org/ontology/sora#assignmentAtSAIL,assignmentAtSAIL,Links an OSO robustness assignment to the SAIL context in which it applies.
+target_SORA,object_property,https://example.org/ontology/sora#assignmentForOSO,assignmentForOSO,Links an OSO robustness assignment to the Operational Safety Objective being assigned.
+target_SORA,object_property,https://example.org/ontology/sora#assignmentRequiresRobustness,assignmentRequiresRobustness,Links an OSO robustness assignment to the required robustness value.
+target_SORA,object_property,https://example.org/ontology/sora#claimsSatisfactionOf,claimsSatisfactionOf,Links an AssuranceClaim to the SORA requirement element whose satisfaction or achieved integrity/assurance condition is being claimed.
+target_SORA,object_property,https://example.org/ontology/sora#concerns,concerns,"Associates a requirement, activity, or assurance claim with the SORA-domain object or concept it concerns."
+target_SORA,object_property,https://example.org/ontology/sora#crossReferences,crossReferences,Preserves an explicit cross-reference from a requirement element to another modelled SORA concept such as another requirement or OSO.
+target_SORA,object_property,https://example.org/ontology/sora#documents,documents,"Links an actor to a document or information artefact that it creates, maintains, or supplies."
+target_SORA,object_property,https://example.org/ontology/sora#evidencesActivityType,evidencesActivityType,Links an EvidenceArtifact to the type of assurance activity whose execution/result it evidences.
+target_SORA,object_property,https://example.org/ontology/sora#hasActivityType,hasActivityType,Classifies a concrete Activity by its controlled activity type.
+target_SORA,object_property,https://example.org/ontology/sora#hasAlternativeCriterion,hasAlternativeCriterion,"Links an OSO or criterion to an explicitly stated alternative criterion, such as a Functional Test-Based route."
+target_SORA,object_property,https://example.org/ontology/sora#hasConformityStatus,hasConformityStatus,"Associates a configuration, component, manufactured item, or other relevant object with its conformity status."
+target_SORA,object_property,https://example.org/ontology/sora#hasCriterionType,hasCriterionType,"Classifies a Criterion as Integrity, Assurance, or Applicability/Cross-reference."
+target_SORA,object_property,https://example.org/ontology/sora#hasFailureFrequency,hasFailureFrequency,Classifies a FailureCondition by the SORA qualitative frequency category applied to it.
+target_SORA,object_property,https://example.org/ontology/sora#hasFailureSeverity,hasFailureSeverity,Classifies a FailureCondition by its SORA severity category.
+target_SORA,object_property,https://example.org/ontology/sora#hasLifecycleContext,hasLifecycleContext,Associates a requirement element or activity with a SORA-derived lifecycle or operational context.
+target_SORA,object_property,https://example.org/ontology/sora#hasRequirementClassification,hasRequirementClassification,Classifies a requirement element as Annex E safety or Cyber Extension cyber-safety/security.
+target_SORA,object_property,https://example.org/ontology/sora#hasRobustnessLevel,hasRobustnessLevel,"Associates a SORA requirement element with its Low, Medium, or High source robustness-column value. Not Required (NR) is represented separately by isRequiredForSAIL on OSORobustnessAssignment."
+target_SORA,object_property,https://example.org/ontology/sora#madeBy,madeBy,Links an assurance statement or claim to the actor that makes it.
+target_SORA,object_property,https://example.org/ontology/sora#permitsDeclaration,permitsDeclaration,Links a SORA Assurance requirement to the Declaration form of assurance explicitly permitted by the source.
+target_SORA,object_property,https://example.org/ontology/sora#requiredAtSAIL,requiredAtSAIL,Associates a requirement element with the SAIL level or levels for which the source table makes it applicable.
+target_SORA,object_property,https://example.org/ontology/sora#requiresAssuranceArtifact,requiresAssuranceArtifact,Links an Assurance requirement to an assurance artefact or statement required or accepted to substantiate the specified level of assurance.
+target_SORA,object_property,https://example.org/ontology/sora#supportedByEvidence,supportedByEvidence,Links an AssuranceClaim to evidence that supports the claim.
+target_SORA,object_property,https://example.org/ontology/sora#validatedBy,validatedBy,"Links an assurance artefact, procedure, programme, training artefact, mechanism, or claim to the actor role that validates it."
+target_SORA,object_property,https://example.org/ontology/sora#verifiedBy,verifiedBy,"Links an assurance object, competence, procedure, control, or claim to the actor role that verifies it."
+target_SORA,data_property,https://example.org/ontology/sora#clauseOrder,clauseOrder,Stores the controlled order of an official clause within its parent criterion.
+target_SORA,data_property,https://example.org/ontology/sora#isRequiredForSAIL,isRequiredForSAIL,States whether a particular OSO robustness assignment is required for the given SAIL. False represents an NR assignment and therefore no robustness level is required.
+target_SORA,data_property,https://example.org/ontology/sora#sailOrdinal,sailOrdinal,Stores the ordinal position of a SAIL value from I through VI for ordering/query support.

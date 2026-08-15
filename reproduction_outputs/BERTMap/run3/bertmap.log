@@ -1,0 +1,924 @@
+[Time: 00:00:00] - [PID: 2266] - [Model: bertmap] 
+Load the following configurations:
+{
+    "model": "bertmap",
+    "output_path": "/content/sbd_sora_bertmap_run3",
+    "annotation_property_iris": [
+        "http://www.w3.org/2000/01/rdf-schema#label",
+        "http://www.geneontology.org/formats/oboInOwl#hasSynonym",
+        "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+        "http://www.w3.org/2004/02/skos/core#exactMatch",
+        "http://www.ebi.ac.uk/efo/alternative_term",
+        "http://www.orpha.net/ORDO/Orphanet_#symbol",
+        "http://purl.org/sig/ont/fma/synonym",
+        "http://www.w3.org/2004/02/skos/core#prefLabel",
+        "http://www.w3.org/2004/02/skos/core#altLabel",
+        "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#P108",
+        "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#P90",
+        "http://www.w3.org/2000/01/rdf-schema#comment"
+    ],
+    "known_mappings": null,
+    "auxiliary_ontos": [],
+    "bert": {
+        "pretrained_path": "emilyalsentzer/Bio_ClinicalBERT",
+        "max_length_for_input": 128,
+        "num_epochs_for_training": 3.0,
+        "batch_size_for_training": 32,
+        "batch_size_for_prediction": 128,
+        "resume_training": null
+    },
+    "global_matching": {
+        "enabled": true,
+        "num_raw_candidates": 200,
+        "num_best_predictions": 10,
+        "mapping_extension_threshold": 0.9,
+        "mapping_filtered_threshold": 0.9995,
+        "for_oaei": false
+    }
+}
+[Time: 00:00:00] - [PID: 2266] - [Model: bertmap] 
+Save the configuration file at /content/sbd_sora_bertmap_run3/bertmap/config.yaml.
+[Time: 00:00:00] - [PID: 2266] - [Model: bertmap] 
+Construct new text semantics corpora and save at /content/sbd_sora_bertmap_run3/bertmap/data/text-semantics.corpora.json.
+[Time: 00:00:00] - [PID: 2266] - [Model: bertmap] 
+{
+    "TextSemanticsCorpora": {
+        "num_synonyms": 1563,
+        "num_nonsynonyms": 6254,
+        "intra_src_onto_corpus": {
+            "num_synonyms": 1028,
+            "num_nonsynonyms": 4112,
+            "num_soft_nonsynonyms": 2065,
+            "num_hard_nonsynonyms": 2047,
+            "annotation_thesaurus": {
+                "ontology": {
+                    "loaded_from": "MOD_SbD_Ontology_v1.0.owl",
+                    "num_classes": 258,
+                    "num_object_properties": 55,
+                    "num_data_properties": 11,
+                    "num_annotation_properties": 10,
+                    "num_individuals": 285,
+                    "reasoner_type": "elk"
+                },
+                "average_number_of_annotations_per_class": 1.992,
+                "number_of_synonym_groups": 258
+            }
+        },
+        "intra_tgt_onto_corpus": {
+            "num_synonyms": 544,
+            "num_nonsynonyms": 2176,
+            "num_soft_nonsynonyms": 1090,
+            "num_hard_nonsynonyms": 1086,
+            "annotation_thesaurus": {
+                "ontology": {
+                    "loaded_from": "SORA_v2.5_Ontology.owl",
+                    "num_classes": 136,
+                    "num_object_properties": 43,
+                    "num_data_properties": 3,
+                    "num_annotation_properties": 27,
+                    "num_individuals": 864,
+                    "reasoner_type": "elk"
+                },
+                "average_number_of_annotations_per_class": 2.0,
+                "number_of_synonym_groups": 136
+            }
+        },
+        "cross_onto_corpus": null,
+        "auxiliary_onto_corpora": []
+    }
+}
+[Time: 00:00:00] - [PID: 2266] - [Model: bertmap] 
+Construct new fine-tuning data and save at /content/sbd_sora_bertmap_run3/bertmap/data/fine-tune.data.json.
+[Time: 00:00:21] - [PID: 2266] - [Model: bertmap] 
+Data statistics:
+                     {
+    "num_training": 7035,
+    "num_validation": 782
+}
+[Time: 00:11:04] - [PID: 2266] - [Model: bertmap] 
+Fine-tuning finished, found best checkpoint at /content/sbd_sora_bertmap_run3/bertmap/bert/checkpoint-440.
+[Time: 00:11:04] - [PID: 2266] - [Model: bertmap] 
+Build inverted annotation index for candidate selection.
+[Time: 00:11:04] - [PID: 2266] - [Model: bertmap] 
+Start global matching for each class in the source ontology.
+[Time: 00:11:04] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for http://www.w3.org/2002/07/owl#Thing are
+[]
+[Time: 00:11:04] - [PID: 2266] - [Model: bertmap] 
+Save currently computed mappings to prevent undesirable loss.
+[Time: 00:11:06] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Accountability are
+[]
+[Time: 00:11:07] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#AcquireSecurely are
+[]
+[Time: 00:11:09] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#AcquisitionAndSupplyChainActivity are
+[]
+[Time: 00:11:09] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Activity are
+[EntityMapping(https://example.org/mod-sbd#Activity <EquivalentTo> https://example.org/ontology/sora#Activity, 1.0)]
+[Time: 00:11:11] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#AdverseSecurityEvent are
+[]
+[Time: 00:11:12] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#AllocateResources are
+[]
+[Time: 00:11:14] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#AnalyseRisk are
+[]
+[Time: 00:11:15] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#AnticipateTechnologicalChange are
+[]
+[Time: 00:11:17] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Architecture are
+[]
+[Time: 00:11:18] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ArchivalManagement are
+[]
+[Time: 00:11:20] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ArtefactReference are
+[]
+[Time: 00:11:22] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#AssessmentStage are
+[]
+[Time: 00:11:23] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Asset are
+[]
+[Time: 00:11:25] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#AssetManagement are
+[]
+[Time: 00:11:27] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#AssuranceEvidence are
+[]
+[Time: 00:11:28] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#AssuranceSecurityPractice are
+[]
+[Time: 00:11:30] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#AtomicRequirementClause are
+[]
+[Time: 00:11:31] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#AttackScenario are
+[]
+[Time: 00:11:33] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#AttackTechnique are
+[]
+[Time: 00:11:34] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Availability are
+[]
+[Time: 00:11:36] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Backup are
+[]
+[Time: 00:11:37] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#BusinessContinuity are
+[]
+[Time: 00:11:38] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#BusinessContinuityPlan are
+[]
+[Time: 00:11:40] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#CADMIDStage are
+[]
+[Time: 00:11:42] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Capability are
+[]
+[Time: 00:11:43] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#CapabilityTeam are
+[]
+[Time: 00:11:45] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#CaptureLessonsLearned are
+[]
+[Time: 00:11:46] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#CommunicateSecurityInformation are
+[]
+[Time: 00:11:46] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Component are
+[EntityMapping(https://example.org/mod-sbd#Component <EquivalentTo> https://example.org/ontology/sora#Component, 1.0)]
+[Time: 00:11:47] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Compromise are
+[]
+[Time: 00:11:49] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ConceptStage are
+[]
+[Time: 00:11:50] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ConductForensics are
+[]
+[Time: 00:11:52] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ConductRiskAssessment are
+[]
+[Time: 00:11:53] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ConductRootCauseAnalysis are
+[]
+[Time: 00:11:55] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ConductThreatAnalysis are
+[]
+[Time: 00:11:56] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ConductThreatAssessment are
+[]
+[Time: 00:11:57] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Confidentiality are
+[]
+[Time: 00:11:58] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Context are
+[]
+[Time: 00:12:00] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ContextualConcept are
+[]
+[Time: 00:12:01] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ContinuousAssurance are
+[]
+[Time: 00:12:03] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ContinuousRiskManagement are
+[]
+[Time: 00:12:04] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Contract are
+[]
+[Time: 00:12:05] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#CriticalData are
+[]
+[Time: 00:12:07] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#CrossLifecycleContext are
+[]
+[Time: 00:12:08] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#CryptographicProtection are
+[]
+[Time: 00:12:10] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#CyberResilientArchitecture are
+[]
+[Time: 00:12:11] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#CyberResilientDesign are
+[]
+[Time: 00:12:13] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#CyberRisk are
+[]
+[Time: 00:12:14] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#CyberRiskAssessment are
+[]
+[Time: 00:12:16] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#CyberSecurityStrategy are
+[]
+[Time: 00:12:18] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Cyberattack are
+[]
+[Time: 00:12:19] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#CybersecurityDecision are
+[]
+[Time: 00:12:19] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Data are
+[EntityMapping(https://example.org/mod-sbd#Data <EquivalentTo> https://example.org/ontology/sora#Data, 1.0)]
+[Time: 00:12:20] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#DataInTransit are
+[]
+[Time: 00:12:22] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#DataInventory are
+[]
+[Time: 00:12:23] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#DataProtection are
+[]
+[Time: 00:12:24] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Decision are
+[]
+[Time: 00:12:26] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#DecisionMakerRole are
+[]
+[Time: 00:12:27] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#DefenceStrategicObjective are
+[]
+[Time: 00:12:29] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#DefineRolesAndResponsibilities are
+[]
+[Time: 00:12:30] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#DefineSecurityRequirements are
+[]
+[Time: 00:12:32] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#DemonstrationStage are
+[]
+[Time: 00:12:33] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#DesignDevelopmentSecurityPractice are
+[]
+[Time: 00:12:35] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#DesignStandard are
+[]
+[Time: 00:12:36] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#DevelopAttackScenarios are
+[]
+[Time: 00:12:37] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#DevelopSecurely are
+[]
+[Time: 00:12:39] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#DevelopmentPractice are
+[]
+[Time: 00:12:40] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#DisasterRecovery are
+[]
+[Time: 00:12:41] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#DisasterRecoveryPlan are
+[]
+[Time: 00:12:43] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#DisposalStage are
+[]
+[Time: 00:12:44] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#DisposeSecurely are
+[]
+[Time: 00:12:46] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#DocumentedEvidence are
+[]
+[Time: 00:12:47] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#EndUserRole are
+[]
+[Time: 00:12:49] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#EssentialFunction are
+[]
+[Time: 00:12:50] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#EssentialSystem are
+[]
+[Time: 00:12:52] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#EvidenceAssessmentOutput are
+[]
+[Time: 00:12:53] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#EvidenceRecord are
+[]
+[Time: 00:12:55] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ExerciseRecovery are
+[]
+[Time: 00:12:56] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ExternalRequirement are
+[]
+[Time: 00:12:58] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#FinancialForecast are
+[]
+[Time: 00:12:59] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ForensicRecord are
+[]
+[Time: 00:13:01] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Function are
+[]
+[Time: 00:13:02] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#GovernCybersecurity are
+[]
+[Time: 00:13:04] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#GovernanceActivity are
+[]
+[Time: 00:13:05] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#HumanError are
+[]
+[Time: 00:13:06] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#IdentifyDocumentData are
+[]
+[Time: 00:13:08] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#IdentifyRisk are
+[]
+[Time: 00:13:10] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#InServiceStage are
+[]
+[Time: 00:13:11] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Incident are
+[]
+[Time: 00:13:12] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#IncidentContainment are
+[]
+[Time: 00:13:14] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#IncidentManagementActivity are
+[]
+[Time: 00:13:15] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#IncidentResponse are
+[]
+[Time: 00:13:17] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#IncidentResponsePlan are
+[]
+[Time: 00:13:19] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#IncidentReviewRecord are
+[]
+[Time: 00:13:20] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#InformationArtifact are
+[]
+[Time: 00:13:22] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#InformationSecurityService are
+[]
+[Time: 00:13:23] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#InformationTechnology are
+[]
+[Time: 00:13:25] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Infrastructure are
+[]
+[Time: 00:13:26] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#InherentRisk are
+[]
+[Time: 00:13:27] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#InsiderThreat are
+[]
+[Time: 00:13:27] - [PID: 2266] - [Model: bertmap] 
+Save currently computed mappings to prevent undesirable loss.
+[Time: 00:13:29] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Integrity are
+[]
+[Time: 00:13:30] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#InvestmentApproval are
+[]
+[Time: 00:13:32] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#InviteToTenderDocumentation are
+[]
+[Time: 00:13:33] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#KnowledgeAsset are
+[]
+[Time: 00:13:34] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#LifecycleContext are
+[]
+[Time: 00:13:36] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#LifecycleManagementActivity are
+[]
+[Time: 00:13:37] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#LifecycleSecurityPractice are
+[]
+[Time: 00:13:39] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#MaintainDataInventory are
+[]
+[Time: 00:13:40] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#MakeSecurityAuthorisationDecision are
+[]
+[Time: 00:13:42] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ManageAssets are
+[]
+[Time: 00:13:43] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ManageBackups are
+[]
+[Time: 00:13:45] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ManageIncident are
+[]
+[Time: 00:13:46] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ManageSecurityControls are
+[]
+[Time: 00:13:47] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ManageThroughLife are
+[]
+[Time: 00:13:49] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ManageVulnerabilities are
+[]
+[Time: 00:13:50] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ManagedObject are
+[]
+[Time: 00:13:52] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ManufactureStage are
+[]
+[Time: 00:13:54] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Mission are
+[]
+[Time: 00:13:55] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#MonitorRemediation are
+[]
+[Time: 00:13:57] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#MonitorRiskEffectiveness are
+[]
+[Time: 00:13:58] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#MonitoringAndDetection are
+[]
+[Time: 00:14:00] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#MonitoringEvidence are
+[]
+[Time: 00:14:01] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#NormativeElement are
+[]
+[Time: 00:14:03] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Obsolescence are
+[]
+[Time: 00:14:04] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ObtainSupplyChainAssurance are
+[]
+[Time: 00:14:06] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#OnboardingOffboarding are
+[]
+[Time: 00:14:07] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#OperationalContext are
+[]
+[Time: 00:14:08] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#OperationalKnowledge are
+[]
+[Time: 00:14:10] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#OperationalResilienceSecurityPractice are
+[]
+[Time: 00:14:11] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#OperationalTechnology are
+[]
+[Time: 00:14:11] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Organisation are
+[EntityMapping(https://example.org/mod-sbd#Organisation <EquivalentTo> https://example.org/ontology/sora#Organisation, 1.0)]
+[Time: 00:14:13] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#OrganisationalConcept are
+[]
+[Time: 00:14:14] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#OrganisationalContext are
+[]
+[Time: 00:14:15] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#OrganisationalEntity are
+[]
+[Time: 00:14:17] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#OrganisationalRiskAppetiteStatement are
+[]
+[Time: 00:14:18] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#OrganisationalUnit are
+[]
+[Time: 00:14:20] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#PerformDueDiligence are
+[]
+[Time: 00:14:21] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Personnel are
+[]
+[Time: 00:14:22] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#PersonnelLifecycleContext are
+[]
+[Time: 00:14:24] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#PlanIncidentResponse are
+[]
+[Time: 00:14:25] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#PlanRiskResponse are
+[]
+[Time: 00:14:27] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#PlanningArtefact are
+[]
+[Time: 00:14:28] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#PostIncidentOperationalNorm are
+[]
+[Time: 00:14:30] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#PrimeSupplier are
+[]
+[Time: 00:14:31] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#PrioritiseRisk are
+[]
+[Time: 00:14:32] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ProcurementArtefact are
+[]
+[Time: 00:14:32] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Programme are
+[EntityMapping(https://example.org/mod-sbd#Programme <EquivalentTo> https://example.org/ontology/sora#Programme, 1.0)]
+[Time: 00:14:34] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ProgrammeBoard are
+[]
+[Time: 00:14:35] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ProgrammeSponsorRole are
+[]
+[Time: 00:14:37] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ProtectData are
+[]
+[Time: 00:14:38] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ProtectionControlSecurityPractice are
+[]
+[Time: 00:14:39] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Recover are
+[]
+[Time: 00:14:41] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Recoverability are
+[]
+[Time: 00:14:42] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#RecoveryPlan are
+[]
+[Time: 00:14:44] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#RecoveryPreparedness are
+[]
+[Time: 00:14:45] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#RecoverySupportService are
+[]
+[Time: 00:14:46] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Remediate are
+[]
+[Time: 00:14:48] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ReportingRecord are
+[]
+[Time: 00:14:49] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ResidualCyberRisk are
+[]
+[Time: 00:14:51] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Resilience are
+[]
+[Time: 00:14:52] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ResilienceMechanism are
+[]
+[Time: 00:14:54] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Resource are
+[]
+[Time: 00:14:55] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ResourceGap are
+[]
+[Time: 00:14:57] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ResponseTeam are
+[]
+[Time: 00:14:58] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Review are
+[]
+[Time: 00:15:00] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ReviewIncidents are
+[]
+[Time: 00:15:01] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ReviewRecord are
+[]
+[Time: 00:15:03] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ReviewTestArchitecture are
+[]
+[Time: 00:15:03] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Risk are
+[EntityMapping(https://example.org/mod-sbd#Risk <EquivalentTo> https://example.org/ontology/sora#Risk, 1.0)]
+[Time: 00:15:04] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#RiskAppetite are
+[]
+[Time: 00:15:05] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#RiskAppetiteStatement are
+[]
+[Time: 00:15:07] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#RiskBasedSecurity are
+[]
+[Time: 00:15:09] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#RiskCommunication are
+[]
+[Time: 00:15:10] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#RiskConcept are
+[]
+[Time: 00:15:12] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#RiskContributor are
+[]
+[Time: 00:15:13] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#RiskDecisionInformation are
+[]
+[Time: 00:15:15] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#RiskGovernanceSecurityPractice are
+[]
+[Time: 00:15:16] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#RiskManagementActivity are
+[]
+[Time: 00:15:18] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#RiskManagementFramework are
+[]
+[Time: 00:15:19] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#RiskOwnerRole are
+[]
+[Time: 00:15:20] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#RiskResponse are
+[]
+[Time: 00:15:22] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#RiskTreatment are
+[]
+[Time: 00:15:23] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Role are
+[]
+[Time: 00:15:25] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#RoleRedundancy are
+[]
+[Time: 00:15:26] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SQEPPersonnel are
+[]
+[Time: 00:15:28] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SbDCriterion are
+[]
+[Time: 00:15:29] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SbDPrinciple are
+[]
+[Time: 00:15:31] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SbDRequirement are
+[]
+[Time: 00:15:33] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SecureAcquisition are
+[]
+[Time: 00:15:34] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SecureByDesign are
+[]
+[Time: 00:15:35] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SecureDevelopment are
+[]
+[Time: 00:15:37] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SecureDisposal are
+[]
+[Time: 00:15:38] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SecurityArtefact are
+[]
+[Time: 00:15:40] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SecurityAuthorisationDecision are
+[]
+[Time: 00:15:41] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SecurityAwareness are
+[]
+[Time: 00:15:43] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SecurityAwarenessMeasurement are
+[]
+[Time: 00:15:44] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SecurityControl are
+[]
+[Time: 00:15:46] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SecurityEngineeringActivity are
+[]
+[Time: 00:15:47] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SecurityGovernance are
+[]
+[Time: 00:15:49] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SecurityManagementConcept are
+[]
+[Time: 00:15:49] - [PID: 2266] - [Model: bertmap] 
+Save currently computed mappings to prevent undesirable loss.
+[Time: 00:15:50] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SecurityMechanism are
+[]
+[Time: 00:15:52] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SecurityPlan are
+[]
+[Time: 00:15:53] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SecurityPrincipleOrPractice are
+[]
+[Time: 00:15:55] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SecurityProperty are
+[]
+[Time: 00:15:56] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SecurityReporting are
+[]
+[Time: 00:15:58] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SecurityRequirement are
+[]
+[Time: 00:15:59] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SecurityRequirementFlowDown are
+[]
+[Time: 00:16:01] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SecurityTestingAndVerification are
+[]
+[Time: 00:16:02] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SecurityWorkingGroup are
+[]
+[Time: 00:16:04] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SelectSecurityControls are
+[]
+[Time: 00:16:05] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SeniorManagementRole are
+[]
+[Time: 00:16:07] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SeniorResponsibleOwnerRole are
+[]
+[Time: 00:16:07] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Service are
+[EntityMapping(https://example.org/mod-sbd#Service <EquivalentTo> https://example.org/ontology/sora#Service, 1.0)]
+[Time: 00:16:08] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SinglePointOfFailure are
+[]
+[Time: 00:16:10] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SocialEngineering are
+[]
+[Time: 00:16:11] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SocioTechnicalRisk are
+[]
+[Time: 00:16:13] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SocioTechnicalSecurity are
+[]
+[Time: 00:16:14] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SpecialistCyberResponderRole are
+[]
+[Time: 00:16:16] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Specification are
+[]
+[Time: 00:16:17] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#StakeholderNeedOrExpectation are
+[]
+[Time: 00:16:19] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#StakeholderRole are
+[]
+[Time: 00:16:19] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Standard are
+[EntityMapping(https://example.org/mod-sbd#Standard <EquivalentTo> https://example.org/ontology/sora#Standard, 1.0)]
+[Time: 00:16:20] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#StoredData are
+[]
+[Time: 00:16:21] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SupplierOrganisation are
+[]
+[Time: 00:16:23] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SupplyChain are
+[]
+[Time: 00:16:24] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SupplyChainAssuranceEvidence are
+[]
+[Time: 00:16:26] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SupplyChainRiskManagement are
+[]
+[Time: 00:16:27] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#SupplyChainSecurityPractice are
+[]
+[Time: 00:16:27] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#System are
+[EntityMapping(https://example.org/mod-sbd#System <EquivalentTo> https://example.org/ontology/sora#System, 1.0)]
+[Time: 00:16:29] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#TechnologicalChangeRisk are
+[]
+[Time: 00:16:30] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Technology are
+[]
+[Time: 00:16:32] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#TestSecurityResilience are
+[]
+[Time: 00:16:33] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#TestingEvidence are
+[]
+[Time: 00:16:35] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ThirdPartyOrganisation are
+[]
+[Time: 00:16:36] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Threat are
+[]
+[Time: 00:16:38] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ThreatActorRole are
+[]
+[Time: 00:16:39] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ThreatAssessment are
+[]
+[Time: 00:16:41] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ThreatAssumption are
+[]
+[Time: 00:16:42] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ThreatConcept are
+[]
+[Time: 00:16:43] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ThreatInformedSecurity are
+[]
+[Time: 00:16:45] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ThreatIntelligence are
+[]
+[Time: 00:16:46] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ThreatManagementActivity are
+[]
+[Time: 00:16:48] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ThreatModelling are
+[]
+[Time: 00:16:49] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#ThroughLifeManagementPlan are
+[]
+[Time: 00:16:51] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Tier1Supplier are
+[]
+[Time: 00:16:52] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Tier2Supplier are
+[]
+[Time: 00:16:54] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Tier3Supplier are
+[]
+[Time: 00:16:55] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Traceability are
+[]
+[Time: 00:16:57] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#TrainPersonnel are
+[]
+[Time: 00:16:58] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#TrainingEvidence are
+[]
+[Time: 00:16:59] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#TransmissionPath are
+[]
+[Time: 00:17:01] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#UnderstandContext are
+[]
+[Time: 00:17:02] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Update are
+[]
+[Time: 00:17:04] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Upgrade are
+[]
+[Time: 00:17:05] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#Vulnerability are
+[]
+[Time: 00:17:06] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#VulnerabilityManagement are
+[]
+[Time: 00:17:08] - [PID: 2266] - [Model: bertmap] 
+The best scored class mappings for https://example.org/mod-sbd#VulnerabilityManagementActivity are
+[]
+[Time: 00:17:08] - [PID: 2266] - [Model: bertmap] 
+Save currently computed mappings to prevent undesirable loss.
+[Time: 00:17:08] - [PID: 2266] - [Model: bertmap] 
+Finished mapping prediction for each class in the source ontology.
+[Time: 00:17:08] - [PID: 2266] - [Model: bertmap] 
+Start mapping extension for each class pair with score >= 0.9.
+[Time: 00:17:08] - [PID: 2266] - [Model: bertmap] 
+New mappings (in tuples) extended from ('https://example.org/mod-sbd#Activity', 'https://example.org/ontology/sora#Activity') are:
+[]
+[Time: 00:17:08] - [PID: 2266] - [Model: bertmap] 
+New mappings (in tuples) extended from ('https://example.org/mod-sbd#Component', 'https://example.org/ontology/sora#Component') are:
+[]
+[Time: 00:17:08] - [PID: 2266] - [Model: bertmap] 
+New mappings (in tuples) extended from ('https://example.org/mod-sbd#Data', 'https://example.org/ontology/sora#Data') are:
+[]
+[Time: 00:17:08] - [PID: 2266] - [Model: bertmap] 
+New mappings (in tuples) extended from ('https://example.org/mod-sbd#Organisation', 'https://example.org/ontology/sora#Organisation') are:
+[]
+[Time: 00:17:08] - [PID: 2266] - [Model: bertmap] 
+New mappings (in tuples) extended from ('https://example.org/mod-sbd#Programme', 'https://example.org/ontology/sora#Programme') are:
+[]
+[Time: 00:17:08] - [PID: 2266] - [Model: bertmap] 
+New mappings (in tuples) extended from ('https://example.org/mod-sbd#Risk', 'https://example.org/ontology/sora#Risk') are:
+[]
+[Time: 00:17:08] - [PID: 2266] - [Model: bertmap] 
+New mappings (in tuples) extended from ('https://example.org/mod-sbd#Service', 'https://example.org/ontology/sora#Service') are:
+[]
+[Time: 00:17:08] - [PID: 2266] - [Model: bertmap] 
+New mappings (in tuples) extended from ('https://example.org/mod-sbd#Standard', 'https://example.org/ontology/sora#Standard') are:
+[]
+[Time: 00:17:08] - [PID: 2266] - [Model: bertmap] 
+New mappings (in tuples) extended from ('https://example.org/mod-sbd#System', 'https://example.org/ontology/sora#System') are:
+[]
+[Time: 00:17:08] - [PID: 2266] - [Model: bertmap] 
+Add 0 mappings at iteration #0.
+[Time: 00:17:08] - [PID: 2266] - [Model: bertmap] 
+Finished iterative mapping extension with 0 new mappings and in total 9 extended mappings.
+[Time: 00:17:08] - [PID: 2266] - [Model: bertmap] 
+Filtered the extended mappings by a threshold of 0.9995.There are 9 mappings left for mapping repair.
+[Time: 00:17:08] - [PID: 2266] - [Model: bertmap] 
+LogMap repair intentionally skipped; filtered mappings retained for evaluation.

@@ -1,0 +1,4 @@
+matcher_a,matcher_b,matcher_a_count,matcher_b_count,shared_mappings,union_mappings,jaccard_agreement
+LogMap,AML,21,42,17,46,0.369565
+LogMap,BERTMap,21,9,9,21,0.428571
+AML,BERTMap,42,9,9,42,0.214286

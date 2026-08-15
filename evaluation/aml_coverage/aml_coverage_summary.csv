@@ -1,0 +1,9 @@
+ontology_side,entity_type,total,mapped,unaligned
+source_SbD,class,257,25,232
+source_SbD,object_property,55,17,38
+source_SbD,data_property,11,0,11
+source_SbD,individual,285,0,285
+target_SORA,class,136,25,111
+target_SORA,object_property,43,17,26
+target_SORA,data_property,3,0,3
+target_SORA,individual,864,0,864

@@ -1,0 +1,21 @@
+{
+  "run_number": 1,
+  "seed": 888,
+  "runtime_seconds": 925.825,
+  "model": "bertmap",
+  "pretrained_model": "emilyalsentzer/Bio_ClinicalBERT",
+  "known_mappings": null,
+  "reasoner": "ELK",
+  "logmap_repair_completed": false,
+  "evaluated_output": "filtered_mappings.tsv",
+  "raw_mapping_count": 9,
+  "extended_mapping_count": 9,
+  "filtered_mapping_count": 9,
+  "best_checkpoint": "checkpoint-400",
+  "filtered_mappings_sha256": "d79cd720f7924f31ec6be2c3da90097b4068289e027be6a7806cb5c7d823ac51",
+  "model_sha256": "e215d293498e8906bb2f08ce7cf54a45e4b5ce7079b5b4647e387aaf3fe6b76d",
+  "training_samples": 7039,
+  "validation_samples": 783,
+  "best_validation_loss": 0.098452,
+  "best_checkpoint_validation_accuracy": 0.960409
+}

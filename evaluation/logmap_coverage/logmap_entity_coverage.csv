@@ -1,0 +1,5 @@
+entity_type,source_total,source_mapped,source_unaligned,target_total,target_mapped,target_unaligned
+class,257,17,240,136,17,119
+object_property,55,0,55,43,0,43
+data_property,11,0,11,3,0,3
+individual,285,4,281,864,4,860

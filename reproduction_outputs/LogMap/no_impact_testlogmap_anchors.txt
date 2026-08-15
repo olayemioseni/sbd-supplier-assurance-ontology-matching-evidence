@@ -1,0 +1,10 @@
+https://example.org/mod-sbd#CyberRisk|https://example.org/ontology/sora#CyberRisk|=|0.9|CLS
+https://example.org/mod-sbd#Data|https://example.org/ontology/sora#Data|=|0.56|CLS
+https://example.org/mod-sbd#LifecycleContext|https://example.org/ontology/sora#LifecycleContext|=|0.65|CLS
+https://example.org/mod-sbd#HumanError|https://example.org/ontology/sora#HumanError|=|0.72|CLS
+https://example.org/mod-sbd#Standard|https://example.org/ontology/sora#Standard|=|0.57|CLS
+https://example.org/mod-sbd#InformationArtifact|https://example.org/ontology/sora#InformationArtifact|=|0.62|CLS
+https://example.org/mod-sbd#Programme|https://example.org/ontology/sora#Programme|=|0.55|CLS
+https://example.org/mod-sbd#Risk|https://example.org/ontology/sora#Risk|=|0.65|CLS
+https://example.org/mod-sbd#Component|https://example.org/ontology/sora#Component|=|0.52|CLS
+https://example.org/mod-sbd#System|https://example.org/ontology/sora#System|=|0.54|CLS

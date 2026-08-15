@@ -1,0 +1,1613 @@
+ontology_side,entity_type,entity_iri,label
+source,class,https://example.org/mod-sbd#Accountability,Accountability
+source,class,https://example.org/mod-sbd#AcquireSecurely,Acquire Securely
+source,class,https://example.org/mod-sbd#AcquisitionAndSupplyChainActivity,Acquisition and Supply-Chain Activity
+source,class,https://example.org/mod-sbd#AdverseSecurityEvent,Adverse Security Event
+source,class,https://example.org/mod-sbd#AllocateResources,Allocate Resources
+source,class,https://example.org/mod-sbd#AnalyseRisk,Analyse Risk
+source,class,https://example.org/mod-sbd#AnticipateTechnologicalChange,Anticipate Technological Change
+source,class,https://example.org/mod-sbd#Architecture,Architecture
+source,class,https://example.org/mod-sbd#ArchivalManagement,Archival Management
+source,class,https://example.org/mod-sbd#ArtefactReference,Artefact Reference
+source,class,https://example.org/mod-sbd#AssessmentStage,Assessment
+source,class,https://example.org/mod-sbd#Asset,Asset
+source,class,https://example.org/mod-sbd#AssetManagement,Asset Management
+source,class,https://example.org/mod-sbd#AssuranceEvidence,Assurance Evidence
+source,class,https://example.org/mod-sbd#AssuranceSecurityPractice,Assurance Security Practice
+source,class,https://example.org/mod-sbd#AtomicRequirementClause,Atomic Requirement Clause
+source,class,https://example.org/mod-sbd#AttackScenario,Attack Scenario
+source,class,https://example.org/mod-sbd#AttackTechnique,Attack Method or Technique
+source,class,https://example.org/mod-sbd#Availability,Availability
+source,class,https://example.org/mod-sbd#Backup,Backup
+source,class,https://example.org/mod-sbd#BusinessContinuity,Business Continuity
+source,class,https://example.org/mod-sbd#BusinessContinuityPlan,Business Continuity Plan
+source,class,https://example.org/mod-sbd#CADMIDStage,CADMID Stage
+source,class,https://example.org/mod-sbd#Capability,Capability
+source,class,https://example.org/mod-sbd#CapabilityTeam,Capability Team
+source,class,https://example.org/mod-sbd#CaptureLessonsLearned,Capture Lessons Learned
+source,class,https://example.org/mod-sbd#CommunicateSecurityInformation,Communicate Security Information
+source,class,https://example.org/mod-sbd#Compromise,Compromise
+source,class,https://example.org/mod-sbd#ConceptStage,Concept
+source,class,https://example.org/mod-sbd#ConductForensics,Conduct Forensics
+source,class,https://example.org/mod-sbd#ConductRiskAssessment,Conduct Risk Assessment
+source,class,https://example.org/mod-sbd#ConductRootCauseAnalysis,Conduct Root Cause Analysis
+source,class,https://example.org/mod-sbd#ConductThreatAnalysis,Conduct Threat Analysis
+source,class,https://example.org/mod-sbd#ConductThreatAssessment,Conduct Threat Assessment
+source,class,https://example.org/mod-sbd#Confidentiality,Confidentiality
+source,class,https://example.org/mod-sbd#Context,Context
+source,class,https://example.org/mod-sbd#ContextualConcept,Contextual Concept
+source,class,https://example.org/mod-sbd#ContinuousAssurance,Continuous Assurance
+source,class,https://example.org/mod-sbd#ContinuousRiskManagement,Continuous Risk Management
+source,class,https://example.org/mod-sbd#Contract,Contract
+source,class,https://example.org/mod-sbd#CriticalData,Critical Data
+source,class,https://example.org/mod-sbd#CrossLifecycleContext,Cross-Lifecycle / Through-Life Context
+source,class,https://example.org/mod-sbd#CryptographicProtection,Cryptographic Protection
+source,class,https://example.org/mod-sbd#CyberResilientArchitecture,Cyber-Resilient Architecture
+source,class,https://example.org/mod-sbd#CyberResilientDesign,Cyber-Resilient Design
+source,class,https://example.org/mod-sbd#CyberRiskAssessment,Cyber Risk Assessment
+source,class,https://example.org/mod-sbd#CyberSecurityStrategy,Cyber Security Strategy
+source,class,https://example.org/mod-sbd#Cyberattack,Cyberattack
+source,class,https://example.org/mod-sbd#CybersecurityDecision,Cybersecurity Decision
+source,class,https://example.org/mod-sbd#DataInTransit,Data in Transit
+source,class,https://example.org/mod-sbd#DataInventory,Data Inventory
+source,class,https://example.org/mod-sbd#DataProtection,Data Protection
+source,class,https://example.org/mod-sbd#Decision,Decision
+source,class,https://example.org/mod-sbd#DecisionMakerRole,Decision Maker
+source,class,https://example.org/mod-sbd#DefenceStrategicObjective,Defence Strategic Objective
+source,class,https://example.org/mod-sbd#DefineRolesAndResponsibilities,Define Roles and Responsibilities
+source,class,https://example.org/mod-sbd#DefineSecurityRequirements,Define Security Requirements
+source,class,https://example.org/mod-sbd#DemonstrationStage,Demonstration
+source,class,https://example.org/mod-sbd#DesignDevelopmentSecurityPractice,Design and Development Security Practice
+source,class,https://example.org/mod-sbd#DesignStandard,Design Standard
+source,class,https://example.org/mod-sbd#DevelopAttackScenarios,Develop Attack Scenarios
+source,class,https://example.org/mod-sbd#DevelopSecurely,Develop Securely
+source,class,https://example.org/mod-sbd#DevelopmentPractice,Development Practice
+source,class,https://example.org/mod-sbd#DisasterRecovery,Disaster Recovery
+source,class,https://example.org/mod-sbd#DisasterRecoveryPlan,Disaster Recovery Plan
+source,class,https://example.org/mod-sbd#DisposalStage,Disposal
+source,class,https://example.org/mod-sbd#DisposeSecurely,Dispose Securely
+source,class,https://example.org/mod-sbd#DocumentedEvidence,Documented Evidence
+source,class,https://example.org/mod-sbd#EndUserRole,End User
+source,class,https://example.org/mod-sbd#EssentialFunction,Essential Function
+source,class,https://example.org/mod-sbd#EssentialSystem,Essential System
+source,class,https://example.org/mod-sbd#EvidenceAssessmentOutput,Evidence or Assessment Output
+source,class,https://example.org/mod-sbd#EvidenceRecord,Evidence Record
+source,class,https://example.org/mod-sbd#ExerciseRecovery,Exercise Recovery
+source,class,https://example.org/mod-sbd#ExternalRequirement,"External Legal, Regulatory or Policy Requirement"
+source,class,https://example.org/mod-sbd#FinancialForecast,Financial Forecast
+source,class,https://example.org/mod-sbd#ForensicRecord,Forensic Record
+source,class,https://example.org/mod-sbd#Function,Function
+source,class,https://example.org/mod-sbd#GovernCybersecurity,Govern Cybersecurity
+source,class,https://example.org/mod-sbd#GovernanceActivity,Governance Activity
+source,class,https://example.org/mod-sbd#IdentifyDocumentData,Identify or Document Data
+source,class,https://example.org/mod-sbd#IdentifyRisk,Identify Risk
+source,class,https://example.org/mod-sbd#InServiceStage,In-Service
+source,class,https://example.org/mod-sbd#Incident,Incident
+source,class,https://example.org/mod-sbd#IncidentContainment,Incident Containment
+source,class,https://example.org/mod-sbd#IncidentManagementActivity,Incident Management Activity
+source,class,https://example.org/mod-sbd#IncidentResponse,Incident Response
+source,class,https://example.org/mod-sbd#IncidentResponsePlan,Incident Response Plan
+source,class,https://example.org/mod-sbd#IncidentReviewRecord,Incident Review Record
+source,class,https://example.org/mod-sbd#InformationSecurityService,Information Security Service
+source,class,https://example.org/mod-sbd#InformationTechnology,Information Technology (IT)
+source,class,https://example.org/mod-sbd#Infrastructure,Infrastructure
+source,class,https://example.org/mod-sbd#InherentRisk,Inherent Risk
+source,class,https://example.org/mod-sbd#InsiderThreat,Insider Threat
+source,class,https://example.org/mod-sbd#Integrity,Integrity
+source,class,https://example.org/mod-sbd#InvestmentApproval,Investment Approval
+source,class,https://example.org/mod-sbd#InviteToTenderDocumentation,Invite to Tender Documentation
+source,class,https://example.org/mod-sbd#KnowledgeAsset,Knowledge Asset
+source,class,https://example.org/mod-sbd#LifecycleManagementActivity,Lifecycle Management Activity
+source,class,https://example.org/mod-sbd#LifecycleSecurityPractice,Lifecycle Security Practice
+source,class,https://example.org/mod-sbd#MaintainDataInventory,Maintain Data Inventory
+source,class,https://example.org/mod-sbd#MakeSecurityAuthorisationDecision,Make Security Authorisation Decision
+source,class,https://example.org/mod-sbd#ManageAssets,Manage Assets
+source,class,https://example.org/mod-sbd#ManageBackups,Manage Backups
+source,class,https://example.org/mod-sbd#ManageIncident,Manage Incident
+source,class,https://example.org/mod-sbd#ManageSecurityControls,Manage Security Controls
+source,class,https://example.org/mod-sbd#ManageThroughLife,Manage Through Life
+source,class,https://example.org/mod-sbd#ManageVulnerabilities,Manage Vulnerabilities
+source,class,https://example.org/mod-sbd#ManagedObject,Managed or Protected Object
+source,class,https://example.org/mod-sbd#ManufactureStage,Manufacture
+source,class,https://example.org/mod-sbd#Mission,Mission
+source,class,https://example.org/mod-sbd#MonitorRemediation,Monitor Remediation
+source,class,https://example.org/mod-sbd#MonitorRiskEffectiveness,Monitor Risk or Effectiveness
+source,class,https://example.org/mod-sbd#MonitoringAndDetection,Monitoring and Detection
+source,class,https://example.org/mod-sbd#MonitoringEvidence,Monitoring Evidence
+source,class,https://example.org/mod-sbd#NormativeElement,Normative Element
+source,class,https://example.org/mod-sbd#Obsolescence,Obsolescence
+source,class,https://example.org/mod-sbd#ObtainSupplyChainAssurance,Obtain Supply Chain Assurance
+source,class,https://example.org/mod-sbd#OnboardingOffboarding,Onboarding or Offboarding
+source,class,https://example.org/mod-sbd#OperationalContext,Operational Context
+source,class,https://example.org/mod-sbd#OperationalKnowledge,Operational Knowledge
+source,class,https://example.org/mod-sbd#OperationalResilienceSecurityPractice,Operational Resilience Security Practice
+source,class,https://example.org/mod-sbd#OperationalTechnology,Operational Technology (OT)
+source,class,https://example.org/mod-sbd#OrganisationalConcept,Organisational Concept
+source,class,https://example.org/mod-sbd#OrganisationalContext,Organisational Context
+source,class,https://example.org/mod-sbd#OrganisationalEntity,Organisational Entity
+source,class,https://example.org/mod-sbd#OrganisationalRiskAppetiteStatement,Organisational Risk Appetite Statement
+source,class,https://example.org/mod-sbd#OrganisationalUnit,Organisational Unit
+source,class,https://example.org/mod-sbd#PerformDueDiligence,Perform Due Diligence
+source,class,https://example.org/mod-sbd#Personnel,Personnel
+source,class,https://example.org/mod-sbd#PersonnelLifecycleContext,Personnel Lifecycle Context
+source,class,https://example.org/mod-sbd#PlanIncidentResponse,Plan Incident Response
+source,class,https://example.org/mod-sbd#PlanRiskResponse,Plan Risk Response
+source,class,https://example.org/mod-sbd#PlanningArtefact,Planning Artefact
+source,class,https://example.org/mod-sbd#PostIncidentOperationalNorm,Post-Incident Operational Norm
+source,class,https://example.org/mod-sbd#PrimeSupplier,Prime Supplier
+source,class,https://example.org/mod-sbd#PrioritiseRisk,Prioritise Risk
+source,class,https://example.org/mod-sbd#ProcurementArtefact,Procurement Artefact
+source,class,https://example.org/mod-sbd#ProgrammeBoard,Programme Board
+source,class,https://example.org/mod-sbd#ProgrammeSponsorRole,Programme Sponsor
+source,class,https://example.org/mod-sbd#ProtectData,Protect Data
+source,class,https://example.org/mod-sbd#ProtectionControlSecurityPractice,Protection and Control Security Practice
+source,class,https://example.org/mod-sbd#Recover,Recover
+source,class,https://example.org/mod-sbd#Recoverability,Recoverability
+source,class,https://example.org/mod-sbd#RecoveryPlan,Recovery Plan
+source,class,https://example.org/mod-sbd#RecoveryPreparedness,Recovery Preparedness
+source,class,https://example.org/mod-sbd#RecoverySupportService,Recovery Support Service
+source,class,https://example.org/mod-sbd#Remediate,Remediate
+source,class,https://example.org/mod-sbd#ReportingRecord,Reporting Record
+source,class,https://example.org/mod-sbd#ResidualCyberRisk,Residual Cyber Risk
+source,class,https://example.org/mod-sbd#Resilience,Resilience
+source,class,https://example.org/mod-sbd#ResilienceMechanism,Resilience Mechanism
+source,class,https://example.org/mod-sbd#Resource,Resource
+source,class,https://example.org/mod-sbd#ResourceGap,Resource Gap
+source,class,https://example.org/mod-sbd#ResponseTeam,Response Team
+source,class,https://example.org/mod-sbd#Review,Review
+source,class,https://example.org/mod-sbd#ReviewIncidents,Review Incidents
+source,class,https://example.org/mod-sbd#ReviewRecord,Review Record
+source,class,https://example.org/mod-sbd#ReviewTestArchitecture,Review or Test Architecture
+source,class,https://example.org/mod-sbd#RiskAppetite,Risk Appetite
+source,class,https://example.org/mod-sbd#RiskAppetiteStatement,Risk Appetite Statement
+source,class,https://example.org/mod-sbd#RiskBasedSecurity,Risk-Based Security
+source,class,https://example.org/mod-sbd#RiskCommunication,Risk Communication
+source,class,https://example.org/mod-sbd#RiskConcept,Risk Concept
+source,class,https://example.org/mod-sbd#RiskContributor,Risk Contributor
+source,class,https://example.org/mod-sbd#RiskDecisionInformation,Risk Decision Information
+source,class,https://example.org/mod-sbd#RiskGovernanceSecurityPractice,Risk and Governance Security Practice
+source,class,https://example.org/mod-sbd#RiskManagementActivity,Risk Management Activity
+source,class,https://example.org/mod-sbd#RiskManagementFramework,Risk Management Framework
+source,class,https://example.org/mod-sbd#RiskOwnerRole,Risk Owner
+source,class,https://example.org/mod-sbd#RiskResponse,Risk Response
+source,class,https://example.org/mod-sbd#RiskTreatment,Risk Treatment
+source,class,https://example.org/mod-sbd#Role,Role
+source,class,https://example.org/mod-sbd#RoleRedundancy,Role Redundancy
+source,class,https://example.org/mod-sbd#SQEPPersonnel,Suitably Qualified and Experienced Personnel (SQEP)
+source,class,https://example.org/mod-sbd#SbDCriterion,SbD Criterion
+source,class,https://example.org/mod-sbd#SbDPrinciple,SbD Principle
+source,class,https://example.org/mod-sbd#SbDRequirement,SbD Requirement
+source,class,https://example.org/mod-sbd#SecureAcquisition,Secure Acquisition
+source,class,https://example.org/mod-sbd#SecureByDesign,Secure by Design
+source,class,https://example.org/mod-sbd#SecureDevelopment,Secure Development
+source,class,https://example.org/mod-sbd#SecureDisposal,Secure Disposal
+source,class,https://example.org/mod-sbd#SecurityArtefact,Security Artefact
+source,class,https://example.org/mod-sbd#SecurityAuthorisationDecision,Security Authorisation Decision
+source,class,https://example.org/mod-sbd#SecurityAwareness,Security Awareness
+source,class,https://example.org/mod-sbd#SecurityAwarenessMeasurement,Security Awareness Measurement
+source,class,https://example.org/mod-sbd#SecurityControl,Security Control
+source,class,https://example.org/mod-sbd#SecurityEngineeringActivity,Security Engineering Activity
+source,class,https://example.org/mod-sbd#SecurityGovernance,Security Governance
+source,class,https://example.org/mod-sbd#SecurityManagementConcept,Security Management Concept
+source,class,https://example.org/mod-sbd#SecurityReporting,Security Reporting
+source,class,https://example.org/mod-sbd#SecurityRequirement,Security Requirement
+source,class,https://example.org/mod-sbd#SecurityRequirementFlowDown,Security Requirement Flow-Down
+source,class,https://example.org/mod-sbd#SecurityTestingAndVerification,Security Testing and Verification
+source,class,https://example.org/mod-sbd#SecurityWorkingGroup,Security Working Group
+source,class,https://example.org/mod-sbd#SelectSecurityControls,Select Security Controls
+source,class,https://example.org/mod-sbd#SeniorManagementRole,Senior Management
+source,class,https://example.org/mod-sbd#SeniorResponsibleOwnerRole,Senior Responsible Owner
+source,class,https://example.org/mod-sbd#SinglePointOfFailure,Single Point of Failure
+source,class,https://example.org/mod-sbd#SocialEngineering,Social Engineering
+source,class,https://example.org/mod-sbd#SocioTechnicalRisk,Socio-Technical Risk
+source,class,https://example.org/mod-sbd#SocioTechnicalSecurity,Socio-Technical Security
+source,class,https://example.org/mod-sbd#SpecialistCyberResponderRole,Specialist Cyber Responder
+source,class,https://example.org/mod-sbd#Specification,Specification
+source,class,https://example.org/mod-sbd#StakeholderNeedOrExpectation,Stakeholder Need or Expectation
+source,class,https://example.org/mod-sbd#StakeholderRole,Stakeholder Role
+source,class,https://example.org/mod-sbd#StoredData,Stored Data
+source,class,https://example.org/mod-sbd#SupplierOrganisation,Supplier Organisation
+source,class,https://example.org/mod-sbd#SupplyChain,Supply Chain
+source,class,https://example.org/mod-sbd#SupplyChainAssuranceEvidence,Supply Chain Assurance Evidence
+source,class,https://example.org/mod-sbd#SupplyChainRiskManagement,Supply Chain Risk Management
+source,class,https://example.org/mod-sbd#SupplyChainSecurityPractice,Supply-Chain Security Practice
+source,class,https://example.org/mod-sbd#TechnologicalChangeRisk,Technological Change Risk
+source,class,https://example.org/mod-sbd#Technology,Technology
+source,class,https://example.org/mod-sbd#TestSecurityResilience,Test Security or Resilience
+source,class,https://example.org/mod-sbd#TestingEvidence,Testing Evidence
+source,class,https://example.org/mod-sbd#ThirdPartyOrganisation,Third Party
+source,class,https://example.org/mod-sbd#Threat,Threat
+source,class,https://example.org/mod-sbd#ThreatActorRole,Threat Actor
+source,class,https://example.org/mod-sbd#ThreatAssessment,Threat Assessment
+source,class,https://example.org/mod-sbd#ThreatAssumption,Threat Assumption
+source,class,https://example.org/mod-sbd#ThreatConcept,Threat Concept
+source,class,https://example.org/mod-sbd#ThreatInformedSecurity,Threat-Informed Security
+source,class,https://example.org/mod-sbd#ThreatIntelligence,Threat Intelligence
+source,class,https://example.org/mod-sbd#ThreatManagementActivity,Threat Assessment and Modelling Activity
+source,class,https://example.org/mod-sbd#ThreatModelling,Threat Modelling
+source,class,https://example.org/mod-sbd#ThroughLifeManagementPlan,Through-Life Management Plan
+source,class,https://example.org/mod-sbd#Tier1Supplier,Tier 1 Supplier
+source,class,https://example.org/mod-sbd#Tier2Supplier,Tier 2 Supplier
+source,class,https://example.org/mod-sbd#Tier3Supplier,Tier 3 Supplier
+source,class,https://example.org/mod-sbd#Traceability,Traceability
+source,class,https://example.org/mod-sbd#TrainPersonnel,Train Personnel
+source,class,https://example.org/mod-sbd#TrainingEvidence,Training Record or Evidence
+source,class,https://example.org/mod-sbd#TransmissionPath,Transmission Path
+source,class,https://example.org/mod-sbd#UnderstandContext,Understand Context
+source,class,https://example.org/mod-sbd#Update,Update
+source,class,https://example.org/mod-sbd#Upgrade,Upgrade
+source,class,https://example.org/mod-sbd#Vulnerability,Vulnerability
+source,class,https://example.org/mod-sbd#VulnerabilityManagement,Vulnerability Management
+source,class,https://example.org/mod-sbd#VulnerabilityManagementActivity,Vulnerability Management Activity
+target,class,https://example.org/ontology/sora#Accreditation,Accreditation
+target,class,https://example.org/ontology/sora#ActivityType,ActivityType
+target,class,https://example.org/ontology/sora#Actor,Actor
+target,class,https://example.org/ontology/sora#ActorRole,ActorRole
+target,class,https://example.org/ontology/sora#AdverseEnvironmentalCondition,AdverseEnvironmentalCondition
+target,class,https://example.org/ontology/sora#AirworthinessDesignStandard,AirworthinessDesignStandard
+target,class,https://example.org/ontology/sora#AnalyticalAtomicObligation,AnalyticalAtomicObligation
+target,class,https://example.org/ontology/sora#AnalyticalRequirementElement,AnalyticalRequirementElement
+target,class,https://example.org/ontology/sora#ApplicabilityReference,ApplicabilityReference
+target,class,https://example.org/ontology/sora#AssessmentArtifact,AssessmentArtifact
+target,class,https://example.org/ontology/sora#AssuranceArtifact,AssuranceArtifact
+target,class,https://example.org/ontology/sora#AssuranceClaim,AssuranceClaim
+target,class,https://example.org/ontology/sora#AssuranceStatement,AssuranceStatement
+target,class,https://example.org/ontology/sora#AuditProgramme,AuditProgramme
+target,class,https://example.org/ontology/sora#C2Link,C2Link
+target,class,https://example.org/ontology/sora#C3Link,C3Link
+target,class,https://example.org/ontology/sora#Certificate,Certificate
+target,class,https://example.org/ontology/sora#Checklist,Checklist
+target,class,https://example.org/ontology/sora#CommunicationDevice,CommunicationDevice
+target,class,https://example.org/ontology/sora#CommunicationLink,CommunicationLink
+target,class,https://example.org/ontology/sora#ComputerSystem,ComputerSystem
+target,class,https://example.org/ontology/sora#ConceptOfOperations,ConceptOfOperations
+target,class,https://example.org/ontology/sora#Configuration,Configuration
+target,class,https://example.org/ontology/sora#ConformityStatus,ConformityStatus
+target,class,https://example.org/ontology/sora#ControlStation,ControlStation
+target,class,https://example.org/ontology/sora#Credential,Credential
+target,class,https://example.org/ontology/sora#Criterion,Criterion
+target,class,https://example.org/ontology/sora#CriterionType,CriterionType
+target,class,https://example.org/ontology/sora#CyberSafetyPolicy,CyberSafetyPolicy
+target,class,https://example.org/ontology/sora#CybersecurityAccreditation,CybersecurityAccreditation
+target,class,https://example.org/ontology/sora#Datalink,Datalink
+target,class,https://example.org/ontology/sora#Declaration,Declaration
+target,class,https://example.org/ontology/sora#DesignData,DesignData
+target,class,https://example.org/ontology/sora#DesignInstallationAppraisal,DesignInstallationAppraisal
+target,class,https://example.org/ontology/sora#Document,Document
+target,class,https://example.org/ontology/sora#EmergencyResponsePlan,EmergencyResponsePlan
+target,class,https://example.org/ontology/sora#EnvironmentalCondition,EnvironmentalCondition
+target,class,https://example.org/ontology/sora#Equipment,Equipment
+target,class,https://example.org/ontology/sora#EvidenceArtifact,EvidenceArtifact
+target,class,https://example.org/ontology/sora#ExternalService,ExternalService
+target,class,https://example.org/ontology/sora#ExternalSystem,ExternalSystem
+target,class,https://example.org/ontology/sora#Failure,Failure
+target,class,https://example.org/ontology/sora#FailureCondition,FailureCondition
+target,class,https://example.org/ontology/sora#FailureFrequencyCategory,FailureFrequencyCategory
+target,class,https://example.org/ontology/sora#FailureSeverityCategory,FailureSeverityCategory
+target,class,https://example.org/ontology/sora#FatigueRiskManagementSystem,FatigueRiskManagementSystem
+target,class,https://example.org/ontology/sora#Firmware,Firmware
+target,class,https://example.org/ontology/sora#FlightEnvelope,FlightEnvelope
+target,class,https://example.org/ontology/sora#FlightLog,FlightLog
+target,class,https://example.org/ontology/sora#FlightManual,FlightManual
+target,class,https://example.org/ontology/sora#FunctionalHazardAssessment,FunctionalHazardAssessment
+target,class,https://example.org/ontology/sora#GNSSSensor,GNSSSensor
+target,class,https://example.org/ontology/sora#Hardware,Hardware
+target,class,https://example.org/ontology/sora#Hazard,Hazard
+target,class,https://example.org/ontology/sora#HumanMachineInterface,HumanMachineInterface
+target,class,https://example.org/ontology/sora#ITSystem,ITSystem
+target,class,https://example.org/ontology/sora#Interface,Interface
+target,class,https://example.org/ontology/sora#Log,Log
+target,class,https://example.org/ontology/sora#LogFile,LogFile
+target,class,https://example.org/ontology/sora#MaintenanceComputer,MaintenanceComputer
+target,class,https://example.org/ontology/sora#MaintenanceLog,MaintenanceLog
+target,class,https://example.org/ontology/sora#MaintenanceProcedure,MaintenanceProcedure
+target,class,https://example.org/ontology/sora#MaintenanceProcedureManual,MaintenanceProcedureManual
+target,class,https://example.org/ontology/sora#MaintenanceProgramme,MaintenanceProgramme
+target,class,https://example.org/ontology/sora#MaintenanceRecord,MaintenanceRecord
+target,class,https://example.org/ontology/sora#ManagementSystem,ManagementSystem
+target,class,https://example.org/ontology/sora#Manual,Manual
+target,class,https://example.org/ontology/sora#Material,Material
+target,class,https://example.org/ontology/sora#MeansOfCompliance,MeansOfCompliance
+target,class,https://example.org/ontology/sora#Network,Network
+target,class,https://example.org/ontology/sora#NonObligationRequirementElement,NonObligationRequirementElement
+target,class,https://example.org/ontology/sora#NotApplicablePlaceholder,NotApplicablePlaceholder
+target,class,https://example.org/ontology/sora#OSORobustnessAssignment,OSORobustnessAssignment
+target,class,https://example.org/ontology/sora#OfficialCommitment,OfficialCommitment
+target,class,https://example.org/ontology/sora#OperationalAuthorisation,OperationalAuthorisation
+target,class,https://example.org/ontology/sora#OperationalCondition,OperationalCondition
+target,class,https://example.org/ontology/sora#OperationalContextElement,OperationalContextElement
+target,class,https://example.org/ontology/sora#OperationalProcedure,OperationalProcedure
+target,class,https://example.org/ontology/sora#OperationalSafetyObjective,OperationalSafetyObjective
+target,class,https://example.org/ontology/sora#OperationalStateType,OperationalStateType
+target,class,https://example.org/ontology/sora#OperationalVolume,OperationalVolume
+target,class,https://example.org/ontology/sora#OrganisationalArrangement,OrganisationalArrangement
+target,class,https://example.org/ontology/sora#OrganisationalCulture,OrganisationalCulture
+target,class,https://example.org/ontology/sora#Person,Person
+target,class,https://example.org/ontology/sora#Policy,Policy
+target,class,https://example.org/ontology/sora#Procedure,Procedure
+target,class,https://example.org/ontology/sora#QualificationCompetenceRecord,QualificationCompetenceRecord
+target,class,https://example.org/ontology/sora#RFSpectrum,RFSpectrum
+target,class,https://example.org/ontology/sora#Record,Record
+target,class,https://example.org/ontology/sora#RemotePilotStation,RemotePilotStation
+target,class,https://example.org/ontology/sora#RemovableMedia,RemovableMedia
+target,class,https://example.org/ontology/sora#RequirementClassification,RequirementClassification
+target,class,https://example.org/ontology/sora#RiskAndThreatConcept,RiskAndThreatConcept
+target,class,https://example.org/ontology/sora#RiskManagementProgramme,RiskManagementProgramme
+target,class,https://example.org/ontology/sora#RobustnessLevel,RobustnessLevel
+target,class,https://example.org/ontology/sora#SAILLevel,SAILLevel
+target,class,https://example.org/ontology/sora#SORAConcept,SORAConcept
+target,class,https://example.org/ontology/sora#SORARequirement,SORARequirement
+target,class,https://example.org/ontology/sora#SORARequirementElement,SORARequirementElement
+target,class,https://example.org/ontology/sora#SafetyAssessment,SafetyAssessment
+target,class,https://example.org/ontology/sora#SafetyCriticalData,SafetyCriticalData
+target,class,https://example.org/ontology/sora#SafetyManagementSystem,SafetyManagementSystem
+target,class,https://example.org/ontology/sora#SafetyObjective,SafetyObjective
+target,class,https://example.org/ontology/sora#SafetyRisk,SafetyRisk
+target,class,https://example.org/ontology/sora#SecurityAndSafetyConcept,SecurityAndSafetyConcept
+target,class,https://example.org/ontology/sora#SecurityEventType,SecurityEventType
+target,class,https://example.org/ontology/sora#SecurityFunction,SecurityFunction
+target,class,https://example.org/ontology/sora#Sensor,Sensor
+target,class,https://example.org/ontology/sora#ServiceLevelAgreement,ServiceLevelAgreement
+target,class,https://example.org/ontology/sora#Software,Software
+target,class,https://example.org/ontology/sora#SourceDocument,SourceDocument
+target,class,https://example.org/ontology/sora#TechnicalAsset,TechnicalAsset
+target,class,https://example.org/ontology/sora#ThreatType,ThreatType
+target,class,https://example.org/ontology/sora#Tool,Tool
+target,class,https://example.org/ontology/sora#TrainingProgramme,TrainingProgramme
+target,class,https://example.org/ontology/sora#TrainingRecord,TrainingRecord
+target,class,https://example.org/ontology/sora#TrainingSyllabus,TrainingSyllabus
+target,class,https://example.org/ontology/sora#UAS,UAS
+target,class,https://example.org/ontology/sora#UnmannedAircraft,UnmannedAircraft
+source,object_property,https://example.org/mod-sbd#addressesRiskConcept,addresses risk concept
+source,object_property,https://example.org/mod-sbd#addressesSecurityProperty,addresses security property
+source,object_property,https://example.org/mod-sbd#agreedBy,agreed by
+source,object_property,https://example.org/mod-sbd#appliesDuring,applies during
+source,object_property,https://example.org/mod-sbd#appliesTo,applies to
+source,object_property,https://example.org/mod-sbd#assesses,assesses
+source,object_property,https://example.org/mod-sbd#augmentedBy,augmented by
+source,object_property,https://example.org/mod-sbd#basedOn,based on
+source,object_property,https://example.org/mod-sbd#belongsToPrinciple,belongs to principle
+source,object_property,https://example.org/mod-sbd#communicatesTo,communicates to
+source,object_property,https://example.org/mod-sbd#considers,considers
+source,object_property,https://example.org/mod-sbd#contributesTo,contributes to
+source,object_property,https://example.org/mod-sbd#contributesToRisk,contributes to risk
+source,object_property,https://example.org/mod-sbd#criterionBelongsToPrinciple,criterion belongs to principle
+source,object_property,https://example.org/mod-sbd#definedBy,defined by
+source,object_property,https://example.org/mod-sbd#derivedFrom,derived from
+source,object_property,https://example.org/mod-sbd#escalatesTo,escalates to
+source,object_property,https://example.org/mod-sbd#expressesSecurityPractice,expresses security practice
+source,object_property,https://example.org/mod-sbd#feedsBackInto,feeds back into
+source,object_property,https://example.org/mod-sbd#flowsDownTo,flows down to
+source,object_property,https://example.org/mod-sbd#hasAtomicClause,has atomic clause
+source,object_property,https://example.org/mod-sbd#hasEvidenceExpectation,has evidence expectation
+source,object_property,https://example.org/mod-sbd#hasNeedOrExpectation,has need or expectation
+source,object_property,https://example.org/mod-sbd#hasResponsibleRole,has responsible role
+source,object_property,https://example.org/mod-sbd#hasRole,has role
+source,object_property,https://example.org/mod-sbd#hasSourceCriterion,has source criterion
+source,object_property,https://example.org/mod-sbd#impacts,impacts
+source,object_property,https://example.org/mod-sbd#includedIn,included in
+source,object_property,https://example.org/mod-sbd#informedBy,informed by
+source,object_property,https://example.org/mod-sbd#integratesWith,integrates with
+source,object_property,https://example.org/mod-sbd#involvesOrganisationalConcept,involves organisational concept
+source,object_property,https://example.org/mod-sbd#maintains,maintains
+source,object_property,https://example.org/mod-sbd#manages,manages
+source,object_property,https://example.org/mod-sbd#mitigates,mitigates
+source,object_property,https://example.org/mod-sbd#monitors,monitors
+source,object_property,https://example.org/mod-sbd#partOfRequirement,part of requirement
+source,object_property,https://example.org/mod-sbd#performedBy,performed by
+source,object_property,https://example.org/mod-sbd#performs,performs
+source,object_property,https://example.org/mod-sbd#prevents,prevents
+source,object_property,https://example.org/mod-sbd#produces,produces
+source,object_property,https://example.org/mod-sbd#protects,protects
+source,object_property,https://example.org/mod-sbd#providesUnderstandingOf,provides understanding of
+source,object_property,https://example.org/mod-sbd#records,records
+source,object_property,https://example.org/mod-sbd#reportsTo,reports to
+source,object_property,https://example.org/mod-sbd#requires,requires
+source,object_property,https://example.org/mod-sbd#requiresActivity,requires activity
+source,object_property,https://example.org/mod-sbd#requiresSecurityControl,requires security control
+source,object_property,https://example.org/mod-sbd#requiresSecurityPractice,requires security practice
+source,object_property,https://example.org/mod-sbd#reviewedBy,reviewed by
+source,object_property,https://example.org/mod-sbd#reviews,reviews
+source,object_property,https://example.org/mod-sbd#roleResponsibleFor,role responsible for
+source,object_property,https://example.org/mod-sbd#supports,supports
+source,object_property,https://example.org/mod-sbd#tests,tests
+source,object_property,https://example.org/mod-sbd#updatedFor,updated for
+source,object_property,https://example.org/mod-sbd#uses,uses
+target,object_property,https://example.org/ontology/sora#addresses,addresses
+target,object_property,https://example.org/ontology/sora#addsAtomicObligation,addsAtomicObligation
+target,object_property,https://example.org/ontology/sora#analyticalComponentOf,analyticalComponentOf
+target,object_property,https://example.org/ontology/sora#appliesToActorRole,appliesToActorRole
+target,object_property,https://example.org/ontology/sora#assignmentAtSAIL,assignmentAtSAIL
+target,object_property,https://example.org/ontology/sora#assignmentForOSO,assignmentForOSO
+target,object_property,https://example.org/ontology/sora#assignmentRequiresRobustness,assignmentRequiresRobustness
+target,object_property,https://example.org/ontology/sora#belongsToOSO,belongsToOSO
+target,object_property,https://example.org/ontology/sora#claimsSatisfactionOf,claimsSatisfactionOf
+target,object_property,https://example.org/ontology/sora#concerns,concerns
+target,object_property,https://example.org/ontology/sora#conformsTo,conformsTo
+target,object_property,https://example.org/ontology/sora#crossReferences,crossReferences
+target,object_property,https://example.org/ontology/sora#derivedFromSourceDocument,derivedFromSourceDocument
+target,object_property,https://example.org/ontology/sora#documents,documents
+target,object_property,https://example.org/ontology/sora#evidencesActivityType,evidencesActivityType
+target,object_property,https://example.org/ontology/sora#hasActivityType,hasActivityType
+target,object_property,https://example.org/ontology/sora#hasAlternativeCriterion,hasAlternativeCriterion
+target,object_property,https://example.org/ontology/sora#hasConformityStatus,hasConformityStatus
+target,object_property,https://example.org/ontology/sora#hasCriterion,hasCriterion
+target,object_property,https://example.org/ontology/sora#hasCriterionType,hasCriterionType
+target,object_property,https://example.org/ontology/sora#hasFailureFrequency,hasFailureFrequency
+target,object_property,https://example.org/ontology/sora#hasFailureSeverity,hasFailureSeverity
+target,object_property,https://example.org/ontology/sora#hasLifecycleContext,hasLifecycleContext
+target,object_property,https://example.org/ontology/sora#hasRequirementClassification,hasRequirementClassification
+target,object_property,https://example.org/ontology/sora#hasRobustnessLevel,hasRobustnessLevel
+target,object_property,https://example.org/ontology/sora#hasRole,hasRole
+target,object_property,https://example.org/ontology/sora#inheritsRequirement,inheritsRequirement
+target,object_property,https://example.org/ontology/sora#madeBy,madeBy
+target,object_property,https://example.org/ontology/sora#monitors,monitors
+target,object_property,https://example.org/ontology/sora#performsActivity,performsActivity
+target,object_property,https://example.org/ontology/sora#permitsDeclaration,permitsDeclaration
+target,object_property,https://example.org/ontology/sora#protects,protects
+target,object_property,https://example.org/ontology/sora#records,records
+target,object_property,https://example.org/ontology/sora#requiredAtSAIL,requiredAtSAIL
+target,object_property,https://example.org/ontology/sora#requiresActivityType,requiresActivityType
+target,object_property,https://example.org/ontology/sora#requiresAssuranceArtifact,requiresAssuranceArtifact
+target,object_property,https://example.org/ontology/sora#requiresEvidence,requiresEvidence
+target,object_property,https://example.org/ontology/sora#requiresSecurityMechanism,requiresSecurityMechanism
+target,object_property,https://example.org/ontology/sora#requiresSecurityPrinciple,requiresSecurityPrinciple
+target,object_property,https://example.org/ontology/sora#supportedByEvidence,supportedByEvidence
+target,object_property,https://example.org/ontology/sora#usesStandardOrMeans,usesStandardOrMeans
+target,object_property,https://example.org/ontology/sora#validatedBy,validatedBy
+target,object_property,https://example.org/ontology/sora#verifiedBy,verifiedBy
+source,data_property,https://example.org/mod-sbd#behaviouralImpact,behavioural impact
+source,data_property,https://example.org/mod-sbd#capabilityEffectiveness,capability effectiveness
+source,data_property,https://example.org/mod-sbd#impact,impact
+source,data_property,https://example.org/mod-sbd#isCommunityBasedService,is community-based service
+source,data_property,https://example.org/mod-sbd#isTrustedService,is trusted service
+source,data_property,https://example.org/mod-sbd#likelihood,likelihood
+source,data_property,https://example.org/mod-sbd#parentRequirementIdentifier,parent requirement identifier
+source,data_property,https://example.org/mod-sbd#referenceValue,reference value
+source,data_property,https://example.org/mod-sbd#sourceIdentifier,source identifier
+source,data_property,https://example.org/mod-sbd#sourceText,source text
+source,data_property,https://example.org/mod-sbd#sourceTitle,source title
+target,data_property,https://example.org/ontology/sora#clauseOrder,clauseOrder
+target,data_property,https://example.org/ontology/sora#isRequiredForSAIL,isRequiredForSAIL
+target,data_property,https://example.org/ontology/sora#sailOrdinal,sailOrdinal
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C1-R1,DSTL-SbD01-C1-R1 — Mission and Context
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C1-R2,DSTL-SbD01-C1-R2 — Mission and Context
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C1-R2-C1,"DSTL-SbD01-C1-R2-C1 — Understand the programme's stakeholders, including end users and programme sponsors, and their needs and expectations."
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C1-R2-C2,DSTL-SbD01-C1-R2-C2 — Consider stakeholder needs and expectations in cybersecurity risk management.
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C1-R3,DSTL-SbD01-C1-R3 — Mission and Context
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C1-R3-C1,DSTL-SbD01-C1-R3-C1 — Maintain a formally documented Cyber Security Strategy based on organisational context.
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C1-R3-C2,DSTL-SbD01-C1-R3-C2 — Review the Cyber Security Strategy regularly at board level.
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C1-R3-C3,DSTL-SbD01-C1-R3-C3 — Update the Cyber Security Strategy to reflect changes in the threat landscape and mission.
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C1-R4,DSTL-SbD01-C1-R4 — Mission and Context
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C2-R1,DSTL-SbD01-C2-R1 — Governance
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C2-R2,DSTL-SbD01-C2-R2 — Governance
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C2-R2-C1,DSTL-SbD01-C2-R2-C1 — Use Security Working Groups to manage cybersecurity decisions.
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C2-R2-C2,DSTL-SbD01-C2-R2-C2 — Communicate cybersecurity decisions meaningfully to decision makers.
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C2-R2-C3,DSTL-SbD01-C2-R2-C3 — Use timely and accurate information and expert guidance when communicating/managing cybersecurity decisions.
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C2-R3,DSTL-SbD01-C2-R3 — Governance
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C2-R3-C1,"DSTL-SbD01-C2-R3-C1 — Maintain programme awareness of applicable legal, regulatory and policy cybersecurity requirements."
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C2-R3-C2,"DSTL-SbD01-C2-R3-C2 — Ensure staff know the applicable legal, regulatory and policy cybersecurity requirements."
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C2-R4,DSTL-SbD01-C2-R4 — Governance
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C2-R4-C1,DSTL-SbD01-C2-R4-C1 — Clearly define cybersecurity roles and responsibilities.
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C2-R4-C2,"DSTL-SbD01-C2-R4-C2 — Assign cybersecurity roles and responsibilities across the programme, capability team(s) and supply chain."
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C3-R1,DSTL-SbD01-C3-R1 — Risk Appetite
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C3-R2,DSTL-SbD01-C3-R2 — Risk Appetite
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C3-R2-C1,DSTL-SbD01-C3-R2-C1 — Derive the programme Risk Appetite from the Defence Security Risk Appetite Statement.
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C3-R2-C2,DSTL-SbD01-C3-R2-C2 — Derive the programme Risk Appetite from relevant organisational Risk Appetite Statements.
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C3-R3,DSTL-SbD01-C3-R3 — Risk Appetite
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C3-R4,DSTL-SbD01-C3-R4 — Risk Appetite
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C3-R4-C1,DSTL-SbD01-C3-R4-C1 — Have the SRO define the programme Risk Appetite.
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C3-R4-C2,DSTL-SbD01-C3-R4-C2 — Obtain agreement to the Risk Appetite from key stakeholders.
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C3-R4-C3,DSTL-SbD01-C3-R4-C3 — Formally establish the Risk Appetite.
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C3-R4-C4,DSTL-SbD01-C3-R4-C4 — Communicate the Risk Appetite across the programme.
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-C3-R4-C5,DSTL-SbD01-C3-R4-C5 — Review the Risk Appetite regularly over time.
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-Criterion_01,Mission and Context
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-Criterion_02,Governance
+source,individual,https://example.org/mod-sbd#DSTL-SbD01-Criterion_03,Risk Appetite
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C1-R1,DSTL-SbD02-C1-R1 — Roles and Responsibilities
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C1-R2,DSTL-SbD02-C1-R2 — Roles and Responsibilities
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C1-R2-C1,"DSTL-SbD02-C1-R2-C1 — Clearly define roles, responsibilities and accountabilities for cybersecurity risk management."
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C1-R2-C2,"DSTL-SbD02-C1-R2-C2 — Communicate cybersecurity risk-management roles, responsibilities and accountabilities."
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C1-R2-C3,"DSTL-SbD02-C1-R2-C3 — Ensure cybersecurity risk-management roles, responsibilities and accountabilities are understood."
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C1-R2-C4,"DSTL-SbD02-C1-R2-C4 — Enforce cybersecurity risk-management roles, responsibilities and accountabilities across organisational levels."
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C1-R3,DSTL-SbD02-C1-R3 — Roles and Responsibilities
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C1-R3-C1,"DSTL-SbD02-C1-R3-C1 — Allocate adequate time, authority and funding to support the cybersecurity risk strategy and roles."
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C1-R3-C2,"DSTL-SbD02-C1-R3-C2 — Where resourcing gaps exist, provide evidence that the risk arising from SQEP gaps is understood."
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C1-R4,DSTL-SbD02-C1-R4 — Roles and Responsibilities
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C1-R4-C1,DSTL-SbD02-C1-R4-C1 — Review key roles regularly.
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C1-R4-C2,DSTL-SbD02-C1-R4-C2 — Fill key roles with appropriately skilled personnel who have sufficient authority and support.
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C1-R5,DSTL-SbD02-C1-R5 — Roles and Responsibilities
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C1-R5-C1,"DSTL-SbD02-C1-R5-C1 — Provide personnel with role-based, current and comprehensive security and privacy awareness training."
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C1-R5-C2,DSTL-SbD02-C1-R5-C2 — Measure awareness-training effectiveness by behavioural impact rather than attendance.
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C1-R6,DSTL-SbD02-C1-R6 — Roles and Responsibilities
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C1-R6-C1,DSTL-SbD02-C1-R6-C1 — Define responsibilities that continue or change after personnel termination or role change.
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C1-R6-C2,DSTL-SbD02-C1-R6-C2 — Communicate those responsibilities.
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C1-R6-C3,DSTL-SbD02-C1-R6-C3 — Enforce those responsibilities.
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C2-R1,DSTL-SbD02-C2-R1 — Secure Acquisition and Development
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C2-R1-C1,"DSTL-SbD02-C2-R1-C1 — Consider cyber-resilient design when acquiring components, support and programme/capability resourcing."
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C2-R1-C2,DSTL-SbD02-C2-R1-C2 — Share lessons learned routinely across the programme.
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C2-R2,DSTL-SbD02-C2-R2 — Secure Acquisition and Development
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C2-R2-C1,DSTL-SbD02-C2-R2-C1 — Integrate secure development practices at programme level throughout delivery.
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C2-R2-C2,DSTL-SbD02-C2-R2-C2 — Monitor secure development practices at programme level throughout delivery.
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C2-R3,DSTL-SbD02-C2-R3 — Secure Acquisition and Development
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C2-R3-C1,DSTL-SbD02-C2-R3-C1 — Embed security within investment approvals.
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C2-R3-C2,DSTL-SbD02-C2-R3-C2 — Integrate security into financial forecasts and resourcing.
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C2-R4,DSTL-SbD02-C2-R4 — Secure Acquisition and Development
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C2-R4-C1,"DSTL-SbD02-C2-R4-C1 — Maintain formal processes for secure acquisition, use and exit of systems and services."
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C2-R4-C2,"DSTL-SbD02-C2-R4-C2 — Include personnel onboarding, training and offboarding within the secure acquisition/use/exit process context."
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C2-R5,DSTL-SbD02-C2-R5 — Secure Acquisition and Development
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C2-R5-C1,DSTL-SbD02-C2-R5-C1 — Explicitly define security requirements.
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C2-R5-C2,DSTL-SbD02-C2-R5-C2 — Derive security requirements from the risk assessment.
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C2-R5-C3,"DSTL-SbD02-C2-R5-C3 — Include security requirements in contracts, specifications and Invite to Tender documentation."
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C2-R5-C4,DSTL-SbD02-C2-R5-C4 — Manage security requirements throughout the programme lifecycle.
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C3-R1,DSTL-SbD02-C3-R1 — Security Plan
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C4-R1,DSTL-SbD02-C4-R1 — Threat Assessment & Modelling
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C4-R1-C1,"DSTL-SbD02-C4-R1-C1 — Understand common types of cyberattacks, including their methods and techniques."
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C4-R1-C2,DSTL-SbD02-C4-R1-C2 — Understand how those cyberattacks could impact programme essential functions within the context of use.
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C4-R2,DSTL-SbD02-C4-R2 — Threat Assessment & Modelling
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C4-R2-C1,DSTL-SbD02-C4-R2-C1 — Review and update threat assessments routinely.
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C4-R2-C2,"DSTL-SbD02-C4-R2-C2 — Inform threat assessments using threat intelligence, common incidents and sector/national insights."
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C4-R3,DSTL-SbD02-C4-R3 — Threat Assessment & Modelling
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C4-R3-C1,DSTL-SbD02-C4-R3-C1 — Develop plausible attack scenarios based on threat actor objectives.
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C4-R3-C2,DSTL-SbD02-C4-R3-C2 — Maintain the attack scenarios.
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C4-R4,DSTL-SbD02-C4-R4 — Threat Assessment & Modelling
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C4-R4-C1,DSTL-SbD02-C4-R4-C1 — Document the steps used to conduct detailed threat analysis.
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C4-R4-C2,DSTL-SbD02-C4-R4-C2 — Use techniques that examine systems from a threat actor's perspective.
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C4-R4-C3,DSTL-SbD02-C4-R4-C3 — Use the threat analysis to anticipate probable attack methods.
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-C4-R5,DSTL-SbD02-C4-R5 — Threat Assessment & Modelling
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-Criterion_01,Roles and Responsibilities
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-Criterion_02,Secure Acquisition and Development
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-Criterion_03,Security Plan
+source,individual,https://example.org/mod-sbd#DSTL-SbD02-Criterion_04,Threat Assessment & Modelling
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R1,DSTL-SbD03-C1-R1 — Risk Management
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R1-C1,DSTL-SbD03-C1-R1-C1 — Ensure the cyber risk assessment considers technologies used to deliver capabilities.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R1-C2,DSTL-SbD03-C1-R1-C2 — Ensure the cyber risk assessment considers contractual routes used to procure resources and staff.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R1-C3,DSTL-SbD03-C1-R1-C3 — Ensure the cyber risk assessment considers infrastructure used for delivery.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R2,DSTL-SbD03-C1-R2 — Risk Management
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R2-C1,DSTL-SbD03-C1-R2-C1 — Base risk assessments on clearly understood threat assumptions.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R2-C2,DSTL-SbD03-C1-R2-C2 — Incorporate knowledge of vulnerabilities into risk assessments.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R2-C3,DSTL-SbD03-C1-R2-C3 — Incorporate sector-specific threats into risk assessments.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R2-C4,DSTL-SbD03-C1-R2-C4 — Incorporate OT and IT considerations into risk assessments.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R2-C5,DSTL-SbD03-C1-R2-C5 — Incorporate national infrastructure considerations into risk assessments.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R3,DSTL-SbD03-C1-R3 — Risk Management
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R3-C1,"DSTL-SbD03-C1-R3-C1 — Use threats, vulnerabilities, likelihoods and impacts to determine inherent risk."
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R3-C2,DSTL-SbD03-C1-R3-C2 — Use the inherent-risk understanding to inform the chosen risk response.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R3-C3,"DSTL-SbD03-C1-R3-C3 — Ensure the risk response is prioritised, planned, tracked and communicated."
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R4,DSTL-SbD03-C1-R4 — Risk Management
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R4-C1,DSTL-SbD03-C1-R4-C1 — Identify cyber risks.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R4-C2,DSTL-SbD03-C1-R4-C2 — Analyse cyber risks.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R4-C3,DSTL-SbD03-C1-R4-C3 — Prioritise cyber risks.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R4-C4,DSTL-SbD03-C1-R4-C4 — Manage cyber risks to support essential functions.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R4-C5,DSTL-SbD03-C1-R4-C5 — Manage cyber risks in accordance with the programme Risk Appetite.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R5,DSTL-SbD03-C1-R5 — Risk Management
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R5-C1,"DSTL-SbD03-C1-R5-C1 — Update risk assessments when relevant changes occur, including technical, technology or threat-information changes."
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R5-C2,DSTL-SbD03-C1-R5-C2 — Review risk-management effectiveness regularly.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R5-C3,DSTL-SbD03-C1-R5-C3 — Implement improvements identified by effectiveness review.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R6,DSTL-SbD03-C1-R6 — Risk Management
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R7,DSTL-SbD03-C1-R7 — Risk Management
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R7-C1,DSTL-SbD03-C1-R7-C1 — Include socio-technical risks in risk assessment based on clearly understood threat assumptions.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C1-R7-C2,"DSTL-SbD03-C1-R7-C2 — Include technical risks, human elements, insider threat, human error, organisational culture, social engineering, policy and workflow effects in socio-technical risk consideration."
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C2-R1,DSTL-SbD03-C2-R1 — Risk Management Integration
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C2-R1-C1,DSTL-SbD03-C2-R1-C1 — Understand how cybersecurity and resilience contribute to essential capability functioning.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C2-R1-C2,DSTL-SbD03-C2-R1-C2 — Understand the impact on essential capability functioning if cybersecurity or resilience is compromised.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C2-R2,DSTL-SbD03-C2-R2 — Risk Management Integration
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C2-R2-C1,DSTL-SbD03-C2-R2-C1 — Inform decision makers of residual cyber-risk levels relative to Risk Appetite.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C2-R2-C2,DSTL-SbD03-C2-R2-C2 — Ensure residual cyber risk can be considered in programme decisions.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C2-R3,DSTL-SbD03-C2-R3 — Risk Management Integration
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C2-R3-C1,"DSTL-SbD03-C2-R3-C1 — Maintain programme boards that review cybersecurity risk management, outcomes and performance."
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C2-R3-C2,"DSTL-SbD03-C2-R3-C2 — Review cybersecurity risk management, outcomes and performance regularly."
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C2-R3-C3,DSTL-SbD03-C2-R3-C3 — Use review to identify areas for improvement.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C2-R3-C4,DSTL-SbD03-C2-R3-C4 — Use review to ensure coverage of Defence requirements and risks.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C3-R1,DSTL-SbD03-C3-R1 — Communication and Coordination
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C3-R1-C1,DSTL-SbD03-C3-R1-C1 — Maintain structured and routine two-way communication of cybersecurity risks across the organisation.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C3-R1-C2,"DSTL-SbD03-C3-R1-C2 — Include risks from wider Defence, suppliers and other third parties in that communication."
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C3-R1-C3,DSTL-SbD03-C3-R1-C3 — Maintain a Security Working Group as part of cybersecurity risk communication and coordination.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C4-R1,DSTL-SbD03-C4-R1 — Vulnerability Management
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C4-R1-C1,DSTL-SbD03-C4-R1-C1 — Maintain processes and procedures to understand vulnerabilities.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C4-R1-C2,DSTL-SbD03-C4-R1-C2 — Assess vulnerabilities.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C4-R1-C3,DSTL-SbD03-C4-R1-C3 — Systematically manage vulnerabilities.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C4-R1-C4,DSTL-SbD03-C4-R1-C4 — Manage vulnerabilities to prevent adverse impact on programme functionality.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C4-R2,DSTL-SbD03-C4-R2 — Vulnerability Management
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C4-R2-C1,DSTL-SbD03-C4-R2-C1 — Make vulnerability management systematic.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C4-R2-C2,DSTL-SbD03-C4-R2-C2 — Document vulnerability management.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C4-R2-C3,DSTL-SbD03-C4-R2-C3 — Integrate vulnerability management into security processes.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C4-R3,DSTL-SbD03-C4-R3 — Vulnerability Management
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C4-R3-C1,"DSTL-SbD03-C4-R3-C1 — Inform vulnerability management using documented incident reviews, near misses and lessons learned across reporting, governance, skills, policy and technical aspects."
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C4-R3-C2,DSTL-SbD03-C4-R3-C2 — Prioritise and promptly implement vulnerability-management improvements.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C4-R3-C3,DSTL-SbD03-C4-R3-C3 — Escalate relevant analysis to senior management.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C4-R3-C4,DSTL-SbD03-C4-R3-C4 — Use sector-wide and national incident insights to inform vulnerability management.
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-C4-R4,DSTL-SbD03-C4-R4 — Vulnerability Management
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-Criterion_02,Risk Management Integration
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-Criterion_03,Communication and Coordination
+source,individual,https://example.org/mod-sbd#DSTL-SbD03-Criterion_04,Vulnerability Management
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C1-R1,DSTL-SbD04-C1-R1 — Cyber Resilient Architecture
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C1-R1-C1,"DSTL-SbD04-C1-R1-C1 — Maintain processes to review, test, evaluate and improve capability architecture."
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C1-R1-C2,DSTL-SbD04-C1-R1-C2 — Ensure architecture review/testing/evaluation/improvement is performed by SQEP.
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C1-R1-C3,DSTL-SbD04-C1-R1-C3 — Use architecture assurance to ensure alignment with the wider programme and Defence.
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C2-R1,DSTL-SbD04-C2-R1 — Asset Management
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C3-R1,DSTL-SbD04-C3-R1 — Data Protection and Resilience
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C3-R1-C1,DSTL-SbD04-C3-R1-C1 — Identify all data essential to programme functioning or that could assist a threat actor.
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C3-R1-C2,DSTL-SbD04-C3-R1-C2 — Document the identified data.
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C3-R2,DSTL-SbD04-C3-R2 — Data Protection and Resilience
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C3-R2-C1,"DSTL-SbD04-C3-R2-C1 — Protect data in transit, including third-party transfers."
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C3-R2-C2,DSTL-SbD04-C3-R2-C2 — Apply appropriate physical and technical protection to stored data.
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C3-R2-C3,DSTL-SbD04-C3-R2-C3 — Secure and test backups.
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C3-R3,DSTL-SbD04-C3-R3 — Data Protection and Resilience
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C3-R3-C1,DSTL-SbD04-C3-R3-C1 — Understand where critical data is stored.
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C3-R3-C2,DSTL-SbD04-C3-R3-C2 — Understand where critical data travels.
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C3-R3-C3,DSTL-SbD04-C3-R3-C3 — Understand how compromise of critical data impacts functions.
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C3-R3-C4,DSTL-SbD04-C3-R3-C4 — Understand third-party handling of critical data.
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C3-R4,DSTL-SbD04-C3-R4 — Data Protection and Resilience
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C3-R4-C1,DSTL-SbD04-C3-R4-C1 — Understand the impact of data compromise or unavailability on essential functions.
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C3-R4-C2,DSTL-SbD04-C3-R4-C2 — Document that impact.
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C3-R5,DSTL-SbD04-C3-R5 — Data Protection and Resilience
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C3-R5-C1,DSTL-SbD04-C3-R5-C1 — Secure backups.
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C3-R5-C2,DSTL-SbD04-C3-R5-C2 — Test backups.
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C3-R5-C3,DSTL-SbD04-C3-R5-C3 — Ensure backups are accessible for disaster recovery or business continuity.
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C3-R6,DSTL-SbD04-C3-R6 — Data Protection and Resilience
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C3-R6-C1,DSTL-SbD04-C3-R6-C1 — Maintain a comprehensive data inventory.
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C3-R6-C2,DSTL-SbD04-C3-R6-C2 — Review the data inventory regularly.
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C3-R6-C3,DSTL-SbD04-C3-R6-C3 — Use appropriate cryptographic protections.
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C3-R6-C4,DSTL-SbD04-C3-R6-C4 — Provide alternative transmission paths for resilience.
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C4-R1,DSTL-SbD04-C4-R1 — Control Identification
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C4-R1-C1,DSTL-SbD04-C4-R1-C1 — Select security controls appropriately so capabilities can deliver within Risk Appetite.
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C4-R1-C2,DSTL-SbD04-C4-R1-C2 — Monitor security controls at programme level through life.
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C4-R1-C3,DSTL-SbD04-C4-R1-C3 — Report on security controls at programme level through life.
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C4-R1-C4,DSTL-SbD04-C4-R1-C4 — Review security controls at programme level through life.
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-C4-R1-C5,DSTL-SbD04-C4-R1-C5 — Allocate sufficient resources to implement controls within the desired timeframe.
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-Criterion_01,Cyber Resilient Architecture
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-Criterion_02,Asset Management
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-Criterion_03,Data Protection and Resilience
+source,individual,https://example.org/mod-sbd#DSTL-SbD04-Criterion_04,Control Identification
+source,individual,https://example.org/mod-sbd#DSTL-SbD05-C1-R1,DSTL-SbD05-C1-R1 — Supply Chain Risk Management
+source,individual,https://example.org/mod-sbd#DSTL-SbD05-C1-R1-C1,DSTL-SbD05-C1-R1-C1 — Obtain supply-chain assurance that risk management covers Tier 1 to Tier 3 suppliers.
+source,individual,https://example.org/mod-sbd#DSTL-SbD05-C1-R1-C2,DSTL-SbD05-C1-R1-C2 — Flow down security requirements and Risk Appetite through the supply chain.
+source,individual,https://example.org/mod-sbd#DSTL-SbD05-C1-R1-C3,DSTL-SbD05-C1-R1-C3 — Manage supply-chain assurance through life.
+source,individual,https://example.org/mod-sbd#DSTL-SbD05-C2-R1,DSTL-SbD05-C2-R1 — Supply Chain Risk Management
+source,individual,https://example.org/mod-sbd#DSTL-SbD05-C2-R1-C1,DSTL-SbD05-C2-R1-C1 — Perform planning and due diligence with the prime supplier to reduce cybersecurity risks before entering contracts.
+source,individual,https://example.org/mod-sbd#DSTL-SbD05-C2-R1-C2,DSTL-SbD05-C2-R1-C2 — Include contractual provisions that address identified cybersecurity risks.
+source,individual,https://example.org/mod-sbd#DSTL-SbD06-C1-R1,DSTL-SbD06-C1-R1 — Security Testing and Verification
+source,individual,https://example.org/mod-sbd#DSTL-SbD06-C1-R1-C1,DSTL-SbD06-C1-R1-C1 — Continuously test resilience mechanisms across all programme capabilities.
+source,individual,https://example.org/mod-sbd#DSTL-SbD06-C1-R1-C2,DSTL-SbD06-C1-R1-C2 — Continuously monitor resilience mechanisms across all programme capabilities.
+source,individual,https://example.org/mod-sbd#DSTL-SbD06-C1-R1-C3,DSTL-SbD06-C1-R1-C3 — Continuously assess resilience mechanisms across all programme capabilities.
+source,individual,https://example.org/mod-sbd#DSTL-SbD06-C1-R2,DSTL-SbD06-C1-R2 — Security Testing and Verification
+source,individual,https://example.org/mod-sbd#DSTL-SbD06-C2-R1,DSTL-SbD06-C2-R1 — Security Authorisation Decisions
+source,individual,https://example.org/mod-sbd#DSTL-SbD06-C2-R1-C1,DSTL-SbD06-C2-R1-C1 — Ensure the capability risk owner is suitably empowered and accountable.
+source,individual,https://example.org/mod-sbd#DSTL-SbD06-C2-R1-C2,DSTL-SbD06-C2-R1-C2 — Provide the risk owner with the information needed to make an informed decision about capability risk.
+source,individual,https://example.org/mod-sbd#DSTL-SbD06-Criterion_01,Security Testing and Verification
+source,individual,https://example.org/mod-sbd#DSTL-SbD06-Criterion_02,Security Authorisation Decisions
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C1-R1,"DSTL-SbD07-C1-R1 — Through life asset management, Secure Disposal and Archival Management"
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C1-R2,"DSTL-SbD07-C1-R2 — Through life asset management, Secure Disposal and Archival Management"
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C1-R2-C1,DSTL-SbD07-C1-R2-C1 — Maintain programme boards for through-life management review.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C1-R2-C2,"DSTL-SbD07-C1-R2-C2 — Regularly review capability through-life management, obsolescence, upgrades, capability effectiveness and disposal."
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C1-R2-C3,DSTL-SbD07-C1-R2-C3 — Use through-life review to identify areas for improvement.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C1-R3,"DSTL-SbD07-C1-R3 — Through life asset management, Secure Disposal and Archival Management"
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C1-R3-C1,DSTL-SbD07-C1-R3-C1 — Train staff in secure disposal procedures.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C1-R3-C2,DSTL-SbD07-C1-R3-C2 — Train staff in MOD classification rules.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C2-R1,DSTL-SbD07-C2-R1 — Reporting
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C2-R1-C1,DSTL-SbD07-C2-R1-C1 — Maintain effective and efficient security reporting processes for all programme capabilities.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C2-R1-C2,DSTL-SbD07-C2-R1-C2 — Integrate capability reporting processes with the appropriate WARP.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C2-R2,DSTL-SbD07-C2-R2 — Reporting
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C2-R2-C1,DSTL-SbD07-C2-R2-C1 — Train staff to identify potential security issues.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C2-R2-C2,DSTL-SbD07-C2-R2-C2 — Train staff to report potential security issues to the appropriate WARP.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C3-R1,DSTL-SbD07-C3-R1 — Monitoring and Detection
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C3-R1-C1,DSTL-SbD07-C3-R1-C1 — Maintain a process to monitor programme capabilities appropriately in line with MOD policy.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C3-R1-C2,DSTL-SbD07-C3-R1-C2 — Fund and resource the monitoring function appropriately through life.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C4-R1,DSTL-SbD07-C4-R1 — Incident Response
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C4-R1-C1,"DSTL-SbD07-C4-R1-C1 — Establish, communicate, maintain and regularly improve incident response plans."
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C4-R1-C2,DSTL-SbD07-C4-R1-C2 — Ensure incident response plans remain accessible during outages.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C4-R1-C3,DSTL-SbD07-C4-R1-C3 — Review and test incident response plans regularly.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C4-R1-C4,"DSTL-SbD07-C4-R1-C4 — Integrate incident response planning with business continuity, supply chain and supporting-infrastructure plans."
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C4-R1-C5,DSTL-SbD07-C4-R1-C5 — Clearly define and ensure understanding of incident-response roles and responsibilities.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C4-R2,DSTL-SbD07-C4-R2 — Incident Response
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C4-R2-C1,DSTL-SbD07-C4-R2-C1 — Maintain tested incident-management processes that ensure continuity of essential functions during an incident.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C4-R2-C2,DSTL-SbD07-C4-R2-C2 — Maintain mitigation activities that contain or limit incident impact.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C4-R3,DSTL-SbD07-C4-R3 — Incident Response
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C4-R3-C1,DSTL-SbD07-C4-R3-C1 — Maintain tested forensic processes.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C4-R3-C2,DSTL-SbD07-C4-R3-C2 — Use forensic processes to create a comprehensive and documented understanding of an incident.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C4-R4,DSTL-SbD07-C4-R4 — Incident Response
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C4-R4-C1,DSTL-SbD07-C4-R4-C1 — Conduct post-incident analysis routinely after incidents.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C4-R4-C2,DSTL-SbD07-C4-R4-C2 — Determine what occurred during the incident.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C4-R4-C3,DSTL-SbD07-C4-R4-C3 — Identify incident root causes.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C4-R4-C4,DSTL-SbD07-C4-R4-C4 — Assess incident magnitude and impact.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C4-R4-C5,DSTL-SbD07-C4-R4-C5 — Use 'what if' scenarios to explore alternative outcomes.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C4-R5,DSTL-SbD07-C4-R5 — Incident Response
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C4-R5-C1,DSTL-SbD07-C4-R5-C1 — Use lessons learned to implement remediating actions.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C4-R5-C2,DSTL-SbD07-C4-R5-C2 — Use lessons learned to strengthen resilience mechanisms for future incidents.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C4-R6,DSTL-SbD07-C4-R6 — Incident Response
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C5-R1,DSTL-SbD07-C5-R1 — Incident Recovery
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C5-R1-C1,DSTL-SbD07-C5-R1-C1 — Maintain a documented recovery plan.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C5-R1-C2,"DSTL-SbD07-C5-R1-C2 — Use the recovery plan to define the selection, scope and prioritisation of recovery actions."
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C5-R1-C3,DSTL-SbD07-C5-R1-C3 — Incorporate critical mission functions and cybersecurity risk considerations into recovery planning.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C5-R1-C4,DSTL-SbD07-C5-R1-C4 — Use recovery planning to establish post-incident operational norms.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C5-R2,DSTL-SbD07-C5-R2 — Incident Recovery
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C5-R2-C1,DSTL-SbD07-C5-R2-C1 — Identify resources required for recovery.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C5-R2-C2,DSTL-SbD07-C5-R2-C2 — Maintain arrangements that make required recovery resources available.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C5-R2-C3,DSTL-SbD07-C5-R2-C3 — Ensure information needed for recovery decisions is accessible during incidents.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C5-R3,DSTL-SbD07-C5-R3 — Incident Recovery
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C5-R3-C1,"DSTL-SbD07-C5-R3-C1 — Ensure response-team members have the skills, knowledge and authority required to execute recovery actions."
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C5-R3-C2,DSTL-SbD07-C5-R3-C2 — Duplicate key roles to avoid single points of failure.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C5-R3-C3,DSTL-SbD07-C5-R3-C3 — Share operational knowledge to avoid single points of failure.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C5-R4,DSTL-SbD07-C5-R4 — Incident Recovery
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C5-R4-C1,DSTL-SbD07-C5-R4-C1 — Maintain and routinely test backup mechanisms.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C5-R4-C2,"DSTL-SbD07-C5-R4-C2 — Use backup mechanisms to maintain essential functions during recovery, even at reduced capacity."
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C5-R4-C3,DSTL-SbD07-C5-R4-C3 — Maintain arrangements to augment recovery capability using external support.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C5-R5,DSTL-SbD07-C5-R5 — Incident Recovery
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C5-R5-C1,DSTL-SbD07-C5-R5-C1 — Conduct regular training and exercises for recovery teams.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C5-R5-C2,DSTL-SbD07-C5-R5-C2 — Feed lessons learned from incidents and resilience exercises into design standards.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C5-R5-C3,DSTL-SbD07-C5-R5-C3 — Feed lessons learned into development practices.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-C5-R5-C4,DSTL-SbD07-C5-R5-C4 — Feed lessons learned into future project planning.
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-Criterion_01,"Through life asset management, Secure Disposal and Archival Management"
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-Criterion_03,Monitoring and Detection
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-Criterion_04,Incident Response
+source,individual,https://example.org/mod-sbd#DSTL-SbD07-Criterion_05,Incident Recovery
+source,individual,https://example.org/mod-sbd#DefenceSecurityRiskAppetiteStatement,Defence Security Risk Appetite Statement
+source,individual,https://example.org/mod-sbd#MOD,Ministry of Defence (MOD)
+source,individual,https://example.org/mod-sbd#SbD_01,Understand and Define Context
+source,individual,https://example.org/mod-sbd#SbD_02,Plan the Security Activities
+source,individual,https://example.org/mod-sbd#SbD_03,Implement Continuous Risk Management
+source,individual,https://example.org/mod-sbd#SbD_04,Define Security Controls
+source,individual,https://example.org/mod-sbd#SbD_05,Engage and Manage the Supply Chain
+source,individual,https://example.org/mod-sbd#SbD_06,"Assure, Verify and Test"
+source,individual,https://example.org/mod-sbd#SbD_07,Enable Through Life Management
+source,individual,https://example.org/mod-sbd#WARP,"Warning, Advice, and Reporting Point (WARP)"
+target,individual,https://example.org/ontology/sora#AE-OSO01-A-C1-H1,AE-OSO01-A-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO01-A-C1-H2,AE-OSO01-A-C1-H2
+target,individual,https://example.org/ontology/sora#AE-OSO01-A-C1-L1,AE-OSO01-A-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO01-A-C1-M1,AE-OSO01-A-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO01-A-Criterion_01,Operator competence / organisation (evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO01-I-C1-H1,AE-OSO01-I-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO01-I-C1-L1,AE-OSO01-I-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO01-I-C1-L2,AE-OSO01-I-C1-L2
+target,individual,https://example.org/ontology/sora#AE-OSO01-I-C1-L3,AE-OSO01-I-C1-L3
+target,individual,https://example.org/ontology/sora#AE-OSO01-I-C1-L4,AE-OSO01-I-C1-L4
+target,individual,https://example.org/ontology/sora#AE-OSO01-I-C1-L4-C1,AE-OSO01-I-C1-L4-C1
+target,individual,https://example.org/ontology/sora#AE-OSO01-I-C1-L4-C2,AE-OSO01-I-C1-L4-C2
+target,individual,https://example.org/ontology/sora#AE-OSO01-I-C1-M1,AE-OSO01-I-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO01-I-C1-M2,AE-OSO01-I-C1-M2
+target,individual,https://example.org/ontology/sora#AE-OSO01-I-Criterion_01,Operator competence / organisation
+target,individual,https://example.org/ontology/sora#AE-OSO02-A-C1-H1,AE-OSO02-A-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO02-A-C1-H2,AE-OSO02-A-C1-H2
+target,individual,https://example.org/ontology/sora#AE-OSO02-A-C1-L1,AE-OSO02-A-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO02-A-C1-M1,AE-OSO02-A-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO02-A-Criterion_01,Manufacturing procedures (evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO02-I-C1-H1,AE-OSO02-I-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO02-I-C1-H2,AE-OSO02-I-C1-H2
+target,individual,https://example.org/ontology/sora#AE-OSO02-I-C1-L1,AE-OSO02-I-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO02-I-C1-L2,AE-OSO02-I-C1-L2
+target,individual,https://example.org/ontology/sora#AE-OSO02-I-C1-L3,AE-OSO02-I-C1-L3
+target,individual,https://example.org/ontology/sora#AE-OSO02-I-C1-L4,AE-OSO02-I-C1-L4
+target,individual,https://example.org/ontology/sora#AE-OSO02-I-C1-L5,AE-OSO02-I-C1-L5
+target,individual,https://example.org/ontology/sora#AE-OSO02-I-C1-M1,AE-OSO02-I-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO02-I-C1-M2,AE-OSO02-I-C1-M2
+target,individual,https://example.org/ontology/sora#AE-OSO02-I-C1-M3,AE-OSO02-I-C1-M3
+target,individual,https://example.org/ontology/sora#AE-OSO02-I-C1-M3-C1,AE-OSO02-I-C1-M3-C1
+target,individual,https://example.org/ontology/sora#AE-OSO02-I-C1-M3-C2,AE-OSO02-I-C1-M3-C2
+target,individual,https://example.org/ontology/sora#AE-OSO02-I-C1-M3-C3,AE-OSO02-I-C1-M3-C3
+target,individual,https://example.org/ontology/sora#AE-OSO02-I-C1-M4,AE-OSO02-I-C1-M4
+target,individual,https://example.org/ontology/sora#AE-OSO02-I-C1-M4-C1,AE-OSO02-I-C1-M4-C1
+target,individual,https://example.org/ontology/sora#AE-OSO02-I-C1-M4-C2,AE-OSO02-I-C1-M4-C2
+target,individual,https://example.org/ontology/sora#AE-OSO02-I-C1-M5,AE-OSO02-I-C1-M5
+target,individual,https://example.org/ontology/sora#AE-OSO02-I-C1-M6,AE-OSO02-I-C1-M6
+target,individual,https://example.org/ontology/sora#AE-OSO02-I-Criterion_01,Manufacturing procedures
+target,individual,https://example.org/ontology/sora#AE-OSO03-A-C1-H1,AE-OSO03-A-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO03-A-C1-L1,AE-OSO03-A-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO03-A-C1-L2,AE-OSO03-A-C1-L2
+target,individual,https://example.org/ontology/sora#AE-OSO03-A-C1-L3,AE-OSO03-A-C1-L3
+target,individual,https://example.org/ontology/sora#AE-OSO03-A-C1-M1,AE-OSO03-A-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO03-A-C1-M2,AE-OSO03-A-C1-M2
+target,individual,https://example.org/ontology/sora#AE-OSO03-A-C2-H1,AE-OSO03-A-C2-H1
+target,individual,https://example.org/ontology/sora#AE-OSO03-A-C2-H2,AE-OSO03-A-C2-H2
+target,individual,https://example.org/ontology/sora#AE-OSO03-A-C2-L1,AE-OSO03-A-C2-L1
+target,individual,https://example.org/ontology/sora#AE-OSO03-A-C2-M1,AE-OSO03-A-C2-M1
+target,individual,https://example.org/ontology/sora#AE-OSO03-A-C2-M2,AE-OSO03-A-C2-M2
+target,individual,https://example.org/ontology/sora#AE-OSO03-A-C2-M3,AE-OSO03-A-C2-M3
+target,individual,https://example.org/ontology/sora#AE-OSO03-A-Criterion_01,Maintenance competence and programme (Procedure evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO03-A-Criterion_02,Maintenance staff training  (evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO03-I-C1-H1,AE-OSO03-I-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO03-I-C1-L1,AE-OSO03-I-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO03-I-C1-L1-C1,AE-OSO03-I-C1-L1-C1
+target,individual,https://example.org/ontology/sora#AE-OSO03-I-C1-L1-C2,AE-OSO03-I-C1-L1-C2
+target,individual,https://example.org/ontology/sora#AE-OSO03-I-C1-L1-C3,AE-OSO03-I-C1-L1-C3
+target,individual,https://example.org/ontology/sora#AE-OSO03-I-C1-L2,AE-OSO03-I-C1-L2
+target,individual,https://example.org/ontology/sora#AE-OSO03-I-C1-M1,AE-OSO03-I-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO03-I-C1-M2,AE-OSO03-I-C1-M2
+target,individual,https://example.org/ontology/sora#AE-OSO03-I-C1-M2-C1,AE-OSO03-I-C1-M2-C1
+target,individual,https://example.org/ontology/sora#AE-OSO03-I-C1-M2-C2,AE-OSO03-I-C1-M2-C2
+target,individual,https://example.org/ontology/sora#AE-OSO03-I-Criterion_01,Maintenance competence and programme
+target,individual,https://example.org/ontology/sora#AE-OSO04-A-C1-H1,AE-OSO04-A-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO04-A-C1-L1,AE-OSO04-A-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO04-A-C1-M1,AE-OSO04-A-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO04-A-C1b-H1,AE-OSO04-A-C1b-H1
+target,individual,https://example.org/ontology/sora#AE-OSO04-A-C1b-L1,AE-OSO04-A-C1b-L1
+target,individual,https://example.org/ontology/sora#AE-OSO04-A-C1b-M1,AE-OSO04-A-C1b-M1
+target,individual,https://example.org/ontology/sora#AE-OSO04-A-Criterion_01,Design standard level (evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO04-A-Criterion_01b,Design standard level (alternative evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO04-I-C1-H1,AE-OSO04-I-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO04-I-C1-L1,AE-OSO04-I-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO04-I-C1-M1,AE-OSO04-I-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO04-I-C1b-H1,AE-OSO04-I-C1b-H1
+target,individual,https://example.org/ontology/sora#AE-OSO04-I-C1b-L1,AE-OSO04-I-C1b-L1
+target,individual,https://example.org/ontology/sora#AE-OSO04-I-C1b-M1,AE-OSO04-I-C1b-M1
+target,individual,https://example.org/ontology/sora#AE-OSO04-I-Criterion_01,Design standard level
+target,individual,https://example.org/ontology/sora#AE-OSO04-I-Criterion_01b,Design standard level
+target,individual,https://example.org/ontology/sora#AE-OSO05-A-C1-H1,AE-OSO05-A-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO05-A-C1-L1,AE-OSO05-A-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO05-A-C1-M1,AE-OSO05-A-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO05-A-C1-M2,AE-OSO05-A-C1-M2
+target,individual,https://example.org/ontology/sora#AE-OSO05-A-Criterion_01,System safety and reliability (evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO05-I-C1-H1,AE-OSO05-I-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO05-I-C1-H2,AE-OSO05-I-C1-H2
+target,individual,https://example.org/ontology/sora#AE-OSO05-I-C1-H3,AE-OSO05-I-C1-H3
+target,individual,https://example.org/ontology/sora#AE-OSO05-I-C1-H4,AE-OSO05-I-C1-H4
+target,individual,https://example.org/ontology/sora#AE-OSO05-I-C1-H5,AE-OSO05-I-C1-H5
+target,individual,https://example.org/ontology/sora#AE-OSO05-I-C1-L1,AE-OSO05-I-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO05-I-C1-M1,AE-OSO05-I-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO05-I-C1-M1-C1,AE-OSO05-I-C1-M1-C1
+target,individual,https://example.org/ontology/sora#AE-OSO05-I-C1-M1-C2,AE-OSO05-I-C1-M1-C2
+target,individual,https://example.org/ontology/sora#AE-OSO05-I-C1-M1-C3,AE-OSO05-I-C1-M1-C3
+target,individual,https://example.org/ontology/sora#AE-OSO05-I-Criterion_01,System safety and reliability
+target,individual,https://example.org/ontology/sora#AE-OSO06-A-C1-H1,AE-OSO06-A-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO06-A-C1-L1,AE-OSO06-A-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO06-A-C1-M1,AE-OSO06-A-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO06-A-Criterion_01,C3 performance and monitoring (evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO06-I-C1-H1,AE-OSO06-I-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO06-I-C1-L1,AE-OSO06-I-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO06-I-C1-L1-C1,AE-OSO06-I-C1-L1-C1
+target,individual,https://example.org/ontology/sora#AE-OSO06-I-C1-L1-C2,AE-OSO06-I-C1-L1-C2
+target,individual,https://example.org/ontology/sora#AE-OSO06-I-C1-L1-C3,AE-OSO06-I-C1-L1-C3
+target,individual,https://example.org/ontology/sora#AE-OSO06-I-C1-M1,AE-OSO06-I-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO06-I-Criterion_01,C3 performance and monitoring
+target,individual,https://example.org/ontology/sora#AE-OSO07-A-C1-H1,AE-OSO07-A-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO07-A-C1-L1,AE-OSO07-A-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO07-A-C1-M1,AE-OSO07-A-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO07-A-C2-H1,AE-OSO07-A-C2-H1
+target,individual,https://example.org/ontology/sora#AE-OSO07-A-C2-H1-C1,AE-OSO07-A-C2-H1-C1
+target,individual,https://example.org/ontology/sora#AE-OSO07-A-C2-H1-C2,AE-OSO07-A-C2-H1-C2
+target,individual,https://example.org/ontology/sora#AE-OSO07-A-C2-L1,AE-OSO07-A-C2-L1
+target,individual,https://example.org/ontology/sora#AE-OSO07-A-C2-M1,AE-OSO07-A-C2-M1
+target,individual,https://example.org/ontology/sora#AE-OSO07-A-C2-M2,AE-OSO07-A-C2-M2
+target,individual,https://example.org/ontology/sora#AE-OSO07-A-Criterion_01,Product Inspection procedures (evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO07-A-Criterion_02,Product Inspection training (evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO07-I-C1-H1,AE-OSO07-I-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO07-I-C1-L1,AE-OSO07-I-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO07-I-C1-L1-C1,AE-OSO07-I-C1-L1-C1
+target,individual,https://example.org/ontology/sora#AE-OSO07-I-C1-L1-C2,AE-OSO07-I-C1-L1-C2
+target,individual,https://example.org/ontology/sora#AE-OSO07-I-C1-L2,AE-OSO07-I-C1-L2
+target,individual,https://example.org/ontology/sora#AE-OSO07-I-C1-M1,AE-OSO07-I-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO07-I-Criterion_01,Product inspection
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C1-H1,AE-OSO08-A-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C1-H2,AE-OSO08-A-C1-H2
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C1-H3,AE-OSO08-A-C1-H3
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C1-L1,AE-OSO08-A-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C1-L1-C1,AE-OSO08-A-C1-L1-C1
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C1-L1-C2,AE-OSO08-A-C1-L1-C2
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C1-M1,AE-OSO08-A-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C1-M2,AE-OSO08-A-C1-M2
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C1b-H1,AE-OSO08-A-C1b-H1
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C1b-L1,AE-OSO08-A-C1b-L1
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C1b-L2,AE-OSO08-A-C1b-L2
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C1b-M1,AE-OSO08-A-C1b-M1
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C2-H1,AE-OSO08-A-C2-H1
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C2-H2,AE-OSO08-A-C2-H2
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C2-H3,AE-OSO08-A-C2-H3
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C2-L1,AE-OSO08-A-C2-L1
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C2-M1,AE-OSO08-A-C2-M1
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C2-M2,AE-OSO08-A-C2-M2
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C2b-H1,AE-OSO08-A-C2b-H1
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C2b-L1,AE-OSO08-A-C2b-L1
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C2b-L2,AE-OSO08-A-C2b-L2
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C2b-M1,AE-OSO08-A-C2b-M1
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C3-H1,AE-OSO08-A-C3-H1
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C3-H2,AE-OSO08-A-C3-H2
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C3-H3,AE-OSO08-A-C3-H3
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C3-L1,AE-OSO08-A-C3-L1
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C3-M1,AE-OSO08-A-C3-M1
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C3-M2,AE-OSO08-A-C3-M2
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C3b-H1,AE-OSO08-A-C3b-H1
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C3b-L1,AE-OSO08-A-C3b-L1
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C3b-L2,AE-OSO08-A-C3b-L2
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-C3b-M1,AE-OSO08-A-C3b-M1
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-Criterion_01,Procedure validation (evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-Criterion_01b,Procedure validation (alternative evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-Criterion_02,Potential human error (evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-Criterion_02b,Potential human error (alternative evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-Criterion_03,Emergency Response Plan (evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO08-A-Criterion_03b,Emergency Response Plan (alternative evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C1-H1,AE-OSO08-I-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C1-L1,AE-OSO08-I-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C1-L2,AE-OSO08-I-C1-L2
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C1-L3,AE-OSO08-I-C1-L3
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C1-L3-C1,AE-OSO08-I-C1-L3-C1
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C1-L3-C2,AE-OSO08-I-C1-L3-C2
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C1-L4,AE-OSO08-I-C1-L4
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C1-L5,AE-OSO08-I-C1-L5
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C1-L6,AE-OSO08-I-C1-L6
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C1-L7,AE-OSO08-I-C1-L7
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C1-L8,AE-OSO08-I-C1-L8
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C1-L9,AE-OSO08-I-C1-L9
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C1-M1,AE-OSO08-I-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C2-H1,AE-OSO08-I-C2-H1
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C2-L1,AE-OSO08-I-C2-L1
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C2-L2,AE-OSO08-I-C2-L2
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C2-M1,AE-OSO08-I-C2-M1
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C3-H1,AE-OSO08-I-C3-H1
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C3-L1,AE-OSO08-I-C3-L1
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C3-L2,AE-OSO08-I-C3-L2
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C3-L3,AE-OSO08-I-C3-L3
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C3-L4,AE-OSO08-I-C3-L4
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C3-L4-C1,AE-OSO08-I-C3-L4-C1
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C3-L4-C2,AE-OSO08-I-C3-L4-C2
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C3-L5,AE-OSO08-I-C3-L5
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C3-L6,AE-OSO08-I-C3-L6
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C3-L7,AE-OSO08-I-C3-L7
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-C3-M1,AE-OSO08-I-C3-M1
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-Criterion_01,Procedure definition
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-Criterion_02,Potential human error
+target,individual,https://example.org/ontology/sora#AE-OSO08-I-Criterion_03,Emergency Response Plan
+target,individual,https://example.org/ontology/sora#AE-OSO09-A-C1-H1,AE-OSO09-A-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO09-A-C1-H2,AE-OSO09-A-C1-H2
+target,individual,https://example.org/ontology/sora#AE-OSO09-A-C1-L1,AE-OSO09-A-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO09-A-C1-M1,AE-OSO09-A-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO09-A-C1-M2,AE-OSO09-A-C1-M2
+target,individual,https://example.org/ontology/sora#AE-OSO09-A-Criterion_01,Competency-based theoretical/practical training (evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO09-I-C1-H1,AE-OSO09-I-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO09-I-C1-L1,AE-OSO09-I-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO09-I-C1-L10,AE-OSO09-I-C1-L10
+target,individual,https://example.org/ontology/sora#AE-OSO09-I-C1-L11,AE-OSO09-I-C1-L11
+target,individual,https://example.org/ontology/sora#AE-OSO09-I-C1-L2,AE-OSO09-I-C1-L2
+target,individual,https://example.org/ontology/sora#AE-OSO09-I-C1-L3,AE-OSO09-I-C1-L3
+target,individual,https://example.org/ontology/sora#AE-OSO09-I-C1-L4,AE-OSO09-I-C1-L4
+target,individual,https://example.org/ontology/sora#AE-OSO09-I-C1-L5,AE-OSO09-I-C1-L5
+target,individual,https://example.org/ontology/sora#AE-OSO09-I-C1-L6,AE-OSO09-I-C1-L6
+target,individual,https://example.org/ontology/sora#AE-OSO09-I-C1-L7,AE-OSO09-I-C1-L7
+target,individual,https://example.org/ontology/sora#AE-OSO09-I-C1-L8,AE-OSO09-I-C1-L8
+target,individual,https://example.org/ontology/sora#AE-OSO09-I-C1-L9,AE-OSO09-I-C1-L9
+target,individual,https://example.org/ontology/sora#AE-OSO09-I-C1-M1,AE-OSO09-I-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO09-I-Criterion_01,Competency-based theoretical/practical training
+target,individual,https://example.org/ontology/sora#AE-OSO13-A-C1-H1,AE-OSO13-A-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO13-A-C1-H2,AE-OSO13-A-C1-H2
+target,individual,https://example.org/ontology/sora#AE-OSO13-A-C1-L1,AE-OSO13-A-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO13-A-C1-M1,AE-OSO13-A-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO13-A-C1-M2,AE-OSO13-A-C1-M2
+target,individual,https://example.org/ontology/sora#AE-OSO13-A-C1-M2-C1,AE-OSO13-A-C1-M2-C1
+target,individual,https://example.org/ontology/sora#AE-OSO13-A-C1-M2-C2,AE-OSO13-A-C1-M2-C2
+target,individual,https://example.org/ontology/sora#AE-OSO13-A-Criterion_01,External service adequacy (evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO13-I-C1-H1,AE-OSO13-I-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO13-I-C1-L1,AE-OSO13-I-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO13-I-C1-L2,AE-OSO13-I-C1-L2
+target,individual,https://example.org/ontology/sora#AE-OSO13-I-C1-L3,AE-OSO13-I-C1-L3
+target,individual,https://example.org/ontology/sora#AE-OSO13-I-C1-M1,AE-OSO13-I-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO13-I-Criterion_01,External service adequacy
+target,individual,https://example.org/ontology/sora#AE-OSO16-A-C1-H1,AE-OSO16-A-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO16-A-C1-H2,AE-OSO16-A-C1-H2
+target,individual,https://example.org/ontology/sora#AE-OSO16-A-C1-L1,AE-OSO16-A-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO16-A-C1-L2,AE-OSO16-A-C1-L2
+target,individual,https://example.org/ontology/sora#AE-OSO16-A-C1-M1,AE-OSO16-A-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO16-A-C1-M2,AE-OSO16-A-C1-M2
+target,individual,https://example.org/ontology/sora#AE-OSO16-A-C1b-H1,AE-OSO16-A-C1b-H1
+target,individual,https://example.org/ontology/sora#AE-OSO16-A-C1b-L1,AE-OSO16-A-C1b-L1
+target,individual,https://example.org/ontology/sora#AE-OSO16-A-C1b-L2,AE-OSO16-A-C1b-L2
+target,individual,https://example.org/ontology/sora#AE-OSO16-A-C1b-M1,AE-OSO16-A-C1b-M1
+target,individual,https://example.org/ontology/sora#AE-OSO16-A-C2-H1,AE-OSO16-A-C2-H1
+target,individual,https://example.org/ontology/sora#AE-OSO16-A-C2-H2,AE-OSO16-A-C2-H2
+target,individual,https://example.org/ontology/sora#AE-OSO16-A-C2-L1,AE-OSO16-A-C2-L1
+target,individual,https://example.org/ontology/sora#AE-OSO16-A-C2-M1,AE-OSO16-A-C2-M1
+target,individual,https://example.org/ontology/sora#AE-OSO16-A-C2-M2,AE-OSO16-A-C2-M2
+target,individual,https://example.org/ontology/sora#AE-OSO16-A-C3-H1,AE-OSO16-A-C3-H1
+target,individual,https://example.org/ontology/sora#AE-OSO16-A-C3-L1,AE-OSO16-A-C3-L1
+target,individual,https://example.org/ontology/sora#AE-OSO16-A-C3-M1,AE-OSO16-A-C3-M1
+target,individual,https://example.org/ontology/sora#AE-OSO16-A-Criterion_01,Coordination procedures (evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO16-A-Criterion_01b,Coordination procedures (alternative evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO16-A-Criterion_02,Coordination training (evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO16-A-Criterion_03,Communication device (evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO16-I-C1-H1,AE-OSO16-I-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO16-I-C1-L1,AE-OSO16-I-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO16-I-C1-L2,AE-OSO16-I-C1-L2
+target,individual,https://example.org/ontology/sora#AE-OSO16-I-C1-M1,AE-OSO16-I-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO16-I-C2-H1,AE-OSO16-I-C2-H1
+target,individual,https://example.org/ontology/sora#AE-OSO16-I-C2-L1,AE-OSO16-I-C2-L1
+target,individual,https://example.org/ontology/sora#AE-OSO16-I-C2-M1,AE-OSO16-I-C2-M1
+target,individual,https://example.org/ontology/sora#AE-OSO16-I-C3-H1,AE-OSO16-I-C3-H1
+target,individual,https://example.org/ontology/sora#AE-OSO16-I-C3-L1,AE-OSO16-I-C3-L1
+target,individual,https://example.org/ontology/sora#AE-OSO16-I-C3-M1,AE-OSO16-I-C3-M1
+target,individual,https://example.org/ontology/sora#AE-OSO16-I-C3-M2,AE-OSO16-I-C3-M2
+target,individual,https://example.org/ontology/sora#AE-OSO16-I-Criterion_01,Coordination procedures
+target,individual,https://example.org/ontology/sora#AE-OSO16-I-Criterion_02,Coordination training
+target,individual,https://example.org/ontology/sora#AE-OSO16-I-Criterion_03,Communication devices
+target,individual,https://example.org/ontology/sora#AE-OSO17-A-C1-H1,AE-OSO17-A-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO17-A-C1-H2,AE-OSO17-A-C1-H2
+target,individual,https://example.org/ontology/sora#AE-OSO17-A-C1-H3,AE-OSO17-A-C1-H3
+target,individual,https://example.org/ontology/sora#AE-OSO17-A-C1-H3-C1,AE-OSO17-A-C1-H3-C1
+target,individual,https://example.org/ontology/sora#AE-OSO17-A-C1-H3-C2,AE-OSO17-A-C1-H3-C2
+target,individual,https://example.org/ontology/sora#AE-OSO17-A-C1-L1,AE-OSO17-A-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO17-A-C1-M1,AE-OSO17-A-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO17-A-C1-M2,AE-OSO17-A-C1-M2
+target,individual,https://example.org/ontology/sora#AE-OSO17-A-C1-M2-C1,AE-OSO17-A-C1-M2-C1
+target,individual,https://example.org/ontology/sora#AE-OSO17-A-C1-M2-C2,AE-OSO17-A-C1-M2-C2
+target,individual,https://example.org/ontology/sora#AE-OSO17-A-C1-M2-C3,AE-OSO17-A-C1-M2-C3
+target,individual,https://example.org/ontology/sora#AE-OSO17-A-Criterion_01,Fitness policy and fatigue management (evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO17-I-C1-H1,AE-OSO17-I-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO17-I-C1-H2,AE-OSO17-I-C1-H2
+target,individual,https://example.org/ontology/sora#AE-OSO17-I-C1-L1,AE-OSO17-I-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO17-I-C1-M1,AE-OSO17-I-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO17-I-C1-M2,AE-OSO17-I-C1-M2
+target,individual,https://example.org/ontology/sora#AE-OSO17-I-Criterion_01,Fitness policy and fatigue management
+target,individual,https://example.org/ontology/sora#AE-OSO18-A-C1-H1,AE-OSO18-A-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO18-A-C1-L1,AE-OSO18-A-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO18-A-C1-M1,AE-OSO18-A-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO18-A-Criterion_01,Flight envelope protection (evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO18-I-C1-H1,AE-OSO18-I-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO18-I-C1-L1,AE-OSO18-I-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO18-I-C1-M1,AE-OSO18-I-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO18-I-Criterion_01,Flight envelope protection
+target,individual,https://example.org/ontology/sora#AE-OSO19-A-C1-H1,AE-OSO19-A-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO19-A-C1-L1,AE-OSO19-A-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO19-A-C1-M1,AE-OSO19-A-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO19-A-C1-M1-C1,AE-OSO19-A-C1-M1-C1
+target,individual,https://example.org/ontology/sora#AE-OSO19-A-C1-M1-C2,AE-OSO19-A-C1-M1-C2
+target,individual,https://example.org/ontology/sora#AE-OSO19-A-Criterion_01,Human-error detection/recovery systems (evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO19-I-C1-H1,AE-OSO19-I-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO19-I-C1-L1,AE-OSO19-I-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO19-I-C1-M1,AE-OSO19-I-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO19-I-Criterion_01,Human-error detection/recovery systems
+target,individual,https://example.org/ontology/sora#AE-OSO20-A-C1-H1,AE-OSO20-A-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO20-A-C1-L1,AE-OSO20-A-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO20-A-C1-L1-C1,AE-OSO20-A-C1-L1-C1
+target,individual,https://example.org/ontology/sora#AE-OSO20-A-C1-L1-C2,AE-OSO20-A-C1-L1-C2
+target,individual,https://example.org/ontology/sora#AE-OSO20-A-C1-L1-C3,AE-OSO20-A-C1-L1-C3
+target,individual,https://example.org/ontology/sora#AE-OSO20-A-C1-M1,AE-OSO20-A-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO20-A-C1b-H1,AE-OSO20-A-C1b-H1
+target,individual,https://example.org/ontology/sora#AE-OSO20-A-C1b-L1,AE-OSO20-A-C1b-L1
+target,individual,https://example.org/ontology/sora#AE-OSO20-A-C1b-L2,AE-OSO20-A-C1b-L2
+target,individual,https://example.org/ontology/sora#AE-OSO20-A-C1b-M1,AE-OSO20-A-C1b-M1
+target,individual,https://example.org/ontology/sora#AE-OSO20-A-Criterion_01,HMI clarity and human factors (evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO20-A-Criterion_01b,HMI clarity and human factors (evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO20-I-C1-H1,AE-OSO20-I-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO20-I-C1-H2,AE-OSO20-I-C1-H2
+target,individual,https://example.org/ontology/sora#AE-OSO20-I-C1-H3,AE-OSO20-I-C1-H3
+target,individual,https://example.org/ontology/sora#AE-OSO20-I-C1-L1,AE-OSO20-I-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO20-I-C1-M1,AE-OSO20-I-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO20-I-Criterion_01,HMI clarity and human factors
+target,individual,https://example.org/ontology/sora#AE-OSO23-A-C1-H1,AE-OSO23-A-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO23-A-C1-L1,AE-OSO23-A-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO23-A-C1-M1,AE-OSO23-A-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO23-A-Criterion_01,Environmental operating conditions (evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO23-I-C1-H1,AE-OSO23-I-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO23-I-C1-L1,AE-OSO23-I-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO23-I-C1-M1,AE-OSO23-I-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO23-I-Criterion_01,Environmental operating conditions
+target,individual,https://example.org/ontology/sora#AE-OSO24-A-C1-H1,AE-OSO24-A-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO24-A-C1-L1,AE-OSO24-A-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO24-A-C1-M1,AE-OSO24-A-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO24-A-C1-M1-C1,AE-OSO24-A-C1-M1-C1
+target,individual,https://example.org/ontology/sora#AE-OSO24-A-C1-M1-C2,AE-OSO24-A-C1-M1-C2
+target,individual,https://example.org/ontology/sora#AE-OSO24-A-C1b-H1,AE-OSO24-A-C1b-H1
+target,individual,https://example.org/ontology/sora#AE-OSO24-A-C1b-L1,AE-OSO24-A-C1b-L1
+target,individual,https://example.org/ontology/sora#AE-OSO24-A-C1b-M1,AE-OSO24-A-C1b-M1
+target,individual,https://example.org/ontology/sora#AE-OSO24-A-C1b-M2,AE-OSO24-A-C1b-M2
+target,individual,https://example.org/ontology/sora#AE-OSO24-A-Criterion_01,Adverse environmental design (evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO24-A-Criterion_01b,Adverse environmental design (evidence)
+target,individual,https://example.org/ontology/sora#AE-OSO24-I-C1-H1,AE-OSO24-I-C1-H1
+target,individual,https://example.org/ontology/sora#AE-OSO24-I-C1-L1,AE-OSO24-I-C1-L1
+target,individual,https://example.org/ontology/sora#AE-OSO24-I-C1-M1,AE-OSO24-I-C1-M1
+target,individual,https://example.org/ontology/sora#AE-OSO24-I-Criterion_01,Adverse environmental design
+target,individual,https://example.org/ontology/sora#AccessControl,Access control
+target,individual,https://example.org/ontology/sora#Alert,Alert
+target,individual,https://example.org/ontology/sora#Analyse,Analyse
+target,individual,https://example.org/ontology/sora#Anomaly,Anomaly
+target,individual,https://example.org/ontology/sora#AntiReplayProtection,Anti-Replay
+target,individual,https://example.org/ontology/sora#ApplicabilityCrossReference,Applicability/Cross-reference Criterion
+target,individual,https://example.org/ontology/sora#Applicant,Applicant
+target,individual,https://example.org/ontology/sora#Assess,Assess
+target,individual,https://example.org/ontology/sora#Assurance,Assurance
+target,individual,https://example.org/ontology/sora#Audit,Audit
+target,individual,https://example.org/ontology/sora#Authentication,Authentication
+target,individual,https://example.org/ontology/sora#Authenticity,Authenticity
+target,individual,https://example.org/ontology/sora#Authorisation,Authorisation
+target,individual,https://example.org/ontology/sora#Availability,Availability
+target,individual,https://example.org/ontology/sora#AviationSafety,Aviation Safety
+target,individual,https://example.org/ontology/sora#Brief,Brief
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C1-H1,CY-OSO01-A-C1-H1
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C1-H1-C1,CY-OSO01-A-C1-H1-C1
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C1-H1-C2,CY-OSO01-A-C1-H1-C2
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C1-H2,CY-OSO01-A-C1-H2
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C1-L1,CY-OSO01-A-C1-L1
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C1-M1,CY-OSO01-A-C1-M1
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C1-M1-C1,CY-OSO01-A-C1-M1-C1
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C1-M1-C2,CY-OSO01-A-C1-M1-C2
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C1-M1-C3,CY-OSO01-A-C1-M1-C3
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C2-H1,CY-OSO01-A-C2-H1
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C2-L1,CY-OSO01-A-C2-L1
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C2-M1,CY-OSO01-A-C2-M1
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C3-H1,CY-OSO01-A-C3-H1
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C3-L1,CY-OSO01-A-C3-L1
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C3-M1,CY-OSO01-A-C3-M1
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C3-M1-C1,CY-OSO01-A-C3-M1-C1
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C3-M1-C2,CY-OSO01-A-C3-M1-C2
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C3-M1-C3,CY-OSO01-A-C3-M1-C3
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C4-H1,CY-OSO01-A-C4-H1
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C4-H1-C1,CY-OSO01-A-C4-H1-C1
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C4-H1-C2,CY-OSO01-A-C4-H1-C2
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C4-L1,CY-OSO01-A-C4-L1
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C4-M1,CY-OSO01-A-C4-M1
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C5-H1,CY-OSO01-A-C5-H1
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C5-L1,CY-OSO01-A-C5-L1
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C5-M1,CY-OSO01-A-C5-M1
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C6-H1,CY-OSO01-A-C6-H1
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C6-H1-C1,CY-OSO01-A-C6-H1-C1
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C6-H1-C2,CY-OSO01-A-C6-H1-C2
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C6-L1,CY-OSO01-A-C6-L1
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C6-M1,CY-OSO01-A-C6-M1
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C6-M1-C1,CY-OSO01-A-C6-M1-C1
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C6-M1-C2,CY-OSO01-A-C6-M1-C2
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-C6-M1-C3,CY-OSO01-A-C6-M1-C3
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-Criterion_01,Organisational culture (evidence)
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-Criterion_02,IT and data security (evidence)
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-Criterion_03,Industry group participation (evidence)
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-Criterion_04,Risk management programme (evidence)
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-Criterion_05,Audit programme for Cyber Safety Issues (evidence)
+target,individual,https://example.org/ontology/sora#CY-OSO01-A-Criterion_06,Flight log (evidence)
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C1-H1,CY-OSO01-I-C1-H1
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C1-L1,CY-OSO01-I-C1-L1
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C1-L2,CY-OSO01-I-C1-L2
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C1-L3,CY-OSO01-I-C1-L3
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C1-M1,CY-OSO01-I-C1-M1
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C1-M2,CY-OSO01-I-C1-M2
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C1-M3,CY-OSO01-I-C1-M3
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C1-M4,CY-OSO01-I-C1-M4
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C2-H1,CY-OSO01-I-C2-H1
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C2-H2,CY-OSO01-I-C2-H2
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C2-L1,CY-OSO01-I-C2-L1
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C2-L2,CY-OSO01-I-C2-L2
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C2-L3,CY-OSO01-I-C2-L3
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C2-M1,CY-OSO01-I-C2-M1
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C2-M1-C1,CY-OSO01-I-C2-M1-C1
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C2-M1-C2,CY-OSO01-I-C2-M1-C2
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C2-M2,CY-OSO01-I-C2-M2
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C2-M3,CY-OSO01-I-C2-M3
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C3-H1,CY-OSO01-I-C3-H1
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C3-H2,CY-OSO01-I-C3-H2
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C3-H2-C1,CY-OSO01-I-C3-H2-C1
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C3-H2-C2,CY-OSO01-I-C3-H2-C2
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C3-H2-C3,CY-OSO01-I-C3-H2-C3
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C3-L1,CY-OSO01-I-C3-L1
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C3-M1,CY-OSO01-I-C3-M1
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C4-H1,CY-OSO01-I-C4-H1
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C4-H2,CY-OSO01-I-C4-H2
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C4-L1,CY-OSO01-I-C4-L1
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C4-M1,CY-OSO01-I-C4-M1
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C5-H1,CY-OSO01-I-C5-H1
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C5-L1,CY-OSO01-I-C5-L1
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C5-M1,CY-OSO01-I-C5-M1
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C6-H1,CY-OSO01-I-C6-H1
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C6-L1,CY-OSO01-I-C6-L1
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C6-L1-C1,CY-OSO01-I-C6-L1-C1
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C6-L1-C2,CY-OSO01-I-C6-L1-C2
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-C6-M1,CY-OSO01-I-C6-M1
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-Criterion_01,Organisational culture
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-Criterion_02,IT and data security
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-Criterion_03,Industry group participation
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-Criterion_05,Audit programme for cyber-safety issues
+target,individual,https://example.org/ontology/sora#CY-OSO01-I-Criterion_06,Flight log
+target,individual,https://example.org/ontology/sora#CY-OSO02-X-Criterion_01,Supply-chain cyber coverage
+target,individual,https://example.org/ontology/sora#CY-OSO02-X-H1,CY-OSO02-X-H1
+target,individual,https://example.org/ontology/sora#CY-OSO02-X-L1,CY-OSO02-X-L1
+target,individual,https://example.org/ontology/sora#CY-OSO02-X-M1,CY-OSO02-X-M1
+target,individual,https://example.org/ontology/sora#CY-OSO03-A-C1-H1,CY-OSO03-A-C1-H1
+target,individual,https://example.org/ontology/sora#CY-OSO03-A-C1-L1,CY-OSO03-A-C1-L1
+target,individual,https://example.org/ontology/sora#CY-OSO03-A-C1-M1,CY-OSO03-A-C1-M1
+target,individual,https://example.org/ontology/sora#CY-OSO03-A-C2-H1,CY-OSO03-A-C2-H1
+target,individual,https://example.org/ontology/sora#CY-OSO03-A-C2-L1,CY-OSO03-A-C2-L1
+target,individual,https://example.org/ontology/sora#CY-OSO03-A-C2-M1,CY-OSO03-A-C2-M1
+target,individual,https://example.org/ontology/sora#CY-OSO03-A-C3-H1,CY-OSO03-A-C3-H1
+target,individual,https://example.org/ontology/sora#CY-OSO03-A-C3-L1,CY-OSO03-A-C3-L1
+target,individual,https://example.org/ontology/sora#CY-OSO03-A-C3-M1,CY-OSO03-A-C3-M1
+target,individual,https://example.org/ontology/sora#CY-OSO03-A-C4-H1,CY-OSO03-A-C4-H1
+target,individual,https://example.org/ontology/sora#CY-OSO03-A-C4-L1,CY-OSO03-A-C4-L1
+target,individual,https://example.org/ontology/sora#CY-OSO03-A-C4-M1,CY-OSO03-A-C4-M1
+target,individual,https://example.org/ontology/sora#CY-OSO03-A-C5-H1,CY-OSO03-A-C5-H1
+target,individual,https://example.org/ontology/sora#CY-OSO03-A-C5-L1,CY-OSO03-A-C5-L1
+target,individual,https://example.org/ontology/sora#CY-OSO03-A-C5-M1,CY-OSO03-A-C5-M1
+target,individual,https://example.org/ontology/sora#CY-OSO03-A-C6-H1,CY-OSO03-A-C6-H1
+target,individual,https://example.org/ontology/sora#CY-OSO03-A-C6-L1,CY-OSO03-A-C6-L1
+target,individual,https://example.org/ontology/sora#CY-OSO03-A-C6-M1,CY-OSO03-A-C6-M1
+target,individual,https://example.org/ontology/sora#CY-OSO03-A-Criterion_01,Malware protection (evidence)
+target,individual,https://example.org/ontology/sora#CY-OSO03-A-Criterion_02,Supply-chain management (evidence)
+target,individual,https://example.org/ontology/sora#CY-OSO03-A-Criterion_03,Physical security (evidence)
+target,individual,https://example.org/ontology/sora#CY-OSO03-A-Criterion_04,Controlled access (evidence)
+target,individual,https://example.org/ontology/sora#CY-OSO03-A-Criterion_05,Wireless protection (evidence)
+target,individual,https://example.org/ontology/sora#CY-OSO03-A-Criterion_06,Software/firmware update (evidence)
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C1-H1,CY-OSO03-I-C1-H1
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C1-L1,CY-OSO03-I-C1-L1
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C1-M1,CY-OSO03-I-C1-M1
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C1-M2,CY-OSO03-I-C1-M2
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C2-H1,CY-OSO03-I-C2-H1
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C2-H1-C1,CY-OSO03-I-C2-H1-C1
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C2-H1-C2,CY-OSO03-I-C2-H1-C2
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C2-L1,CY-OSO03-I-C2-L1
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C2-M1,CY-OSO03-I-C2-M1
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C3-H1,CY-OSO03-I-C3-H1
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C3-L1,CY-OSO03-I-C3-L1
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C3-M1,CY-OSO03-I-C3-M1
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C4-H1,CY-OSO03-I-C4-H1
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C4-H2,CY-OSO03-I-C4-H2
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C4-H3,CY-OSO03-I-C4-H3
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C4-L1,CY-OSO03-I-C4-L1
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C4-M1,CY-OSO03-I-C4-M1
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C4-M2,CY-OSO03-I-C4-M2
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C4-M2-C1,CY-OSO03-I-C4-M2-C1
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C4-M2-C2,CY-OSO03-I-C4-M2-C2
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C4-M2-C3,CY-OSO03-I-C4-M2-C3
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C5-H1,CY-OSO03-I-C5-H1
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C5-H1-C1,CY-OSO03-I-C5-H1-C1
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C5-H1-C2,CY-OSO03-I-C5-H1-C2
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C5-H1-C3,CY-OSO03-I-C5-H1-C3
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C5-L1,CY-OSO03-I-C5-L1
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C5-M1,CY-OSO03-I-C5-M1
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C6-H1,CY-OSO03-I-C6-H1
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C6-H1-C1,CY-OSO03-I-C6-H1-C1
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C6-H1-C2,CY-OSO03-I-C6-H1-C2
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C6-H2,CY-OSO03-I-C6-H2
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C6-L1,CY-OSO03-I-C6-L1
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C6-L1-C1,CY-OSO03-I-C6-L1-C1
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C6-L1-C2,CY-OSO03-I-C6-L1-C2
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C6-L1-C3,CY-OSO03-I-C6-L1-C3
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-C6-M1,CY-OSO03-I-C6-M1
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-Criterion_01,Malware protection
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-Criterion_03,Physical security
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-Criterion_04,Controlled access
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-Criterion_05,Wireless access protection
+target,individual,https://example.org/ontology/sora#CY-OSO03-I-Criterion_06,Software/firmware updates
+target,individual,https://example.org/ontology/sora#CY-OSO04-X-Criterion_01,Design standards cyber coverage
+target,individual,https://example.org/ontology/sora#CY-OSO04-X-H1,CY-OSO04-X-H1
+target,individual,https://example.org/ontology/sora#CY-OSO04-X-L1,CY-OSO04-X-L1
+target,individual,https://example.org/ontology/sora#CY-OSO04-X-M1,CY-OSO04-X-M1
+target,individual,https://example.org/ontology/sora#CY-OSO05-A-C1-H1,CY-OSO05-A-C1-H1
+target,individual,https://example.org/ontology/sora#CY-OSO05-A-C1-L1,CY-OSO05-A-C1-L1
+target,individual,https://example.org/ontology/sora#CY-OSO05-A-C1-M1,CY-OSO05-A-C1-M1
+target,individual,https://example.org/ontology/sora#CY-OSO05-A-C2-H1,CY-OSO05-A-C2-H1
+target,individual,https://example.org/ontology/sora#CY-OSO05-A-C2-L1,CY-OSO05-A-C2-L1
+target,individual,https://example.org/ontology/sora#CY-OSO05-A-C2-M1,CY-OSO05-A-C2-M1
+target,individual,https://example.org/ontology/sora#CY-OSO05-A-C3-H1,CY-OSO05-A-C3-H1
+target,individual,https://example.org/ontology/sora#CY-OSO05-A-C3-L1,CY-OSO05-A-C3-L1
+target,individual,https://example.org/ontology/sora#CY-OSO05-A-C3-M1,CY-OSO05-A-C3-M1
+target,individual,https://example.org/ontology/sora#CY-OSO05-A-C4-H1,CY-OSO05-A-C4-H1
+target,individual,https://example.org/ontology/sora#CY-OSO05-A-C4-L1,CY-OSO05-A-C4-L1
+target,individual,https://example.org/ontology/sora#CY-OSO05-A-C4-M1,CY-OSO05-A-C4-M1
+target,individual,https://example.org/ontology/sora#CY-OSO05-A-C5-H1,CY-OSO05-A-C5-H1
+target,individual,https://example.org/ontology/sora#CY-OSO05-A-C5-L1,CY-OSO05-A-C5-L1
+target,individual,https://example.org/ontology/sora#CY-OSO05-A-C5-M1,CY-OSO05-A-C5-M1
+target,individual,https://example.org/ontology/sora#CY-OSO05-A-Criterion_01,Security risk assessment (evidence)
+target,individual,https://example.org/ontology/sora#CY-OSO05-A-Criterion_02,GNSS mitigation (evidence)
+target,individual,https://example.org/ontology/sora#CY-OSO05-A-Criterion_03,Resilience in the face of a cyber attack
+target,individual,https://example.org/ontology/sora#CY-OSO05-A-Criterion_04,Lifecycle appraisal (evidence)
+target,individual,https://example.org/ontology/sora#CY-OSO05-A-Criterion_05,Test/security validation (evidence)
+target,individual,https://example.org/ontology/sora#CY-OSO05-I-C1-H1,CY-OSO05-I-C1-H1
+target,individual,https://example.org/ontology/sora#CY-OSO05-I-C1-L1,CY-OSO05-I-C1-L1
+target,individual,https://example.org/ontology/sora#CY-OSO05-I-C1-L1-C1,CY-OSO05-I-C1-L1-C1
+target,individual,https://example.org/ontology/sora#CY-OSO05-I-C1-L1-C2,CY-OSO05-I-C1-L1-C2
+target,individual,https://example.org/ontology/sora#CY-OSO05-I-C1-M1,CY-OSO05-I-C1-M1
+target,individual,https://example.org/ontology/sora#CY-OSO05-I-C2-H1,CY-OSO05-I-C2-H1
+target,individual,https://example.org/ontology/sora#CY-OSO05-I-C2-L1,CY-OSO05-I-C2-L1
+target,individual,https://example.org/ontology/sora#CY-OSO05-I-C2-M1,CY-OSO05-I-C2-M1
+target,individual,https://example.org/ontology/sora#CY-OSO05-I-C2-M1-C1,CY-OSO05-I-C2-M1-C1
+target,individual,https://example.org/ontology/sora#CY-OSO05-I-C2-M1-C2,CY-OSO05-I-C2-M1-C2
+target,individual,https://example.org/ontology/sora#CY-OSO05-I-C2-M1-C3,CY-OSO05-I-C2-M1-C3
+target,individual,https://example.org/ontology/sora#CY-OSO05-I-C3-H1,CY-OSO05-I-C3-H1
+target,individual,https://example.org/ontology/sora#CY-OSO05-I-C3-L1,CY-OSO05-I-C3-L1
+target,individual,https://example.org/ontology/sora#CY-OSO05-I-C3-M1,CY-OSO05-I-C3-M1
+target,individual,https://example.org/ontology/sora#CY-OSO05-I-C4-H1,CY-OSO05-I-C4-H1
+target,individual,https://example.org/ontology/sora#CY-OSO05-I-C4-L1,CY-OSO05-I-C4-L1
+target,individual,https://example.org/ontology/sora#CY-OSO05-I-C4-M1,CY-OSO05-I-C4-M1
+target,individual,https://example.org/ontology/sora#CY-OSO05-I-C5-H1,CY-OSO05-I-C5-H1
+target,individual,https://example.org/ontology/sora#CY-OSO05-I-C5-L1,CY-OSO05-I-C5-L1
+target,individual,https://example.org/ontology/sora#CY-OSO05-I-C5-M1,CY-OSO05-I-C5-M1
+target,individual,https://example.org/ontology/sora#CY-OSO05-I-Criterion_01,Cyber safety risk assessment
+target,individual,https://example.org/ontology/sora#CY-OSO05-I-Criterion_02,GNSS equipment
+target,individual,https://example.org/ontology/sora#CY-OSO05-I-Criterion_03,Resilience in the face of a cyberattack
+target,individual,https://example.org/ontology/sora#CY-OSO05-I-Criterion_04,Lifecycle security appraisal
+target,individual,https://example.org/ontology/sora#CY-OSO05-I-Criterion_05,Test and security validation
+target,individual,https://example.org/ontology/sora#CY-OSO06-A-C1-H1,CY-OSO06-A-C1-H1
+target,individual,https://example.org/ontology/sora#CY-OSO06-A-C1-L1,CY-OSO06-A-C1-L1
+target,individual,https://example.org/ontology/sora#CY-OSO06-A-C1-M1,CY-OSO06-A-C1-M1
+target,individual,https://example.org/ontology/sora#CY-OSO06-A-C2-H1,CY-OSO06-A-C2-H1
+target,individual,https://example.org/ontology/sora#CY-OSO06-A-C2-L1,CY-OSO06-A-C2-L1
+target,individual,https://example.org/ontology/sora#CY-OSO06-A-C2-M1,CY-OSO06-A-C2-M1
+target,individual,https://example.org/ontology/sora#CY-OSO06-A-C3-H1,CY-OSO06-A-C3-H1
+target,individual,https://example.org/ontology/sora#CY-OSO06-A-C3-L1,CY-OSO06-A-C3-L1
+target,individual,https://example.org/ontology/sora#CY-OSO06-A-C3-M1,CY-OSO06-A-C3-M1
+target,individual,https://example.org/ontology/sora#CY-OSO06-A-C4-H1,CY-OSO06-A-C4-H1
+target,individual,https://example.org/ontology/sora#CY-OSO06-A-C4-L1,CY-OSO06-A-C4-L1
+target,individual,https://example.org/ontology/sora#CY-OSO06-A-C4-M1,CY-OSO06-A-C4-M1
+target,individual,https://example.org/ontology/sora#CY-OSO06-A-Criterion_01,Datalink encryption (evidence)
+target,individual,https://example.org/ontology/sora#CY-OSO06-A-Criterion_02,Authentication (evidence)
+target,individual,https://example.org/ontology/sora#CY-OSO06-A-Criterion_03,Access control (evidence)
+target,individual,https://example.org/ontology/sora#CY-OSO06-A-Criterion_04,Data integrity and anti-replay (evidence)
+target,individual,https://example.org/ontology/sora#CY-OSO06-I-C1-H1,CY-OSO06-I-C1-H1
+target,individual,https://example.org/ontology/sora#CY-OSO06-I-C1-L1,CY-OSO06-I-C1-L1
+target,individual,https://example.org/ontology/sora#CY-OSO06-I-C1-M1,CY-OSO06-I-C1-M1
+target,individual,https://example.org/ontology/sora#CY-OSO06-I-C2-H1,CY-OSO06-I-C2-H1
+target,individual,https://example.org/ontology/sora#CY-OSO06-I-C2-H2,CY-OSO06-I-C2-H2
+target,individual,https://example.org/ontology/sora#CY-OSO06-I-C2-L1,CY-OSO06-I-C2-L1
+target,individual,https://example.org/ontology/sora#CY-OSO06-I-C2-M1,CY-OSO06-I-C2-M1
+target,individual,https://example.org/ontology/sora#CY-OSO06-I-C3-H1,CY-OSO06-I-C3-H1
+target,individual,https://example.org/ontology/sora#CY-OSO06-I-C3-H1-C1,CY-OSO06-I-C3-H1-C1
+target,individual,https://example.org/ontology/sora#CY-OSO06-I-C3-H1-C2,CY-OSO06-I-C3-H1-C2
+target,individual,https://example.org/ontology/sora#CY-OSO06-I-C3-L1,CY-OSO06-I-C3-L1
+target,individual,https://example.org/ontology/sora#CY-OSO06-I-C3-L1-C1,CY-OSO06-I-C3-L1-C1
+target,individual,https://example.org/ontology/sora#CY-OSO06-I-C3-L1-C2,CY-OSO06-I-C3-L1-C2
+target,individual,https://example.org/ontology/sora#CY-OSO06-I-C3-L1-C3,CY-OSO06-I-C3-L1-C3
+target,individual,https://example.org/ontology/sora#CY-OSO06-I-C3-M1,CY-OSO06-I-C3-M1
+target,individual,https://example.org/ontology/sora#CY-OSO06-I-C4-H1,CY-OSO06-I-C4-H1
+target,individual,https://example.org/ontology/sora#CY-OSO06-I-C4-L1,CY-OSO06-I-C4-L1
+target,individual,https://example.org/ontology/sora#CY-OSO06-I-C4-M1,CY-OSO06-I-C4-M1
+target,individual,https://example.org/ontology/sora#CY-OSO06-I-Criterion_01,Datalink encryption
+target,individual,https://example.org/ontology/sora#CY-OSO06-I-Criterion_02,Authentication
+target,individual,https://example.org/ontology/sora#CY-OSO06-I-Criterion_03,Access control
+target,individual,https://example.org/ontology/sora#CY-OSO06-I-Criterion_04,Data integrity and anti-replay protection
+target,individual,https://example.org/ontology/sora#CY-OSO07-X-Criterion_01,Physical Inspection
+target,individual,https://example.org/ontology/sora#CY-OSO07-X-H1,CY-OSO07-X-H1
+target,individual,https://example.org/ontology/sora#CY-OSO07-X-L1,CY-OSO07-X-L1
+target,individual,https://example.org/ontology/sora#CY-OSO07-X-M1,CY-OSO07-X-M1
+target,individual,https://example.org/ontology/sora#CY-OSO08-X-Criterion_01,Cyber hygiene in operational procedures
+target,individual,https://example.org/ontology/sora#CY-OSO08-X-H1,CY-OSO08-X-H1
+target,individual,https://example.org/ontology/sora#CY-OSO08-X-L1,CY-OSO08-X-L1
+target,individual,https://example.org/ontology/sora#CY-OSO08-X-M1,CY-OSO08-X-M1
+target,individual,https://example.org/ontology/sora#CY-OSO09-X-Criterion_01,Cyber hygiene in training
+target,individual,https://example.org/ontology/sora#CY-OSO09-X-H1,CY-OSO09-X-H1
+target,individual,https://example.org/ontology/sora#CY-OSO09-X-L1,CY-OSO09-X-L1
+target,individual,https://example.org/ontology/sora#CY-OSO09-X-M1,CY-OSO09-X-M1
+target,individual,https://example.org/ontology/sora#CY-OSO13-A-C1-H1,CY-OSO13-A-C1-H1
+target,individual,https://example.org/ontology/sora#CY-OSO13-A-C1-L1,CY-OSO13-A-C1-L1
+target,individual,https://example.org/ontology/sora#CY-OSO13-A-C1-M1,CY-OSO13-A-C1-M1
+target,individual,https://example.org/ontology/sora#CY-OSO13-A-C1-M1-C1,CY-OSO13-A-C1-M1-C1
+target,individual,https://example.org/ontology/sora#CY-OSO13-A-C1-M1-C2,CY-OSO13-A-C1-M1-C2
+target,individual,https://example.org/ontology/sora#CY-OSO13-A-C1-M1-C3,CY-OSO13-A-C1-M1-C3
+target,individual,https://example.org/ontology/sora#CY-OSO13-A-Criterion_01,External service cybersecurity (evidence)
+target,individual,https://example.org/ontology/sora#CY-OSO13-I-C1-H1,CY-OSO13-I-C1-H1
+target,individual,https://example.org/ontology/sora#CY-OSO13-I-C1-L1,CY-OSO13-I-C1-L1
+target,individual,https://example.org/ontology/sora#CY-OSO13-I-C1-L1-C1,CY-OSO13-I-C1-L1-C1
+target,individual,https://example.org/ontology/sora#CY-OSO13-I-C1-L1-C2,CY-OSO13-I-C1-L1-C2
+target,individual,https://example.org/ontology/sora#CY-OSO13-I-C1-L1-C3,CY-OSO13-I-C1-L1-C3
+target,individual,https://example.org/ontology/sora#CY-OSO13-I-C1-M1,CY-OSO13-I-C1-M1
+target,individual,https://example.org/ontology/sora#CY-OSO13-I-Criterion_01,External service cybersecurity
+target,individual,https://example.org/ontology/sora#CY-OSO16-X-Criterion_01,Human error cyber coverage
+target,individual,https://example.org/ontology/sora#CY-OSO16-X-H1,CY-OSO16-X-H1
+target,individual,https://example.org/ontology/sora#CY-OSO16-X-L1,CY-OSO16-X-L1
+target,individual,https://example.org/ontology/sora#CY-OSO16-X-M1,CY-OSO16-X-M1
+target,individual,https://example.org/ontology/sora#CY-OSO23-X-Criterion_01,Trusted weather and supplier data integrity
+target,individual,https://example.org/ontology/sora#CY-OSO23-X-H1,CY-OSO23-X-H1
+target,individual,https://example.org/ontology/sora#CY-OSO23-X-L1,CY-OSO23-X-L1
+target,individual,https://example.org/ontology/sora#CY-OSO23-X-M1,CY-OSO23-X-M1
+target,individual,https://example.org/ontology/sora#Calibrate,Calibrate
+target,individual,https://example.org/ontology/sora#Catastrophic,Catastrophic Failure Condition
+target,individual,https://example.org/ontology/sora#ChangeManage,Change Manage
+target,individual,https://example.org/ontology/sora#Check,Check
+target,individual,https://example.org/ontology/sora#Communicate,Communicate
+target,individual,https://example.org/ontology/sora#CompetentAuthority,Competent Authority
+target,individual,https://example.org/ontology/sora#CompetentThirdParty,Competent Third Party
+target,individual,https://example.org/ontology/sora#Confidentiality,Confidentiality
+target,individual,https://example.org/ontology/sora#ContinuingAssurance,Continuing Assurance
+target,individual,https://example.org/ontology/sora#Coordinate,Coordinate
+target,individual,https://example.org/ontology/sora#CyberHygiene,Cyber Hygiene
+target,individual,https://example.org/ontology/sora#CyberSafety,CyberSafety
+target,individual,https://example.org/ontology/sora#CyberSafetyManager,Cyber-safety Manager
+target,individual,https://example.org/ontology/sora#CyberThreat,Cyber Threat
+target,individual,https://example.org/ontology/sora#Cyberattack,Cyberattack
+target,individual,https://example.org/ontology/sora#CybersecurityIntegrity,Cybersecurity Integrity
+target,individual,https://example.org/ontology/sora#DatalinkEncryption,Datalink encryption
+target,individual,https://example.org/ontology/sora#DefenceinDepth,Defence in Depth
+target,individual,https://example.org/ontology/sora#Demonstrate,Demonstrate
+target,individual,https://example.org/ontology/sora#DenialofServiceDistributedDenialofServiceDoSDDoS,Denial of Service/Distributed Denial of Service (DoS/DDoS)
+target,individual,https://example.org/ontology/sora#DesignActivity,Design
+target,individual,https://example.org/ontology/sora#DesignContext,Design
+target,individual,https://example.org/ontology/sora#Detect,Detect
+target,individual,https://example.org/ontology/sora#Development,Development
+target,individual,https://example.org/ontology/sora#DigitalSignature,Digital Signature
+target,individual,https://example.org/ontology/sora#Document,Document
+target,individual,https://example.org/ontology/sora#Encrypt,Encrypt
+target,individual,https://example.org/ontology/sora#Encryption,Encrypt
+target,individual,https://example.org/ontology/sora#Evaluate,Evaluate
+target,individual,https://example.org/ontology/sora#ExtremelyImprobable,ExtremelyImprobable
+target,individual,https://example.org/ontology/sora#ExtremelyRemote,ExtremelyRemote
+target,individual,https://example.org/ontology/sora#Handle,Handle
+target,individual,https://example.org/ontology/sora#Hash,Hash
+target,individual,https://example.org/ontology/sora#Hazardous,Hazardous Failure Condition
+target,individual,https://example.org/ontology/sora#High,High Robustness
+target,individual,https://example.org/ontology/sora#Hijacking,Hijacking
+target,individual,https://example.org/ontology/sora#Implement,Implement
+target,individual,https://example.org/ontology/sora#IndependentQualifiedExternalEntity,External Independent Qualified Entity
+target,individual,https://example.org/ontology/sora#Inservice,In-service
+target,individual,https://example.org/ontology/sora#Inspect,Inspect
+target,individual,https://example.org/ontology/sora#Integrity,Integrity
+target,individual,https://example.org/ontology/sora#InvolvedPerson,Involved Person
+target,individual,https://example.org/ontology/sora#Jamming,Jamming
+target,individual,https://example.org/ontology/sora#LeastPrivilege,Least Privilege
+target,individual,https://example.org/ontology/sora#Log,Log
+target,individual,https://example.org/ontology/sora#LossOfControl,Loss of Control
+target,individual,https://example.org/ontology/sora#Low,Low Robustness
+target,individual,https://example.org/ontology/sora#Maintain,Maintain
+target,individual,https://example.org/ontology/sora#Maintenance,Maintenance
+target,individual,https://example.org/ontology/sora#MaintenanceStaff,Maintenance Personnel
+target,individual,https://example.org/ontology/sora#Major,Major Failure Condition
+target,individual,https://example.org/ontology/sora#MaliciousActivity,Malicious Activity
+target,individual,https://example.org/ontology/sora#Malware,Malware
+target,individual,https://example.org/ontology/sora#MalwareProtection,Malware protection
+target,individual,https://example.org/ontology/sora#Manage,Manage
+target,individual,https://example.org/ontology/sora#ManufactureActivity,Manufacture
+target,individual,https://example.org/ontology/sora#ManufactureContext,Manufacture
+target,individual,https://example.org/ontology/sora#Manufacturer,Manufacturer
+target,individual,https://example.org/ontology/sora#Medium,Medium Robustness
+target,individual,https://example.org/ontology/sora#Mitigate,Mitigate
+target,individual,https://example.org/ontology/sora#Monitor,Monitor
+target,individual,https://example.org/ontology/sora#NonConforming,Non-conforming Item
+target,individual,https://example.org/ontology/sora#OSO_01,OSO_01: Ensure the Operator is competent and/or proven
+target,individual,https://example.org/ontology/sora#OSO_01_SAIL_III_Assignment,OSO_01_SAIL_III_Assignment
+target,individual,https://example.org/ontology/sora#OSO_01_SAIL_II_Assignment,OSO_01_SAIL_II_Assignment
+target,individual,https://example.org/ontology/sora#OSO_01_SAIL_IV_Assignment,OSO_01_SAIL_IV_Assignment
+target,individual,https://example.org/ontology/sora#OSO_01_SAIL_I_Assignment,OSO_01_SAIL_I_Assignment
+target,individual,https://example.org/ontology/sora#OSO_01_SAIL_VI_Assignment,OSO_01_SAIL_VI_Assignment
+target,individual,https://example.org/ontology/sora#OSO_01_SAIL_V_Assignment,OSO_01_SAIL_V_Assignment
+target,individual,https://example.org/ontology/sora#OSO_02,OSO_02: UAS manufactured by competent/proven entity
+target,individual,https://example.org/ontology/sora#OSO_02_SAIL_III_Assignment,OSO_02_SAIL_III_Assignment
+target,individual,https://example.org/ontology/sora#OSO_02_SAIL_II_Assignment,OSO_02_SAIL_II_Assignment
+target,individual,https://example.org/ontology/sora#OSO_02_SAIL_IV_Assignment,OSO_02_SAIL_IV_Assignment
+target,individual,https://example.org/ontology/sora#OSO_02_SAIL_I_Assignment,OSO_02_SAIL_I_Assignment
+target,individual,https://example.org/ontology/sora#OSO_02_SAIL_VI_Assignment,OSO_02_SAIL_VI_Assignment
+target,individual,https://example.org/ontology/sora#OSO_02_SAIL_V_Assignment,OSO_02_SAIL_V_Assignment
+target,individual,https://example.org/ontology/sora#OSO_03,OSO_03: UAS maintained by competent/proven entity
+target,individual,https://example.org/ontology/sora#OSO_03_SAIL_III_Assignment,OSO_03_SAIL_III_Assignment
+target,individual,https://example.org/ontology/sora#OSO_03_SAIL_II_Assignment,OSO_03_SAIL_II_Assignment
+target,individual,https://example.org/ontology/sora#OSO_03_SAIL_IV_Assignment,OSO_03_SAIL_IV_Assignment
+target,individual,https://example.org/ontology/sora#OSO_03_SAIL_I_Assignment,OSO_03_SAIL_I_Assignment
+target,individual,https://example.org/ontology/sora#OSO_03_SAIL_VI_Assignment,OSO_03_SAIL_VI_Assignment
+target,individual,https://example.org/ontology/sora#OSO_03_SAIL_V_Assignment,OSO_03_SAIL_V_Assignment
+target,individual,https://example.org/ontology/sora#OSO_04,OSO_04: UAS components essential to safe operation are developed to airworthi...
+target,individual,https://example.org/ontology/sora#OSO_04_SAIL_III_Assignment,OSO_04_SAIL_III_Assignment
+target,individual,https://example.org/ontology/sora#OSO_04_SAIL_II_Assignment,OSO_04_SAIL_II_Assignment
+target,individual,https://example.org/ontology/sora#OSO_04_SAIL_IV_Assignment,OSO_04_SAIL_IV_Assignment
+target,individual,https://example.org/ontology/sora#OSO_04_SAIL_I_Assignment,OSO_04_SAIL_I_Assignment
+target,individual,https://example.org/ontology/sora#OSO_04_SAIL_VI_Assignment,OSO_04_SAIL_VI_Assignment
+target,individual,https://example.org/ontology/sora#OSO_04_SAIL_V_Assignment,OSO_04_SAIL_V_Assignment
+target,individual,https://example.org/ontology/sora#OSO_05,OSO_05: UAS designed considering system safety and reliability
+target,individual,https://example.org/ontology/sora#OSO_05_SAIL_III_Assignment,OSO_05_SAIL_III_Assignment
+target,individual,https://example.org/ontology/sora#OSO_05_SAIL_II_Assignment,OSO_05_SAIL_II_Assignment
+target,individual,https://example.org/ontology/sora#OSO_05_SAIL_IV_Assignment,OSO_05_SAIL_IV_Assignment
+target,individual,https://example.org/ontology/sora#OSO_05_SAIL_I_Assignment,OSO_05_SAIL_I_Assignment
+target,individual,https://example.org/ontology/sora#OSO_05_SAIL_VI_Assignment,OSO_05_SAIL_VI_Assignment
+target,individual,https://example.org/ontology/sora#OSO_05_SAIL_V_Assignment,OSO_05_SAIL_V_Assignment
+target,individual,https://example.org/ontology/sora#OSO_06,OSO_06: C3 link are appropriate for operation
+target,individual,https://example.org/ontology/sora#OSO_06_SAIL_III_Assignment,OSO_06_SAIL_III_Assignment
+target,individual,https://example.org/ontology/sora#OSO_06_SAIL_II_Assignment,OSO_06_SAIL_II_Assignment
+target,individual,https://example.org/ontology/sora#OSO_06_SAIL_IV_Assignment,OSO_06_SAIL_IV_Assignment
+target,individual,https://example.org/ontology/sora#OSO_06_SAIL_I_Assignment,OSO_06_SAIL_I_Assignment
+target,individual,https://example.org/ontology/sora#OSO_06_SAIL_VI_Assignment,OSO_06_SAIL_VI_Assignment
+target,individual,https://example.org/ontology/sora#OSO_06_SAIL_V_Assignment,OSO_06_SAIL_V_Assignment
+target,individual,https://example.org/ontology/sora#OSO_07,OSO_07: Conformity check of UAS configuration
+target,individual,https://example.org/ontology/sora#OSO_07_SAIL_III_Assignment,OSO_07_SAIL_III_Assignment
+target,individual,https://example.org/ontology/sora#OSO_07_SAIL_II_Assignment,OSO_07_SAIL_II_Assignment
+target,individual,https://example.org/ontology/sora#OSO_07_SAIL_IV_Assignment,OSO_07_SAIL_IV_Assignment
+target,individual,https://example.org/ontology/sora#OSO_07_SAIL_I_Assignment,OSO_07_SAIL_I_Assignment
+target,individual,https://example.org/ontology/sora#OSO_07_SAIL_VI_Assignment,OSO_07_SAIL_VI_Assignment
+target,individual,https://example.org/ontology/sora#OSO_07_SAIL_V_Assignment,OSO_07_SAIL_V_Assignment
+target,individual,https://example.org/ontology/sora#OSO_08,"OSO_08: Operational procedures are defined, validated and adhered to"
+target,individual,https://example.org/ontology/sora#OSO_08_SAIL_III_Assignment,OSO_08_SAIL_III_Assignment
+target,individual,https://example.org/ontology/sora#OSO_08_SAIL_II_Assignment,OSO_08_SAIL_II_Assignment
+target,individual,https://example.org/ontology/sora#OSO_08_SAIL_IV_Assignment,OSO_08_SAIL_IV_Assignment
+target,individual,https://example.org/ontology/sora#OSO_08_SAIL_I_Assignment,OSO_08_SAIL_I_Assignment
+target,individual,https://example.org/ontology/sora#OSO_08_SAIL_VI_Assignment,OSO_08_SAIL_VI_Assignment
+target,individual,https://example.org/ontology/sora#OSO_08_SAIL_V_Assignment,OSO_08_SAIL_V_Assignment
+target,individual,https://example.org/ontology/sora#OSO_09,OSO_09: Remote crew trained and current
+target,individual,https://example.org/ontology/sora#OSO_09_SAIL_III_Assignment,OSO_09_SAIL_III_Assignment
+target,individual,https://example.org/ontology/sora#OSO_09_SAIL_II_Assignment,OSO_09_SAIL_II_Assignment
+target,individual,https://example.org/ontology/sora#OSO_09_SAIL_IV_Assignment,OSO_09_SAIL_IV_Assignment
+target,individual,https://example.org/ontology/sora#OSO_09_SAIL_I_Assignment,OSO_09_SAIL_I_Assignment
+target,individual,https://example.org/ontology/sora#OSO_09_SAIL_VI_Assignment,OSO_09_SAIL_VI_Assignment
+target,individual,https://example.org/ontology/sora#OSO_09_SAIL_V_Assignment,OSO_09_SAIL_V_Assignment
+target,individual,https://example.org/ontology/sora#OSO_13,OSO_13: External services supporting UAS operations are adequate for operation
+target,individual,https://example.org/ontology/sora#OSO_13_SAIL_III_Assignment,OSO_13_SAIL_III_Assignment
+target,individual,https://example.org/ontology/sora#OSO_13_SAIL_II_Assignment,OSO_13_SAIL_II_Assignment
+target,individual,https://example.org/ontology/sora#OSO_13_SAIL_IV_Assignment,OSO_13_SAIL_IV_Assignment
+target,individual,https://example.org/ontology/sora#OSO_13_SAIL_I_Assignment,OSO_13_SAIL_I_Assignment
+target,individual,https://example.org/ontology/sora#OSO_13_SAIL_VI_Assignment,OSO_13_SAIL_VI_Assignment
+target,individual,https://example.org/ontology/sora#OSO_13_SAIL_V_Assignment,OSO_13_SAIL_V_Assignment
+target,individual,https://example.org/ontology/sora#OSO_16,OSO_16: Multi-crew coordination
+target,individual,https://example.org/ontology/sora#OSO_16_SAIL_III_Assignment,OSO_16_SAIL_III_Assignment
+target,individual,https://example.org/ontology/sora#OSO_16_SAIL_II_Assignment,OSO_16_SAIL_II_Assignment
+target,individual,https://example.org/ontology/sora#OSO_16_SAIL_IV_Assignment,OSO_16_SAIL_IV_Assignment
+target,individual,https://example.org/ontology/sora#OSO_16_SAIL_I_Assignment,OSO_16_SAIL_I_Assignment
+target,individual,https://example.org/ontology/sora#OSO_16_SAIL_VI_Assignment,OSO_16_SAIL_VI_Assignment
+target,individual,https://example.org/ontology/sora#OSO_16_SAIL_V_Assignment,OSO_16_SAIL_V_Assignment
+target,individual,https://example.org/ontology/sora#OSO_17,OSO_17: Remote crew fit to operate
+target,individual,https://example.org/ontology/sora#OSO_17_SAIL_III_Assignment,OSO_17_SAIL_III_Assignment
+target,individual,https://example.org/ontology/sora#OSO_17_SAIL_II_Assignment,OSO_17_SAIL_II_Assignment
+target,individual,https://example.org/ontology/sora#OSO_17_SAIL_IV_Assignment,OSO_17_SAIL_IV_Assignment
+target,individual,https://example.org/ontology/sora#OSO_17_SAIL_I_Assignment,OSO_17_SAIL_I_Assignment
+target,individual,https://example.org/ontology/sora#OSO_17_SAIL_VI_Assignment,OSO_17_SAIL_VI_Assignment
+target,individual,https://example.org/ontology/sora#OSO_17_SAIL_V_Assignment,OSO_17_SAIL_V_Assignment
+target,individual,https://example.org/ontology/sora#OSO_18,OSO_18: Automatic protection of the flight envelope from human errors
+target,individual,https://example.org/ontology/sora#OSO_18_SAIL_III_Assignment,OSO_18_SAIL_III_Assignment
+target,individual,https://example.org/ontology/sora#OSO_18_SAIL_II_Assignment,OSO_18_SAIL_II_Assignment
+target,individual,https://example.org/ontology/sora#OSO_18_SAIL_IV_Assignment,OSO_18_SAIL_IV_Assignment
+target,individual,https://example.org/ontology/sora#OSO_18_SAIL_I_Assignment,OSO_18_SAIL_I_Assignment
+target,individual,https://example.org/ontology/sora#OSO_18_SAIL_VI_Assignment,OSO_18_SAIL_VI_Assignment
+target,individual,https://example.org/ontology/sora#OSO_18_SAIL_V_Assignment,OSO_18_SAIL_V_Assignment
+target,individual,https://example.org/ontology/sora#OSO_19,OSO_19: Safe recovery from human error
+target,individual,https://example.org/ontology/sora#OSO_19_SAIL_III_Assignment,OSO_19_SAIL_III_Assignment
+target,individual,https://example.org/ontology/sora#OSO_19_SAIL_II_Assignment,OSO_19_SAIL_II_Assignment
+target,individual,https://example.org/ontology/sora#OSO_19_SAIL_IV_Assignment,OSO_19_SAIL_IV_Assignment
+target,individual,https://example.org/ontology/sora#OSO_19_SAIL_I_Assignment,OSO_19_SAIL_I_Assignment
+target,individual,https://example.org/ontology/sora#OSO_19_SAIL_VI_Assignment,OSO_19_SAIL_VI_Assignment
+target,individual,https://example.org/ontology/sora#OSO_19_SAIL_V_Assignment,OSO_19_SAIL_V_Assignment
+target,individual,https://example.org/ontology/sora#OSO_20,OSO_20: Human Factors evaluation and HMI appropriate for the mission
+target,individual,https://example.org/ontology/sora#OSO_20_SAIL_III_Assignment,OSO_20_SAIL_III_Assignment
+target,individual,https://example.org/ontology/sora#OSO_20_SAIL_II_Assignment,OSO_20_SAIL_II_Assignment
+target,individual,https://example.org/ontology/sora#OSO_20_SAIL_IV_Assignment,OSO_20_SAIL_IV_Assignment
+target,individual,https://example.org/ontology/sora#OSO_20_SAIL_I_Assignment,OSO_20_SAIL_I_Assignment
+target,individual,https://example.org/ontology/sora#OSO_20_SAIL_VI_Assignment,OSO_20_SAIL_VI_Assignment
+target,individual,https://example.org/ontology/sora#OSO_20_SAIL_V_Assignment,OSO_20_SAIL_V_Assignment
+target,individual,https://example.org/ontology/sora#OSO_23,"OSO_23: Environmental conditions for safe operations defined, measurable and ..."
+target,individual,https://example.org/ontology/sora#OSO_23_SAIL_III_Assignment,OSO_23_SAIL_III_Assignment
+target,individual,https://example.org/ontology/sora#OSO_23_SAIL_II_Assignment,OSO_23_SAIL_II_Assignment
+target,individual,https://example.org/ontology/sora#OSO_23_SAIL_IV_Assignment,OSO_23_SAIL_IV_Assignment
+target,individual,https://example.org/ontology/sora#OSO_23_SAIL_I_Assignment,OSO_23_SAIL_I_Assignment
+target,individual,https://example.org/ontology/sora#OSO_23_SAIL_VI_Assignment,OSO_23_SAIL_VI_Assignment
+target,individual,https://example.org/ontology/sora#OSO_23_SAIL_V_Assignment,OSO_23_SAIL_V_Assignment
+target,individual,https://example.org/ontology/sora#OSO_24,OSO_24: UAS designed and qualified for adverse environmental conditions
+target,individual,https://example.org/ontology/sora#OSO_24_SAIL_III_Assignment,OSO_24_SAIL_III_Assignment
+target,individual,https://example.org/ontology/sora#OSO_24_SAIL_II_Assignment,OSO_24_SAIL_II_Assignment
+target,individual,https://example.org/ontology/sora#OSO_24_SAIL_IV_Assignment,OSO_24_SAIL_IV_Assignment
+target,individual,https://example.org/ontology/sora#OSO_24_SAIL_I_Assignment,OSO_24_SAIL_I_Assignment
+target,individual,https://example.org/ontology/sora#OSO_24_SAIL_VI_Assignment,OSO_24_SAIL_VI_Assignment
+target,individual,https://example.org/ontology/sora#OSO_24_SAIL_V_Assignment,OSO_24_SAIL_V_Assignment
+target,individual,https://example.org/ontology/sora#Operation,Operation
+target,individual,https://example.org/ontology/sora#Operator,Operator
+target,individual,https://example.org/ontology/sora#Pair,Pair
+target,individual,https://example.org/ontology/sora#ParticipateSubcribe,Participate/Subcribe
+target,individual,https://example.org/ontology/sora#PhysicalSecurity,Physical security
+target,individual,https://example.org/ontology/sora#Preflight,Pre-flight
+target,individual,https://example.org/ontology/sora#PreventionofLossofControl,Prevention of Loss of Control
+target,individual,https://example.org/ontology/sora#Probable,Probable
+target,individual,https://example.org/ontology/sora#Record,Record
+target,individual,https://example.org/ontology/sora#Recover,Recover
+target,individual,https://example.org/ontology/sora#ReleasetoService,Release to Service
+target,individual,https://example.org/ontology/sora#Remote,Remote
+target,individual,https://example.org/ontology/sora#RemoteCrew,Remote Crew
+target,individual,https://example.org/ontology/sora#RemotePilot,Remote Pilot
+target,individual,https://example.org/ontology/sora#Resilience,Resilience
+target,individual,https://example.org/ontology/sora#Respond,Respond
+target,individual,https://example.org/ontology/sora#Review,Review
+target,individual,https://example.org/ontology/sora#SAIL_I,SAIL I
+target,individual,https://example.org/ontology/sora#SAIL_II,SAIL II
+target,individual,https://example.org/ontology/sora#SAIL_III,SAIL III
+target,individual,https://example.org/ontology/sora#SAIL_IV,SAIL IV
+target,individual,https://example.org/ontology/sora#SAIL_V,SAIL V
+target,individual,https://example.org/ontology/sora#SAIL_VI,SAIL VI
+target,individual,https://example.org/ontology/sora#SORA_Annex_E_2_5,Specific Operations Risk Assessment (SORA) Annex E
+target,individual,https://example.org/ontology/sora#SORA_Cyber_Safety_Extension_2_5,Specific Operations Risk Assessment (SORA) Cyber Safety Extension
+target,individual,https://example.org/ontology/sora#SORA_Main_Body_2_5,Specific Operations Risk Assessment (SORA) Main Body
+target,individual,https://example.org/ontology/sora#Safety,Safety
+target,individual,https://example.org/ontology/sora#SecurebyDefault,Secure by Default
+target,individual,https://example.org/ontology/sora#SecurityBestPractices,Security Best Practices
+target,individual,https://example.org/ontology/sora#SecurityBreach,Security Breach
+target,individual,https://example.org/ontology/sora#SecuritybyDesign,Security by Design
+target,individual,https://example.org/ontology/sora#ServiceProvider,Service Provider
+target,individual,https://example.org/ontology/sora#Simulate,Simulate
+target,individual,https://example.org/ontology/sora#SourceProcure,Source/Procure
+target,individual,https://example.org/ontology/sora#Spoofing,Spoofing
+target,individual,https://example.org/ontology/sora#Staff,Staff
+target,individual,https://example.org/ontology/sora#Stakeholder,Stakeholder
+target,individual,https://example.org/ontology/sora#Store,Store
+target,individual,https://example.org/ontology/sora#Supplier,Supplier
+target,individual,https://example.org/ontology/sora#SupplyChainSecurityManagement,Supply Chain Security Management
+target,individual,https://example.org/ontology/sora#SuspiciousActivity,Suspicious Activity
+target,individual,https://example.org/ontology/sora#Test,Test
+target,individual,https://example.org/ontology/sora#Track,Track
+target,individual,https://example.org/ontology/sora#Train,Train
+target,individual,https://example.org/ontology/sora#UASDesigner,UAS Designer
+target,individual,https://example.org/ontology/sora#Update,Update
+target,individual,https://example.org/ontology/sora#UpdateChange,Update/Change
+target,individual,https://example.org/ontology/sora#Validate,Validate
+target,individual,https://example.org/ontology/sora#Verify,Verify
+target,individual,https://example.org/ontology/sora#WirelessProtection,Wireless protection

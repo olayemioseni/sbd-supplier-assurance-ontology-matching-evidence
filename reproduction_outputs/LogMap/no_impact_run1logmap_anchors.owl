@@ -1,0 +1,382 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.cs.ox.ac.uk/isg/projects/LogMap/mappings.owl#"
+     xml:base="http://www.cs.ox.ac.uk/isg/projects/LogMap/mappings.owl"
+     xmlns:mappings="http://www.cs.ox.ac.uk/isg/projects/LogMap/mappings.owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.cs.ox.ac.uk/isg/projects/LogMap/mappings.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.cs.ox.ac.uk/isg/projects/LogMap/mappings.owl#entity1 -->
+
+    <owl:AnnotationProperty rdf:about="http://www.cs.ox.ac.uk/isg/projects/LogMap/mappings.owl#entity1"/>
+    
+
+
+    <!-- http://www.cs.ox.ac.uk/isg/projects/LogMap/mappings.owl#entity2 -->
+
+    <owl:AnnotationProperty rdf:about="http://www.cs.ox.ac.uk/isg/projects/LogMap/mappings.owl#entity2"/>
+    
+
+
+    <!-- http://www.cs.ox.ac.uk/isg/projects/LogMap/mappings.owl#measure -->
+
+    <owl:AnnotationProperty rdf:about="http://www.cs.ox.ac.uk/isg/projects/LogMap/mappings.owl#measure"/>
+    
+
+
+    <!-- http://www.cs.ox.ac.uk/isg/projects/LogMap/mappings.owl#relation -->
+
+    <owl:AnnotationProperty rdf:about="http://www.cs.ox.ac.uk/isg/projects/LogMap/mappings.owl#relation"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://example.org/mod-sbd#Component -->
+
+    <owl:Class rdf:about="https://example.org/mod-sbd#Component">
+        <owl:equivalentClass rdf:resource="https://example.org/ontology/sora#Component"/>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="https://example.org/mod-sbd#Component"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2002/07/owl#equivalentClass"/>
+        <owl:annotatedTarget rdf:resource="https://example.org/ontology/sora#Component"/>
+        <entity1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/mod-sbd#Component</entity1>
+        <entity2 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/ontology/sora#Component</entity2>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.524</measure>
+        <relation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">=</relation>
+    </owl:Axiom>
+    
+
+
+    <!-- https://example.org/mod-sbd#CyberRisk -->
+
+    <owl:Class rdf:about="https://example.org/mod-sbd#CyberRisk">
+        <owl:equivalentClass rdf:resource="https://example.org/ontology/sora#CyberRisk"/>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="https://example.org/mod-sbd#CyberRisk"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2002/07/owl#equivalentClass"/>
+        <owl:annotatedTarget rdf:resource="https://example.org/ontology/sora#CyberRisk"/>
+        <entity1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/mod-sbd#CyberRisk</entity1>
+        <entity2 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/ontology/sora#CyberRisk</entity2>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.899</measure>
+        <relation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">=</relation>
+    </owl:Axiom>
+    
+
+
+    <!-- https://example.org/mod-sbd#Data -->
+
+    <owl:Class rdf:about="https://example.org/mod-sbd#Data">
+        <owl:equivalentClass rdf:resource="https://example.org/ontology/sora#Data"/>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="https://example.org/mod-sbd#Data"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2002/07/owl#equivalentClass"/>
+        <owl:annotatedTarget rdf:resource="https://example.org/ontology/sora#Data"/>
+        <entity1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/mod-sbd#Data</entity1>
+        <entity2 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/ontology/sora#Data</entity2>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.5569999999999999</measure>
+        <relation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">=</relation>
+    </owl:Axiom>
+    
+
+
+    <!-- https://example.org/mod-sbd#HumanError -->
+
+    <owl:Class rdf:about="https://example.org/mod-sbd#HumanError">
+        <owl:equivalentClass rdf:resource="https://example.org/ontology/sora#HumanError"/>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="https://example.org/mod-sbd#HumanError"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2002/07/owl#equivalentClass"/>
+        <owl:annotatedTarget rdf:resource="https://example.org/ontology/sora#HumanError"/>
+        <entity1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/mod-sbd#HumanError</entity1>
+        <entity2 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/ontology/sora#HumanError</entity2>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.723</measure>
+        <relation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">=</relation>
+    </owl:Axiom>
+    
+
+
+    <!-- https://example.org/mod-sbd#InformationArtifact -->
+
+    <owl:Class rdf:about="https://example.org/mod-sbd#InformationArtifact">
+        <owl:equivalentClass rdf:resource="https://example.org/ontology/sora#InformationArtifact"/>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="https://example.org/mod-sbd#InformationArtifact"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2002/07/owl#equivalentClass"/>
+        <owl:annotatedTarget rdf:resource="https://example.org/ontology/sora#InformationArtifact"/>
+        <entity1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/mod-sbd#InformationArtifact</entity1>
+        <entity2 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/ontology/sora#InformationArtifact</entity2>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.618</measure>
+        <relation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">=</relation>
+    </owl:Axiom>
+    
+
+
+    <!-- https://example.org/mod-sbd#LifecycleContext -->
+
+    <owl:Class rdf:about="https://example.org/mod-sbd#LifecycleContext">
+        <owl:equivalentClass rdf:resource="https://example.org/ontology/sora#LifecycleContext"/>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="https://example.org/mod-sbd#LifecycleContext"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2002/07/owl#equivalentClass"/>
+        <owl:annotatedTarget rdf:resource="https://example.org/ontology/sora#LifecycleContext"/>
+        <entity1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/mod-sbd#LifecycleContext</entity1>
+        <entity2 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/ontology/sora#LifecycleContext</entity2>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.648</measure>
+        <relation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">=</relation>
+    </owl:Axiom>
+    
+
+
+    <!-- https://example.org/mod-sbd#Programme -->
+
+    <owl:Class rdf:about="https://example.org/mod-sbd#Programme">
+        <owl:equivalentClass rdf:resource="https://example.org/ontology/sora#Programme"/>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="https://example.org/mod-sbd#Programme"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2002/07/owl#equivalentClass"/>
+        <owl:annotatedTarget rdf:resource="https://example.org/ontology/sora#Programme"/>
+        <entity1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/mod-sbd#Programme</entity1>
+        <entity2 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/ontology/sora#Programme</entity2>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.551</measure>
+        <relation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">=</relation>
+    </owl:Axiom>
+    
+
+
+    <!-- https://example.org/mod-sbd#Risk -->
+
+    <owl:Class rdf:about="https://example.org/mod-sbd#Risk">
+        <owl:equivalentClass rdf:resource="https://example.org/ontology/sora#Risk"/>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="https://example.org/mod-sbd#Risk"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2002/07/owl#equivalentClass"/>
+        <owl:annotatedTarget rdf:resource="https://example.org/ontology/sora#Risk"/>
+        <entity1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/mod-sbd#Risk</entity1>
+        <entity2 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/ontology/sora#Risk</entity2>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.651</measure>
+        <relation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">=</relation>
+    </owl:Axiom>
+    
+
+
+    <!-- https://example.org/mod-sbd#Standard -->
+
+    <owl:Class rdf:about="https://example.org/mod-sbd#Standard">
+        <owl:equivalentClass rdf:resource="https://example.org/ontology/sora#Standard"/>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="https://example.org/mod-sbd#Standard"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2002/07/owl#equivalentClass"/>
+        <owl:annotatedTarget rdf:resource="https://example.org/ontology/sora#Standard"/>
+        <entity1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/mod-sbd#Standard</entity1>
+        <entity2 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/ontology/sora#Standard</entity2>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.569</measure>
+        <relation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">=</relation>
+    </owl:Axiom>
+    
+
+
+    <!-- https://example.org/mod-sbd#System -->
+
+    <owl:Class rdf:about="https://example.org/mod-sbd#System">
+        <owl:equivalentClass rdf:resource="https://example.org/ontology/sora#System"/>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="https://example.org/mod-sbd#System"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2002/07/owl#equivalentClass"/>
+        <owl:annotatedTarget rdf:resource="https://example.org/ontology/sora#System"/>
+        <entity1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/mod-sbd#System</entity1>
+        <entity2 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/ontology/sora#System</entity2>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.539</measure>
+        <relation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">=</relation>
+    </owl:Axiom>
+    
+
+
+    <!-- https://example.org/ontology/sora#Component -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#Component"/>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="https://example.org/mod-sbd#Component"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2002/07/owl#equivalentClass"/>
+        <owl:annotatedTarget rdf:resource="https://example.org/ontology/sora#Component"/>
+        <entity1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/mod-sbd#Component</entity1>
+        <entity2 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/ontology/sora#Component</entity2>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.524</measure>
+        <relation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">=</relation>
+    </owl:Axiom>
+    
+
+
+    <!-- https://example.org/ontology/sora#CyberRisk -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#CyberRisk"/>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="https://example.org/mod-sbd#CyberRisk"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2002/07/owl#equivalentClass"/>
+        <owl:annotatedTarget rdf:resource="https://example.org/ontology/sora#CyberRisk"/>
+        <entity1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/mod-sbd#CyberRisk</entity1>
+        <entity2 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/ontology/sora#CyberRisk</entity2>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.899</measure>
+        <relation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">=</relation>
+    </owl:Axiom>
+    
+
+
+    <!-- https://example.org/ontology/sora#Data -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#Data"/>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="https://example.org/mod-sbd#Data"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2002/07/owl#equivalentClass"/>
+        <owl:annotatedTarget rdf:resource="https://example.org/ontology/sora#Data"/>
+        <entity1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/mod-sbd#Data</entity1>
+        <entity2 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/ontology/sora#Data</entity2>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.5569999999999999</measure>
+        <relation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">=</relation>
+    </owl:Axiom>
+    
+
+
+    <!-- https://example.org/ontology/sora#HumanError -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#HumanError"/>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="https://example.org/mod-sbd#HumanError"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2002/07/owl#equivalentClass"/>
+        <owl:annotatedTarget rdf:resource="https://example.org/ontology/sora#HumanError"/>
+        <entity1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/mod-sbd#HumanError</entity1>
+        <entity2 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/ontology/sora#HumanError</entity2>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.723</measure>
+        <relation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">=</relation>
+    </owl:Axiom>
+    
+
+
+    <!-- https://example.org/ontology/sora#InformationArtifact -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#InformationArtifact"/>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="https://example.org/mod-sbd#InformationArtifact"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2002/07/owl#equivalentClass"/>
+        <owl:annotatedTarget rdf:resource="https://example.org/ontology/sora#InformationArtifact"/>
+        <entity1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/mod-sbd#InformationArtifact</entity1>
+        <entity2 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/ontology/sora#InformationArtifact</entity2>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.618</measure>
+        <relation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">=</relation>
+    </owl:Axiom>
+    
+
+
+    <!-- https://example.org/ontology/sora#LifecycleContext -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#LifecycleContext"/>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="https://example.org/mod-sbd#LifecycleContext"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2002/07/owl#equivalentClass"/>
+        <owl:annotatedTarget rdf:resource="https://example.org/ontology/sora#LifecycleContext"/>
+        <entity1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/mod-sbd#LifecycleContext</entity1>
+        <entity2 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/ontology/sora#LifecycleContext</entity2>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.648</measure>
+        <relation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">=</relation>
+    </owl:Axiom>
+    
+
+
+    <!-- https://example.org/ontology/sora#Programme -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#Programme"/>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="https://example.org/mod-sbd#Programme"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2002/07/owl#equivalentClass"/>
+        <owl:annotatedTarget rdf:resource="https://example.org/ontology/sora#Programme"/>
+        <entity1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/mod-sbd#Programme</entity1>
+        <entity2 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/ontology/sora#Programme</entity2>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.551</measure>
+        <relation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">=</relation>
+    </owl:Axiom>
+    
+
+
+    <!-- https://example.org/ontology/sora#Risk -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#Risk"/>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="https://example.org/mod-sbd#Risk"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2002/07/owl#equivalentClass"/>
+        <owl:annotatedTarget rdf:resource="https://example.org/ontology/sora#Risk"/>
+        <entity1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/mod-sbd#Risk</entity1>
+        <entity2 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/ontology/sora#Risk</entity2>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.651</measure>
+        <relation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">=</relation>
+    </owl:Axiom>
+    
+
+
+    <!-- https://example.org/ontology/sora#Standard -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#Standard"/>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="https://example.org/mod-sbd#Standard"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2002/07/owl#equivalentClass"/>
+        <owl:annotatedTarget rdf:resource="https://example.org/ontology/sora#Standard"/>
+        <entity1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/mod-sbd#Standard</entity1>
+        <entity2 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/ontology/sora#Standard</entity2>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.569</measure>
+        <relation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">=</relation>
+    </owl:Axiom>
+    
+
+
+    <!-- https://example.org/ontology/sora#System -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#System"/>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="https://example.org/mod-sbd#System"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2002/07/owl#equivalentClass"/>
+        <owl:annotatedTarget rdf:resource="https://example.org/ontology/sora#System"/>
+        <entity1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/mod-sbd#System</entity1>
+        <entity2 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://example.org/ontology/sora#System</entity2>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.539</measure>
+        <relation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">=</relation>
+    </owl:Axiom>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.1.3.20151118-2017) https://github.com/owlcs/owlapi -->
+

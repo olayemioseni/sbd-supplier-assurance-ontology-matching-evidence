@@ -1,0 +1,3 @@
+https://example.org/mod-sbd#TrainingEvidence|https://example.org/ontology/sora#TrainingRecord|=|0.61|CLS
+https://example.org/mod-sbd#Threat|https://example.org/ontology/sora#ThreatType|=|0.62|CLS
+https://example.org/mod-sbd#OperationalContext|https://example.org/ontology/sora#OperationalContextElement|=|0.55|CLS

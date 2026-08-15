@@ -1,0 +1,6 @@
+entity_type,Full,Partial,Weak,Missing,Total
+class,3,15,10,23,51
+data_property,0,0,0,2,2
+individual,0,24,11,6,41
+object_property,0,4,3,4,11
+Total,3,43,24,35,105

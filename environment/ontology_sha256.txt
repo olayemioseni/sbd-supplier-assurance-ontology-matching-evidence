@@ -1,0 +1,4 @@
+d588f16809b52d7f2fc0a749f3e1d433614b1c05342252de8b6f062f73e7457e  /mnt/c/OntoMatch/sbd-supplier-assurance-evaluation/ontologies/MOD_SbD_Ontology_v1.0.owl
+94b8047582f824cbe358f4a2584586031196bdc4535cae4aee89f1f1bf0c9f72  /mnt/c/OntoMatch/sbd-supplier-assurance-evaluation/ontologies/MOD_SbD_Ontology_v1.0.ttl
+2611f09a14181bd345eb7d6cdc3efc4541aa84dee72b82a8d58f6931656df1a1  /mnt/c/OntoMatch/sbd-supplier-assurance-evaluation/ontologies/SORA_v2.5_Ontology.owl
+1ba28da860aedb79747268d14bf683502fd5f0a45e28dd28a9faa1b624a2cd65  /mnt/c/OntoMatch/sbd-supplier-assurance-evaluation/ontologies/SORA_v2.5_Ontology.ttl

@@ -1,0 +1,453 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="Optional.of(https://example.org/ontology/sora)#"
+     xml:base="Optional.of(https://example.org/ontology/sora)"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="Optional.of(https://example.org/ontology/sora)"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://example.org/ontology/sora#sailOrdinal -->
+
+    <owl:DatatypeProperty rdf:about="https://example.org/ontology/sora#sailOrdinal">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="https://example.org/ontology/sora#SAILLevel"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://example.org/ontology/sora#Activity -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#Activity">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#SORAConcept"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#Actor -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#Actor">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#SORAConcept"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#Component -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#Component">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#TechnicalAsset"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#CriterionType -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#CriterionType">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="https://example.org/ontology/sora#ApplicabilityCrossReference"/>
+                    <rdf:Description rdf:about="https://example.org/ontology/sora#Assurance"/>
+                    <rdf:Description rdf:about="https://example.org/ontology/sora#Integrity"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#SORAConcept"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#CyberRisk -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#CyberRisk">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#Risk"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#Data -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#Data">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#InformationArtifact"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#Document -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#Document">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#InformationArtifact"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#HumanError -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#HumanError">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#RiskAndThreatConcept"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#InformationArtifact -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#InformationArtifact">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#SORAConcept"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#LifecycleContext -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#LifecycleContext">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#SORAConcept"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#OperationalContextElement -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#OperationalContextElement">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#SORAConcept"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#Organisation -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#Organisation">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#Actor"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#OrganisationalArrangement -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#OrganisationalArrangement">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#SORAConcept"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#Plan -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#Plan">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#Document"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#Programme -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#Programme">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#OrganisationalArrangement"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#Record -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#Record">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#InformationArtifact"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#RequirementClassification -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#RequirementClassification">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="https://example.org/ontology/sora#CyberSafety"/>
+                    <rdf:Description rdf:about="https://example.org/ontology/sora#Safety"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#SORAConcept"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#Risk -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#Risk">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#RiskAndThreatConcept"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#RiskAndThreatConcept -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#RiskAndThreatConcept">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#SORAConcept"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#RobustnessLevel -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#RobustnessLevel">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="https://example.org/ontology/sora#High"/>
+                    <rdf:Description rdf:about="https://example.org/ontology/sora#Low"/>
+                    <rdf:Description rdf:about="https://example.org/ontology/sora#Medium"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#SORAConcept"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#SAILLevel -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#SAILLevel">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="https://example.org/ontology/sora#SAIL_I"/>
+                    <rdf:Description rdf:about="https://example.org/ontology/sora#SAIL_II"/>
+                    <rdf:Description rdf:about="https://example.org/ontology/sora#SAIL_III"/>
+                    <rdf:Description rdf:about="https://example.org/ontology/sora#SAIL_IV"/>
+                    <rdf:Description rdf:about="https://example.org/ontology/sora#SAIL_V"/>
+                    <rdf:Description rdf:about="https://example.org/ontology/sora#SAIL_VI"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#SORAConcept"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://example.org/ontology/sora#sailOrdinal"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange>
+                    <rdfs:Datatype>
+                        <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                        <owl:withRestrictions rdf:parseType="Collection">
+                            <rdf:Description>
+                                <xsd:minInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</xsd:minInclusive>
+                            </rdf:Description>
+                            <rdf:Description>
+                                <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</xsd:maxInclusive>
+                            </rdf:Description>
+                        </owl:withRestrictions>
+                    </rdfs:Datatype>
+                </owl:onDataRange>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#SORAConcept -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#SORAConcept"/>
+    
+
+
+    <!-- https://example.org/ontology/sora#SecurityAndSafetyConcept -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#SecurityAndSafetyConcept">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#SORAConcept"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#SecurityMechanism -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#SecurityMechanism">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#SecurityAndSafetyConcept"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#SecurityPrincipleOrPractice -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#SecurityPrincipleOrPractice">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#SecurityAndSafetyConcept"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#SecurityProperty -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#SecurityProperty">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#SecurityAndSafetyConcept"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#Service -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#Service">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#SORAConcept"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#Standard -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#Standard">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#Document"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#System -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#System">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#TechnicalAsset"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#TechnicalAsset -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#TechnicalAsset">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#SORAConcept"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#ThreatType -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#ThreatType">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#RiskAndThreatConcept"/>
+    </owl:Class>
+    
+
+
+    <!-- https://example.org/ontology/sora#TrainingRecord -->
+
+    <owl:Class rdf:about="https://example.org/ontology/sora#TrainingRecord">
+        <rdfs:subClassOf rdf:resource="https://example.org/ontology/sora#Record"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://example.org/ontology/sora#ApplicabilityCrossReference -->
+
+    <owl:NamedIndividual rdf:about="https://example.org/ontology/sora#ApplicabilityCrossReference"/>
+    
+
+
+    <!-- https://example.org/ontology/sora#Assurance -->
+
+    <owl:NamedIndividual rdf:about="https://example.org/ontology/sora#Assurance"/>
+    
+
+
+    <!-- https://example.org/ontology/sora#CyberSafety -->
+
+    <owl:NamedIndividual rdf:about="https://example.org/ontology/sora#CyberSafety"/>
+    
+
+
+    <!-- https://example.org/ontology/sora#High -->
+
+    <owl:NamedIndividual rdf:about="https://example.org/ontology/sora#High"/>
+    
+
+
+    <!-- https://example.org/ontology/sora#Integrity -->
+
+    <owl:NamedIndividual rdf:about="https://example.org/ontology/sora#Integrity"/>
+    
+
+
+    <!-- https://example.org/ontology/sora#Low -->
+
+    <owl:NamedIndividual rdf:about="https://example.org/ontology/sora#Low"/>
+    
+
+
+    <!-- https://example.org/ontology/sora#Medium -->
+
+    <owl:NamedIndividual rdf:about="https://example.org/ontology/sora#Medium"/>
+    
+
+
+    <!-- https://example.org/ontology/sora#SAIL_I -->
+
+    <owl:NamedIndividual rdf:about="https://example.org/ontology/sora#SAIL_I"/>
+    
+
+
+    <!-- https://example.org/ontology/sora#SAIL_II -->
+
+    <owl:NamedIndividual rdf:about="https://example.org/ontology/sora#SAIL_II"/>
+    
+
+
+    <!-- https://example.org/ontology/sora#SAIL_III -->
+
+    <owl:NamedIndividual rdf:about="https://example.org/ontology/sora#SAIL_III"/>
+    
+
+
+    <!-- https://example.org/ontology/sora#SAIL_IV -->
+
+    <owl:NamedIndividual rdf:about="https://example.org/ontology/sora#SAIL_IV"/>
+    
+
+
+    <!-- https://example.org/ontology/sora#SAIL_V -->
+
+    <owl:NamedIndividual rdf:about="https://example.org/ontology/sora#SAIL_V"/>
+    
+
+
+    <!-- https://example.org/ontology/sora#SAIL_VI -->
+
+    <owl:NamedIndividual rdf:about="https://example.org/ontology/sora#SAIL_VI"/>
+    
+
+
+    <!-- https://example.org/ontology/sora#Safety -->
+
+    <owl:NamedIndividual rdf:about="https://example.org/ontology/sora#Safety"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.1.3.20151118-2017) https://github.com/owlcs/owlapi -->
+

@@ -1,0 +1,376 @@
+ontology_side,ontology,entity_type,entity_iri,label
+source,SbD,class,https://example.org/mod-sbd#Accountability,Accountability
+source,SbD,class,https://example.org/mod-sbd#AcquireSecurely,Acquire Securely
+source,SbD,class,https://example.org/mod-sbd#AcquisitionAndSupplyChainActivity,Acquisition and Supply-Chain Activity
+source,SbD,class,https://example.org/mod-sbd#AdverseSecurityEvent,Adverse Security Event
+source,SbD,class,https://example.org/mod-sbd#AllocateResources,Allocate Resources
+source,SbD,class,https://example.org/mod-sbd#AnalyseRisk,Analyse Risk
+source,SbD,class,https://example.org/mod-sbd#AnticipateTechnologicalChange,Anticipate Technological Change
+source,SbD,class,https://example.org/mod-sbd#Architecture,Architecture
+source,SbD,class,https://example.org/mod-sbd#ArchivalManagement,Archival Management
+source,SbD,class,https://example.org/mod-sbd#ArtefactReference,Artefact Reference
+source,SbD,class,https://example.org/mod-sbd#AssessmentStage,Assessment
+source,SbD,class,https://example.org/mod-sbd#Asset,Asset
+source,SbD,class,https://example.org/mod-sbd#AssetManagement,Asset Management
+source,SbD,class,https://example.org/mod-sbd#AssuranceEvidence,Assurance Evidence
+source,SbD,class,https://example.org/mod-sbd#AssuranceSecurityPractice,Assurance Security Practice
+source,SbD,class,https://example.org/mod-sbd#AtomicRequirementClause,Atomic Requirement Clause
+source,SbD,class,https://example.org/mod-sbd#AttackScenario,Attack Scenario
+source,SbD,class,https://example.org/mod-sbd#AttackTechnique,Attack Method or Technique
+source,SbD,class,https://example.org/mod-sbd#Availability,Availability
+source,SbD,class,https://example.org/mod-sbd#Backup,Backup
+source,SbD,class,https://example.org/mod-sbd#BusinessContinuity,Business Continuity
+source,SbD,class,https://example.org/mod-sbd#BusinessContinuityPlan,Business Continuity Plan
+source,SbD,class,https://example.org/mod-sbd#CADMIDStage,CADMID Stage
+source,SbD,class,https://example.org/mod-sbd#Capability,Capability
+source,SbD,class,https://example.org/mod-sbd#CapabilityTeam,Capability Team
+source,SbD,class,https://example.org/mod-sbd#CaptureLessonsLearned,Capture Lessons Learned
+source,SbD,class,https://example.org/mod-sbd#CommunicateSecurityInformation,Communicate Security Information
+source,SbD,class,https://example.org/mod-sbd#Compromise,Compromise
+source,SbD,class,https://example.org/mod-sbd#ConceptStage,Concept
+source,SbD,class,https://example.org/mod-sbd#ConductForensics,Conduct Forensics
+source,SbD,class,https://example.org/mod-sbd#ConductRiskAssessment,Conduct Risk Assessment
+source,SbD,class,https://example.org/mod-sbd#ConductRootCauseAnalysis,Conduct Root Cause Analysis
+source,SbD,class,https://example.org/mod-sbd#ConductThreatAnalysis,Conduct Threat Analysis
+source,SbD,class,https://example.org/mod-sbd#ConductThreatAssessment,Conduct Threat Assessment
+source,SbD,class,https://example.org/mod-sbd#Confidentiality,Confidentiality
+source,SbD,class,https://example.org/mod-sbd#Context,Context
+source,SbD,class,https://example.org/mod-sbd#ContextualConcept,Contextual Concept
+source,SbD,class,https://example.org/mod-sbd#ContinuousAssurance,Continuous Assurance
+source,SbD,class,https://example.org/mod-sbd#ContinuousRiskManagement,Continuous Risk Management
+source,SbD,class,https://example.org/mod-sbd#Contract,Contract
+source,SbD,class,https://example.org/mod-sbd#CriticalData,Critical Data
+source,SbD,class,https://example.org/mod-sbd#CrossLifecycleContext,Cross-Lifecycle / Through-Life Context
+source,SbD,class,https://example.org/mod-sbd#CryptographicProtection,Cryptographic Protection
+source,SbD,class,https://example.org/mod-sbd#CyberResilientArchitecture,Cyber-Resilient Architecture
+source,SbD,class,https://example.org/mod-sbd#CyberResilientDesign,Cyber-Resilient Design
+source,SbD,class,https://example.org/mod-sbd#CyberRisk,Cyber Risk
+source,SbD,class,https://example.org/mod-sbd#CyberRiskAssessment,Cyber Risk Assessment
+source,SbD,class,https://example.org/mod-sbd#CyberSecurityStrategy,Cyber Security Strategy
+source,SbD,class,https://example.org/mod-sbd#Cyberattack,Cyberattack
+source,SbD,class,https://example.org/mod-sbd#CybersecurityDecision,Cybersecurity Decision
+source,SbD,class,https://example.org/mod-sbd#DataInTransit,Data in Transit
+source,SbD,class,https://example.org/mod-sbd#DataInventory,Data Inventory
+source,SbD,class,https://example.org/mod-sbd#DataProtection,Data Protection
+source,SbD,class,https://example.org/mod-sbd#Decision,Decision
+source,SbD,class,https://example.org/mod-sbd#DecisionMakerRole,Decision Maker
+source,SbD,class,https://example.org/mod-sbd#DefenceStrategicObjective,Defence Strategic Objective
+source,SbD,class,https://example.org/mod-sbd#DefineRolesAndResponsibilities,Define Roles and Responsibilities
+source,SbD,class,https://example.org/mod-sbd#DefineSecurityRequirements,Define Security Requirements
+source,SbD,class,https://example.org/mod-sbd#DemonstrationStage,Demonstration
+source,SbD,class,https://example.org/mod-sbd#DesignDevelopmentSecurityPractice,Design and Development Security Practice
+source,SbD,class,https://example.org/mod-sbd#DesignStandard,Design Standard
+source,SbD,class,https://example.org/mod-sbd#DevelopAttackScenarios,Develop Attack Scenarios
+source,SbD,class,https://example.org/mod-sbd#DevelopSecurely,Develop Securely
+source,SbD,class,https://example.org/mod-sbd#DevelopmentPractice,Development Practice
+source,SbD,class,https://example.org/mod-sbd#DisasterRecovery,Disaster Recovery
+source,SbD,class,https://example.org/mod-sbd#DisasterRecoveryPlan,Disaster Recovery Plan
+source,SbD,class,https://example.org/mod-sbd#DisposalStage,Disposal
+source,SbD,class,https://example.org/mod-sbd#DisposeSecurely,Dispose Securely
+source,SbD,class,https://example.org/mod-sbd#DocumentedEvidence,Documented Evidence
+source,SbD,class,https://example.org/mod-sbd#EndUserRole,End User
+source,SbD,class,https://example.org/mod-sbd#EssentialFunction,Essential Function
+source,SbD,class,https://example.org/mod-sbd#EssentialSystem,Essential System
+source,SbD,class,https://example.org/mod-sbd#EvidenceAssessmentOutput,Evidence or Assessment Output
+source,SbD,class,https://example.org/mod-sbd#EvidenceRecord,Evidence Record
+source,SbD,class,https://example.org/mod-sbd#ExerciseRecovery,Exercise Recovery
+source,SbD,class,https://example.org/mod-sbd#ExternalRequirement,"External Legal, Regulatory or Policy Requirement"
+source,SbD,class,https://example.org/mod-sbd#FinancialForecast,Financial Forecast
+source,SbD,class,https://example.org/mod-sbd#ForensicRecord,Forensic Record
+source,SbD,class,https://example.org/mod-sbd#Function,Function
+source,SbD,class,https://example.org/mod-sbd#GovernCybersecurity,Govern Cybersecurity
+source,SbD,class,https://example.org/mod-sbd#GovernanceActivity,Governance Activity
+source,SbD,class,https://example.org/mod-sbd#HumanError,Human Error
+source,SbD,class,https://example.org/mod-sbd#IdentifyDocumentData,Identify or Document Data
+source,SbD,class,https://example.org/mod-sbd#IdentifyRisk,Identify Risk
+source,SbD,class,https://example.org/mod-sbd#InServiceStage,In-Service
+source,SbD,class,https://example.org/mod-sbd#Incident,Incident
+source,SbD,class,https://example.org/mod-sbd#IncidentContainment,Incident Containment
+source,SbD,class,https://example.org/mod-sbd#IncidentManagementActivity,Incident Management Activity
+source,SbD,class,https://example.org/mod-sbd#IncidentResponse,Incident Response
+source,SbD,class,https://example.org/mod-sbd#IncidentResponsePlan,Incident Response Plan
+source,SbD,class,https://example.org/mod-sbd#IncidentReviewRecord,Incident Review Record
+source,SbD,class,https://example.org/mod-sbd#InformationArtifact,Information Artefact
+source,SbD,class,https://example.org/mod-sbd#InformationSecurityService,Information Security Service
+source,SbD,class,https://example.org/mod-sbd#InformationTechnology,Information Technology (IT)
+source,SbD,class,https://example.org/mod-sbd#Infrastructure,Infrastructure
+source,SbD,class,https://example.org/mod-sbd#InherentRisk,Inherent Risk
+source,SbD,class,https://example.org/mod-sbd#InsiderThreat,Insider Threat
+source,SbD,class,https://example.org/mod-sbd#Integrity,Integrity
+source,SbD,class,https://example.org/mod-sbd#InvestmentApproval,Investment Approval
+source,SbD,class,https://example.org/mod-sbd#InviteToTenderDocumentation,Invite to Tender Documentation
+source,SbD,class,https://example.org/mod-sbd#KnowledgeAsset,Knowledge Asset
+source,SbD,class,https://example.org/mod-sbd#LifecycleContext,Lifecycle Context
+source,SbD,class,https://example.org/mod-sbd#LifecycleManagementActivity,Lifecycle Management Activity
+source,SbD,class,https://example.org/mod-sbd#LifecycleSecurityPractice,Lifecycle Security Practice
+source,SbD,class,https://example.org/mod-sbd#MaintainDataInventory,Maintain Data Inventory
+source,SbD,class,https://example.org/mod-sbd#MakeSecurityAuthorisationDecision,Make Security Authorisation Decision
+source,SbD,class,https://example.org/mod-sbd#ManageAssets,Manage Assets
+source,SbD,class,https://example.org/mod-sbd#ManageBackups,Manage Backups
+source,SbD,class,https://example.org/mod-sbd#ManageIncident,Manage Incident
+source,SbD,class,https://example.org/mod-sbd#ManageSecurityControls,Manage Security Controls
+source,SbD,class,https://example.org/mod-sbd#ManageThroughLife,Manage Through Life
+source,SbD,class,https://example.org/mod-sbd#ManageVulnerabilities,Manage Vulnerabilities
+source,SbD,class,https://example.org/mod-sbd#ManagedObject,Managed or Protected Object
+source,SbD,class,https://example.org/mod-sbd#ManufactureStage,Manufacture
+source,SbD,class,https://example.org/mod-sbd#Mission,Mission
+source,SbD,class,https://example.org/mod-sbd#MonitorRemediation,Monitor Remediation
+source,SbD,class,https://example.org/mod-sbd#MonitorRiskEffectiveness,Monitor Risk or Effectiveness
+source,SbD,class,https://example.org/mod-sbd#MonitoringAndDetection,Monitoring and Detection
+source,SbD,class,https://example.org/mod-sbd#MonitoringEvidence,Monitoring Evidence
+source,SbD,class,https://example.org/mod-sbd#NormativeElement,Normative Element
+source,SbD,class,https://example.org/mod-sbd#Obsolescence,Obsolescence
+source,SbD,class,https://example.org/mod-sbd#ObtainSupplyChainAssurance,Obtain Supply Chain Assurance
+source,SbD,class,https://example.org/mod-sbd#OnboardingOffboarding,Onboarding or Offboarding
+source,SbD,class,https://example.org/mod-sbd#OperationalContext,Operational Context
+source,SbD,class,https://example.org/mod-sbd#OperationalKnowledge,Operational Knowledge
+source,SbD,class,https://example.org/mod-sbd#OperationalResilienceSecurityPractice,Operational Resilience Security Practice
+source,SbD,class,https://example.org/mod-sbd#OperationalTechnology,Operational Technology (OT)
+source,SbD,class,https://example.org/mod-sbd#OrganisationalConcept,Organisational Concept
+source,SbD,class,https://example.org/mod-sbd#OrganisationalContext,Organisational Context
+source,SbD,class,https://example.org/mod-sbd#OrganisationalEntity,Organisational Entity
+source,SbD,class,https://example.org/mod-sbd#OrganisationalRiskAppetiteStatement,Organisational Risk Appetite Statement
+source,SbD,class,https://example.org/mod-sbd#OrganisationalUnit,Organisational Unit
+source,SbD,class,https://example.org/mod-sbd#PerformDueDiligence,Perform Due Diligence
+source,SbD,class,https://example.org/mod-sbd#Personnel,Personnel
+source,SbD,class,https://example.org/mod-sbd#PersonnelLifecycleContext,Personnel Lifecycle Context
+source,SbD,class,https://example.org/mod-sbd#PlanIncidentResponse,Plan Incident Response
+source,SbD,class,https://example.org/mod-sbd#PlanRiskResponse,Plan Risk Response
+source,SbD,class,https://example.org/mod-sbd#PlanningArtefact,Planning Artefact
+source,SbD,class,https://example.org/mod-sbd#PostIncidentOperationalNorm,Post-Incident Operational Norm
+source,SbD,class,https://example.org/mod-sbd#PrimeSupplier,Prime Supplier
+source,SbD,class,https://example.org/mod-sbd#PrioritiseRisk,Prioritise Risk
+source,SbD,class,https://example.org/mod-sbd#ProcurementArtefact,Procurement Artefact
+source,SbD,class,https://example.org/mod-sbd#ProgrammeBoard,Programme Board
+source,SbD,class,https://example.org/mod-sbd#ProgrammeSponsorRole,Programme Sponsor
+source,SbD,class,https://example.org/mod-sbd#ProtectData,Protect Data
+source,SbD,class,https://example.org/mod-sbd#ProtectionControlSecurityPractice,Protection and Control Security Practice
+source,SbD,class,https://example.org/mod-sbd#Recover,Recover
+source,SbD,class,https://example.org/mod-sbd#Recoverability,Recoverability
+source,SbD,class,https://example.org/mod-sbd#RecoveryPlan,Recovery Plan
+source,SbD,class,https://example.org/mod-sbd#RecoveryPreparedness,Recovery Preparedness
+source,SbD,class,https://example.org/mod-sbd#RecoverySupportService,Recovery Support Service
+source,SbD,class,https://example.org/mod-sbd#Remediate,Remediate
+source,SbD,class,https://example.org/mod-sbd#ReportingRecord,Reporting Record
+source,SbD,class,https://example.org/mod-sbd#ResidualCyberRisk,Residual Cyber Risk
+source,SbD,class,https://example.org/mod-sbd#Resilience,Resilience
+source,SbD,class,https://example.org/mod-sbd#ResilienceMechanism,Resilience Mechanism
+source,SbD,class,https://example.org/mod-sbd#Resource,Resource
+source,SbD,class,https://example.org/mod-sbd#ResourceGap,Resource Gap
+source,SbD,class,https://example.org/mod-sbd#ResponseTeam,Response Team
+source,SbD,class,https://example.org/mod-sbd#Review,Review
+source,SbD,class,https://example.org/mod-sbd#ReviewIncidents,Review Incidents
+source,SbD,class,https://example.org/mod-sbd#ReviewRecord,Review Record
+source,SbD,class,https://example.org/mod-sbd#ReviewTestArchitecture,Review or Test Architecture
+source,SbD,class,https://example.org/mod-sbd#RiskAppetite,Risk Appetite
+source,SbD,class,https://example.org/mod-sbd#RiskAppetiteStatement,Risk Appetite Statement
+source,SbD,class,https://example.org/mod-sbd#RiskBasedSecurity,Risk-Based Security
+source,SbD,class,https://example.org/mod-sbd#RiskCommunication,Risk Communication
+source,SbD,class,https://example.org/mod-sbd#RiskConcept,Risk Concept
+source,SbD,class,https://example.org/mod-sbd#RiskContributor,Risk Contributor
+source,SbD,class,https://example.org/mod-sbd#RiskDecisionInformation,Risk Decision Information
+source,SbD,class,https://example.org/mod-sbd#RiskGovernanceSecurityPractice,Risk and Governance Security Practice
+source,SbD,class,https://example.org/mod-sbd#RiskManagementActivity,Risk Management Activity
+source,SbD,class,https://example.org/mod-sbd#RiskManagementFramework,Risk Management Framework
+source,SbD,class,https://example.org/mod-sbd#RiskOwnerRole,Risk Owner
+source,SbD,class,https://example.org/mod-sbd#RiskResponse,Risk Response
+source,SbD,class,https://example.org/mod-sbd#RiskTreatment,Risk Treatment
+source,SbD,class,https://example.org/mod-sbd#Role,Role
+source,SbD,class,https://example.org/mod-sbd#RoleRedundancy,Role Redundancy
+source,SbD,class,https://example.org/mod-sbd#SQEPPersonnel,Suitably Qualified and Experienced Personnel (SQEP)
+source,SbD,class,https://example.org/mod-sbd#SbDCriterion,SbD Criterion
+source,SbD,class,https://example.org/mod-sbd#SbDPrinciple,SbD Principle
+source,SbD,class,https://example.org/mod-sbd#SbDRequirement,SbD Requirement
+source,SbD,class,https://example.org/mod-sbd#SecureAcquisition,Secure Acquisition
+source,SbD,class,https://example.org/mod-sbd#SecureByDesign,Secure by Design
+source,SbD,class,https://example.org/mod-sbd#SecureDevelopment,Secure Development
+source,SbD,class,https://example.org/mod-sbd#SecureDisposal,Secure Disposal
+source,SbD,class,https://example.org/mod-sbd#SecurityArtefact,Security Artefact
+source,SbD,class,https://example.org/mod-sbd#SecurityAuthorisationDecision,Security Authorisation Decision
+source,SbD,class,https://example.org/mod-sbd#SecurityAwareness,Security Awareness
+source,SbD,class,https://example.org/mod-sbd#SecurityAwarenessMeasurement,Security Awareness Measurement
+source,SbD,class,https://example.org/mod-sbd#SecurityControl,Security Control
+source,SbD,class,https://example.org/mod-sbd#SecurityEngineeringActivity,Security Engineering Activity
+source,SbD,class,https://example.org/mod-sbd#SecurityGovernance,Security Governance
+source,SbD,class,https://example.org/mod-sbd#SecurityManagementConcept,Security Management Concept
+source,SbD,class,https://example.org/mod-sbd#SecurityMechanism,Security Mechanism
+source,SbD,class,https://example.org/mod-sbd#SecurityPlan,Security Plan
+source,SbD,class,https://example.org/mod-sbd#SecurityPrincipleOrPractice,Security Principle or Practice
+source,SbD,class,https://example.org/mod-sbd#SecurityProperty,Security Property
+source,SbD,class,https://example.org/mod-sbd#SecurityReporting,Security Reporting
+source,SbD,class,https://example.org/mod-sbd#SecurityRequirement,Security Requirement
+source,SbD,class,https://example.org/mod-sbd#SecurityRequirementFlowDown,Security Requirement Flow-Down
+source,SbD,class,https://example.org/mod-sbd#SecurityTestingAndVerification,Security Testing and Verification
+source,SbD,class,https://example.org/mod-sbd#SecurityWorkingGroup,Security Working Group
+source,SbD,class,https://example.org/mod-sbd#SelectSecurityControls,Select Security Controls
+source,SbD,class,https://example.org/mod-sbd#SeniorManagementRole,Senior Management
+source,SbD,class,https://example.org/mod-sbd#SeniorResponsibleOwnerRole,Senior Responsible Owner
+source,SbD,class,https://example.org/mod-sbd#SinglePointOfFailure,Single Point of Failure
+source,SbD,class,https://example.org/mod-sbd#SocialEngineering,Social Engineering
+source,SbD,class,https://example.org/mod-sbd#SocioTechnicalRisk,Socio-Technical Risk
+source,SbD,class,https://example.org/mod-sbd#SocioTechnicalSecurity,Socio-Technical Security
+source,SbD,class,https://example.org/mod-sbd#SpecialistCyberResponderRole,Specialist Cyber Responder
+source,SbD,class,https://example.org/mod-sbd#Specification,Specification
+source,SbD,class,https://example.org/mod-sbd#StakeholderNeedOrExpectation,Stakeholder Need or Expectation
+source,SbD,class,https://example.org/mod-sbd#StakeholderRole,Stakeholder Role
+source,SbD,class,https://example.org/mod-sbd#StoredData,Stored Data
+source,SbD,class,https://example.org/mod-sbd#SupplierOrganisation,Supplier Organisation
+source,SbD,class,https://example.org/mod-sbd#SupplyChain,Supply Chain
+source,SbD,class,https://example.org/mod-sbd#SupplyChainAssuranceEvidence,Supply Chain Assurance Evidence
+source,SbD,class,https://example.org/mod-sbd#SupplyChainRiskManagement,Supply Chain Risk Management
+source,SbD,class,https://example.org/mod-sbd#SupplyChainSecurityPractice,Supply-Chain Security Practice
+source,SbD,class,https://example.org/mod-sbd#TechnologicalChangeRisk,Technological Change Risk
+source,SbD,class,https://example.org/mod-sbd#Technology,Technology
+source,SbD,class,https://example.org/mod-sbd#TestSecurityResilience,Test Security or Resilience
+source,SbD,class,https://example.org/mod-sbd#TestingEvidence,Testing Evidence
+source,SbD,class,https://example.org/mod-sbd#ThirdPartyOrganisation,Third Party
+source,SbD,class,https://example.org/mod-sbd#Threat,Threat
+source,SbD,class,https://example.org/mod-sbd#ThreatActorRole,Threat Actor
+source,SbD,class,https://example.org/mod-sbd#ThreatAssessment,Threat Assessment
+source,SbD,class,https://example.org/mod-sbd#ThreatAssumption,Threat Assumption
+source,SbD,class,https://example.org/mod-sbd#ThreatConcept,Threat Concept
+source,SbD,class,https://example.org/mod-sbd#ThreatInformedSecurity,Threat-Informed Security
+source,SbD,class,https://example.org/mod-sbd#ThreatIntelligence,Threat Intelligence
+source,SbD,class,https://example.org/mod-sbd#ThreatManagementActivity,Threat Assessment and Modelling Activity
+source,SbD,class,https://example.org/mod-sbd#ThreatModelling,Threat Modelling
+source,SbD,class,https://example.org/mod-sbd#ThroughLifeManagementPlan,Through-Life Management Plan
+source,SbD,class,https://example.org/mod-sbd#Tier1Supplier,Tier 1 Supplier
+source,SbD,class,https://example.org/mod-sbd#Tier2Supplier,Tier 2 Supplier
+source,SbD,class,https://example.org/mod-sbd#Tier3Supplier,Tier 3 Supplier
+source,SbD,class,https://example.org/mod-sbd#Traceability,Traceability
+source,SbD,class,https://example.org/mod-sbd#TrainPersonnel,Train Personnel
+source,SbD,class,https://example.org/mod-sbd#TrainingEvidence,Training Record or Evidence
+source,SbD,class,https://example.org/mod-sbd#TransmissionPath,Transmission Path
+source,SbD,class,https://example.org/mod-sbd#UnderstandContext,Understand Context
+source,SbD,class,https://example.org/mod-sbd#Update,Update
+source,SbD,class,https://example.org/mod-sbd#Upgrade,Upgrade
+source,SbD,class,https://example.org/mod-sbd#Vulnerability,Vulnerability
+source,SbD,class,https://example.org/mod-sbd#VulnerabilityManagement,Vulnerability Management
+source,SbD,class,https://example.org/mod-sbd#VulnerabilityManagementActivity,Vulnerability Management Activity
+target,SORA,class,https://example.org/ontology/sora#Accreditation,Accreditation
+target,SORA,class,https://example.org/ontology/sora#ActivityType,ActivityType
+target,SORA,class,https://example.org/ontology/sora#Actor,Actor
+target,SORA,class,https://example.org/ontology/sora#ActorRole,ActorRole
+target,SORA,class,https://example.org/ontology/sora#AdverseEnvironmentalCondition,AdverseEnvironmentalCondition
+target,SORA,class,https://example.org/ontology/sora#AirworthinessDesignStandard,AirworthinessDesignStandard
+target,SORA,class,https://example.org/ontology/sora#AnalyticalAtomicObligation,AnalyticalAtomicObligation
+target,SORA,class,https://example.org/ontology/sora#AnalyticalRequirementElement,AnalyticalRequirementElement
+target,SORA,class,https://example.org/ontology/sora#ApplicabilityReference,ApplicabilityReference
+target,SORA,class,https://example.org/ontology/sora#AssessmentArtifact,AssessmentArtifact
+target,SORA,class,https://example.org/ontology/sora#AssuranceArtifact,AssuranceArtifact
+target,SORA,class,https://example.org/ontology/sora#AssuranceClaim,AssuranceClaim
+target,SORA,class,https://example.org/ontology/sora#AssuranceStatement,AssuranceStatement
+target,SORA,class,https://example.org/ontology/sora#AuditProgramme,AuditProgramme
+target,SORA,class,https://example.org/ontology/sora#C2Link,C2Link
+target,SORA,class,https://example.org/ontology/sora#C3Link,C3Link
+target,SORA,class,https://example.org/ontology/sora#Certificate,Certificate
+target,SORA,class,https://example.org/ontology/sora#Checklist,Checklist
+target,SORA,class,https://example.org/ontology/sora#CommunicationDevice,CommunicationDevice
+target,SORA,class,https://example.org/ontology/sora#CommunicationLink,CommunicationLink
+target,SORA,class,https://example.org/ontology/sora#ComputerSystem,ComputerSystem
+target,SORA,class,https://example.org/ontology/sora#ConceptOfOperations,ConceptOfOperations
+target,SORA,class,https://example.org/ontology/sora#Configuration,Configuration
+target,SORA,class,https://example.org/ontology/sora#ConformityStatus,ConformityStatus
+target,SORA,class,https://example.org/ontology/sora#ControlStation,ControlStation
+target,SORA,class,https://example.org/ontology/sora#Credential,Credential
+target,SORA,class,https://example.org/ontology/sora#Criterion,Criterion
+target,SORA,class,https://example.org/ontology/sora#CriterionType,CriterionType
+target,SORA,class,https://example.org/ontology/sora#CyberRisk,CyberRisk
+target,SORA,class,https://example.org/ontology/sora#CyberSafetyPolicy,CyberSafetyPolicy
+target,SORA,class,https://example.org/ontology/sora#CybersecurityAccreditation,CybersecurityAccreditation
+target,SORA,class,https://example.org/ontology/sora#Datalink,Datalink
+target,SORA,class,https://example.org/ontology/sora#Declaration,Declaration
+target,SORA,class,https://example.org/ontology/sora#DesignData,DesignData
+target,SORA,class,https://example.org/ontology/sora#DesignInstallationAppraisal,DesignInstallationAppraisal
+target,SORA,class,https://example.org/ontology/sora#Document,Document
+target,SORA,class,https://example.org/ontology/sora#EmergencyResponsePlan,EmergencyResponsePlan
+target,SORA,class,https://example.org/ontology/sora#EnvironmentalCondition,EnvironmentalCondition
+target,SORA,class,https://example.org/ontology/sora#Equipment,Equipment
+target,SORA,class,https://example.org/ontology/sora#EvidenceArtifact,EvidenceArtifact
+target,SORA,class,https://example.org/ontology/sora#ExternalService,ExternalService
+target,SORA,class,https://example.org/ontology/sora#ExternalSystem,ExternalSystem
+target,SORA,class,https://example.org/ontology/sora#Failure,Failure
+target,SORA,class,https://example.org/ontology/sora#FailureCondition,FailureCondition
+target,SORA,class,https://example.org/ontology/sora#FailureFrequencyCategory,FailureFrequencyCategory
+target,SORA,class,https://example.org/ontology/sora#FailureSeverityCategory,FailureSeverityCategory
+target,SORA,class,https://example.org/ontology/sora#FatigueRiskManagementSystem,FatigueRiskManagementSystem
+target,SORA,class,https://example.org/ontology/sora#Firmware,Firmware
+target,SORA,class,https://example.org/ontology/sora#FlightEnvelope,FlightEnvelope
+target,SORA,class,https://example.org/ontology/sora#FlightLog,FlightLog
+target,SORA,class,https://example.org/ontology/sora#FlightManual,FlightManual
+target,SORA,class,https://example.org/ontology/sora#FunctionalHazardAssessment,FunctionalHazardAssessment
+target,SORA,class,https://example.org/ontology/sora#GNSSSensor,GNSSSensor
+target,SORA,class,https://example.org/ontology/sora#Hardware,Hardware
+target,SORA,class,https://example.org/ontology/sora#Hazard,Hazard
+target,SORA,class,https://example.org/ontology/sora#HumanError,HumanError
+target,SORA,class,https://example.org/ontology/sora#HumanMachineInterface,HumanMachineInterface
+target,SORA,class,https://example.org/ontology/sora#ITSystem,ITSystem
+target,SORA,class,https://example.org/ontology/sora#InformationArtifact,InformationArtifact
+target,SORA,class,https://example.org/ontology/sora#Interface,Interface
+target,SORA,class,https://example.org/ontology/sora#LifecycleContext,LifecycleContext
+target,SORA,class,https://example.org/ontology/sora#Log,Log
+target,SORA,class,https://example.org/ontology/sora#LogFile,LogFile
+target,SORA,class,https://example.org/ontology/sora#MaintenanceComputer,MaintenanceComputer
+target,SORA,class,https://example.org/ontology/sora#MaintenanceLog,MaintenanceLog
+target,SORA,class,https://example.org/ontology/sora#MaintenanceProcedure,MaintenanceProcedure
+target,SORA,class,https://example.org/ontology/sora#MaintenanceProcedureManual,MaintenanceProcedureManual
+target,SORA,class,https://example.org/ontology/sora#MaintenanceProgramme,MaintenanceProgramme
+target,SORA,class,https://example.org/ontology/sora#MaintenanceRecord,MaintenanceRecord
+target,SORA,class,https://example.org/ontology/sora#ManagementSystem,ManagementSystem
+target,SORA,class,https://example.org/ontology/sora#Manual,Manual
+target,SORA,class,https://example.org/ontology/sora#Material,Material
+target,SORA,class,https://example.org/ontology/sora#MeansOfCompliance,MeansOfCompliance
+target,SORA,class,https://example.org/ontology/sora#Network,Network
+target,SORA,class,https://example.org/ontology/sora#NonObligationRequirementElement,NonObligationRequirementElement
+target,SORA,class,https://example.org/ontology/sora#NotApplicablePlaceholder,NotApplicablePlaceholder
+target,SORA,class,https://example.org/ontology/sora#OSORobustnessAssignment,OSORobustnessAssignment
+target,SORA,class,https://example.org/ontology/sora#OfficialCommitment,OfficialCommitment
+target,SORA,class,https://example.org/ontology/sora#OperationalAuthorisation,OperationalAuthorisation
+target,SORA,class,https://example.org/ontology/sora#OperationalCondition,OperationalCondition
+target,SORA,class,https://example.org/ontology/sora#OperationalContextElement,OperationalContextElement
+target,SORA,class,https://example.org/ontology/sora#OperationalProcedure,OperationalProcedure
+target,SORA,class,https://example.org/ontology/sora#OperationalSafetyObjective,OperationalSafetyObjective
+target,SORA,class,https://example.org/ontology/sora#OperationalStateType,OperationalStateType
+target,SORA,class,https://example.org/ontology/sora#OperationalVolume,OperationalVolume
+target,SORA,class,https://example.org/ontology/sora#OrganisationalArrangement,OrganisationalArrangement
+target,SORA,class,https://example.org/ontology/sora#OrganisationalCulture,OrganisationalCulture
+target,SORA,class,https://example.org/ontology/sora#Person,Person
+target,SORA,class,https://example.org/ontology/sora#Plan,Plan
+target,SORA,class,https://example.org/ontology/sora#Policy,Policy
+target,SORA,class,https://example.org/ontology/sora#Procedure,Procedure
+target,SORA,class,https://example.org/ontology/sora#QualificationCompetenceRecord,QualificationCompetenceRecord
+target,SORA,class,https://example.org/ontology/sora#RFSpectrum,RFSpectrum
+target,SORA,class,https://example.org/ontology/sora#Record,Record
+target,SORA,class,https://example.org/ontology/sora#RemotePilotStation,RemotePilotStation
+target,SORA,class,https://example.org/ontology/sora#RemovableMedia,RemovableMedia
+target,SORA,class,https://example.org/ontology/sora#RequirementClassification,RequirementClassification
+target,SORA,class,https://example.org/ontology/sora#RiskAndThreatConcept,RiskAndThreatConcept
+target,SORA,class,https://example.org/ontology/sora#RiskManagementProgramme,RiskManagementProgramme
+target,SORA,class,https://example.org/ontology/sora#RobustnessLevel,RobustnessLevel
+target,SORA,class,https://example.org/ontology/sora#SAILLevel,SAILLevel
+target,SORA,class,https://example.org/ontology/sora#SORAConcept,SORAConcept
+target,SORA,class,https://example.org/ontology/sora#SORARequirement,SORARequirement
+target,SORA,class,https://example.org/ontology/sora#SORARequirementElement,SORARequirementElement
+target,SORA,class,https://example.org/ontology/sora#SafetyAssessment,SafetyAssessment
+target,SORA,class,https://example.org/ontology/sora#SafetyCriticalData,SafetyCriticalData
+target,SORA,class,https://example.org/ontology/sora#SafetyManagementSystem,SafetyManagementSystem
+target,SORA,class,https://example.org/ontology/sora#SafetyObjective,SafetyObjective
+target,SORA,class,https://example.org/ontology/sora#SafetyRisk,SafetyRisk
+target,SORA,class,https://example.org/ontology/sora#SecurityAndSafetyConcept,SecurityAndSafetyConcept
+target,SORA,class,https://example.org/ontology/sora#SecurityEventType,SecurityEventType
+target,SORA,class,https://example.org/ontology/sora#SecurityFunction,SecurityFunction
+target,SORA,class,https://example.org/ontology/sora#SecurityMechanism,SecurityMechanism
+target,SORA,class,https://example.org/ontology/sora#SecurityPrincipleOrPractice,SecurityPrincipleOrPractice
+target,SORA,class,https://example.org/ontology/sora#SecurityProperty,SecurityProperty
+target,SORA,class,https://example.org/ontology/sora#Sensor,Sensor
+target,SORA,class,https://example.org/ontology/sora#ServiceLevelAgreement,ServiceLevelAgreement
+target,SORA,class,https://example.org/ontology/sora#Software,Software
+target,SORA,class,https://example.org/ontology/sora#SourceDocument,SourceDocument
+target,SORA,class,https://example.org/ontology/sora#TechnicalAsset,TechnicalAsset
+target,SORA,class,https://example.org/ontology/sora#ThreatType,ThreatType
+target,SORA,class,https://example.org/ontology/sora#Tool,Tool
+target,SORA,class,https://example.org/ontology/sora#TrainingProgramme,TrainingProgramme
+target,SORA,class,https://example.org/ontology/sora#TrainingRecord,TrainingRecord
+target,SORA,class,https://example.org/ontology/sora#TrainingSyllabus,TrainingSyllabus
+target,SORA,class,https://example.org/ontology/sora#UAS,UAS
+target,SORA,class,https://example.org/ontology/sora#UnmannedAircraft,UnmannedAircraft

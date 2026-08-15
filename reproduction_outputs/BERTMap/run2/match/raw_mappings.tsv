@@ -1,0 +1,11 @@
+SrcEntity	TgtEntity	Score
+https://example.org/mod-sbd#Activity	https://example.org/ontology/sora#Activity	1.0
+https://example.org/mod-sbd#Component	https://example.org/ontology/sora#Component	1.0
+https://example.org/mod-sbd#CyberRisk	https://example.org/ontology/sora#CyberRisk	0.9615933895111084
+https://example.org/mod-sbd#Data	https://example.org/ontology/sora#Data	1.0
+https://example.org/mod-sbd#Organisation	https://example.org/ontology/sora#Organisation	1.0
+https://example.org/mod-sbd#Programme	https://example.org/ontology/sora#Programme	1.0
+https://example.org/mod-sbd#Risk	https://example.org/ontology/sora#Risk	1.0
+https://example.org/mod-sbd#Service	https://example.org/ontology/sora#Service	1.0
+https://example.org/mod-sbd#Standard	https://example.org/ontology/sora#Standard	1.0
+https://example.org/mod-sbd#System	https://example.org/ontology/sora#System	1.0

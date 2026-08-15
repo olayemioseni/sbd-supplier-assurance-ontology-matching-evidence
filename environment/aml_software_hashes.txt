@@ -1,0 +1,2 @@
+a5b831a6c000e49aa4702b16486dabdf38e40bb68203a16a8019414fecc2ecf3  AgreementMakerLight.jar
+e8cfcdffdb0b05d4431ed1fb9cd89e2c69bf6878daf2bf181d306c6afc8abc32  store/config.ini

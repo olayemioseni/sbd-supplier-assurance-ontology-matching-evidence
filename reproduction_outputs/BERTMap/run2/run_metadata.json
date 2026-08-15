@@ -1,0 +1,31 @@
+{
+  "run_number": 2,
+  "seed": 889,
+  "runtime_seconds": 1287.067,
+  "model": "bertmap",
+  "pretrained_model": "emilyalsentzer/Bio_ClinicalBERT",
+  "known_mappings": null,
+  "reasoner": "ELK",
+  "annotation_properties": [
+    "http://www.w3.org/2000/01/rdf-schema#label",
+    "http://www.geneontology.org/formats/oboInOwl#hasSynonym",
+    "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+    "http://www.w3.org/2004/02/skos/core#exactMatch",
+    "http://www.ebi.ac.uk/efo/alternative_term",
+    "http://www.orpha.net/ORDO/Orphanet_#symbol",
+    "http://purl.org/sig/ont/fma/synonym",
+    "http://www.w3.org/2004/02/skos/core#prefLabel",
+    "http://www.w3.org/2004/02/skos/core#altLabel",
+    "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#P108",
+    "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#P90",
+    "http://www.w3.org/2000/01/rdf-schema#comment"
+  ],
+  "logmap_repair_completed": false,
+  "evaluated_output": "filtered_mappings.tsv",
+  "raw_mapping_count": 10,
+  "extended_mapping_count": 10,
+  "filtered_mapping_count": 9,
+  "best_checkpoint": "checkpoint-440",
+  "filtered_mappings_sha256": "d79cd720f7924f31ec6be2c3da90097b4068289e027be6a7806cb5c7d823ac51",
+  "model_sha256": "6fbd6dc1d48420235070d7aded8aabe3974e28fd88998b91b55cb8788d09bcf2"
+}

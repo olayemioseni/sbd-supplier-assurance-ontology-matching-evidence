@@ -1,0 +1,4 @@
+matcher,mapping_count,mean_confidence,sample_sd,minimum_confidence,maximum_confidence
+LogMap,21,0.744286,0.167707,0.5,1.06
+AML,42,0.855143,0.14669,0.6047,1.0
+BERTMap,9,1.0,0.0,1.0,1.0

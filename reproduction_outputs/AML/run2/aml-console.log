@@ -1,0 +1,57 @@
+Loading source ontology
+https://example.org/mod-sbd loaded in 1 seconds
+Classes: 257
+Individuals: 285
+Properties: 70
+Loading target ontology
+https://example.org/ontology/sora loaded in 1 seconds
+Classes: 136
+Individuals: 864
+Properties: 48
+Direct Relationships: 380
+Running transitive closure on RelationshipMap
+Transitive closure finished in 0 seconds
+Extended Relationships: 899
+Disjoints: 3
+Reading config.ini file
+Finished!
+Running Background Knowledge Matcher
+Running Lexical Matcher
+Finished in 0 seconds
+Testing doid.owl
+http://purl.obolibrary.org/obo/doid.owl loaded in 7 seconds
+Running Mediating Cross-Reference Matcher using http://purl.obolibrary.org/obo/doid.owl
+Finished in 0 seconds
+Testing uberon.owl
+http://purl.obolibrary.org/obo/uberon.owl loaded in 15 seconds
+Running Mediating Cross-Reference Matcher using http://purl.obolibrary.org/obo/uberon.owl
+Finished in 0 seconds
+Sorting and selecting background knowledge sources
+Finished in 15 seconds
+Building Word Lexicons
+Running Word Matcher
+Blocks to match: 1x1
+.
+Finished in 0 seconds
+Extending Alignment with String Matcher
+Matching Children & Parents
+Matching Siblings
+Finished in 0 seconds
+Extending Alignment with Neighbor Similarity Matcher
+Finished in 0 seconds
+Running Hybrid String Matcher
+Finished in 0 seconds
+Running Hybrid String Matcher
+Finished in 2 seconds
+Performing Selection
+Finished in 0 seconds
+Building Repair Map
+Computed check list in 0 seconds
+Core fragments: 52 classes
+Check list: 6 classes to check
+Computed ancestral paths in 0 seconds
+Paths to process: 0
+Computed minimal conflict sets in 0 seconds
+Sets of conflicting mappings: 0
+Repair Map finished in 0 seconds
+Alignment is coherent

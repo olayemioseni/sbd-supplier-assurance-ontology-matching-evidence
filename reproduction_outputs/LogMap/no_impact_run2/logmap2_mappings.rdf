@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<Alignment>
+<xml>yes</xml>
+<level>0</level>
+<type>??</type>
+<onto1>Optional.of(https://example.org/mod-sbd)</onto1>
+<onto2>Optional.of(https://example.org/mod-sbd)</onto2>
+<uri1>Optional.of(https://example.org/mod-sbd)</uri1>
+<uri2>Optional.of(https://example.org/mod-sbd)</uri2>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://example.org/mod-sbd#Component"/>
+		<entity2 rdf:resource="https://example.org/ontology/sora#Component"/>
+		<measure rdf:datatype="xsd:float">0.72</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://example.org/mod-sbd#SecurityMechanism"/>
+		<entity2 rdf:resource="https://example.org/ontology/sora#SecurityMechanism"/>
+		<measure rdf:datatype="xsd:float">0.6</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://example.org/mod-sbd#CyberRisk"/>
+		<entity2 rdf:resource="https://example.org/ontology/sora#CyberRisk"/>
+		<measure rdf:datatype="xsd:float">1.06</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://example.org/mod-sbd#Service"/>
+		<entity2 rdf:resource="https://example.org/ontology/sora#Service"/>
+		<measure rdf:datatype="xsd:float">0.5</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://example.org/mod-sbd#Data"/>
+		<entity2 rdf:resource="https://example.org/ontology/sora#Data"/>
+		<measure rdf:datatype="xsd:float">0.76</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://example.org/mod-sbd#InformationArtifact"/>
+		<entity2 rdf:resource="https://example.org/ontology/sora#InformationArtifact"/>
+		<measure rdf:datatype="xsd:float">0.81</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://example.org/mod-sbd#HumanError"/>
+		<entity2 rdf:resource="https://example.org/ontology/sora#HumanError"/>
+		<measure rdf:datatype="xsd:float">0.92</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://example.org/mod-sbd#SecurityPrincipleOrPractice"/>
+		<entity2 rdf:resource="https://example.org/ontology/sora#SecurityPrincipleOrPractice"/>
+		<measure rdf:datatype="xsd:float">0.6</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://example.org/mod-sbd#Standard"/>
+		<entity2 rdf:resource="https://example.org/ontology/sora#Standard"/>
+		<measure rdf:datatype="xsd:float">0.77</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://example.org/mod-sbd#Programme"/>
+		<entity2 rdf:resource="https://example.org/ontology/sora#Programme"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://example.org/mod-sbd#System"/>
+		<entity2 rdf:resource="https://example.org/ontology/sora#System"/>
+		<measure rdf:datatype="xsd:float">0.74</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://example.org/mod-sbd#Activity"/>
+		<entity2 rdf:resource="https://example.org/ontology/sora#Activity"/>
+		<measure rdf:datatype="xsd:float">0.5</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://example.org/mod-sbd#LifecycleContext"/>
+		<entity2 rdf:resource="https://example.org/ontology/sora#LifecycleContext"/>
+		<measure rdf:datatype="xsd:float">0.85</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://example.org/mod-sbd#Risk"/>
+		<entity2 rdf:resource="https://example.org/ontology/sora#Risk"/>
+		<measure rdf:datatype="xsd:float">0.81</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://example.org/mod-sbd#SecurityPlan"/>
+		<entity2 rdf:resource="https://example.org/ontology/sora#Plan"/>
+		<measure rdf:datatype="xsd:float">0.51</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://example.org/mod-sbd#SecurityProperty"/>
+		<entity2 rdf:resource="https://example.org/ontology/sora#SecurityProperty"/>
+		<measure rdf:datatype="xsd:float">0.6</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://example.org/mod-sbd#Organisation"/>
+		<entity2 rdf:resource="https://example.org/ontology/sora#Organisation"/>
+		<measure rdf:datatype="xsd:float">0.5</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://example.org/mod-sbd#DSTL-SbD07-Criterion_02"/>
+		<entity2 rdf:resource="https://example.org/ontology/sora#Report"/>
+		<measure rdf:datatype="xsd:float">0.88</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://example.org/mod-sbd#DSTL-SbD03-Criterion_01"/>
+		<entity2 rdf:resource="https://example.org/ontology/sora#CY-OSO01-I-Criterion_04"/>
+		<measure rdf:datatype="xsd:float">0.85</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://example.org/mod-sbd#DSTL-SbD05-Criterion_02"/>
+		<entity2 rdf:resource="https://example.org/ontology/sora#CY-OSO03-I-Criterion_02"/>
+		<measure rdf:datatype="xsd:float">0.95</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="https://example.org/mod-sbd#DSTL-SbD05-Criterion_01"/>
+		<entity2 rdf:resource="https://example.org/ontology/sora#CY-OSO03-I-Criterion_02"/>
+		<measure rdf:datatype="xsd:float">0.95</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+</Alignment>
+</rdf:RDF>
